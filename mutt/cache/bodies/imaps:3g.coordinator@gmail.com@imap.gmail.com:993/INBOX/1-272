@@ -1,0 +1,206 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp60526wjy;
+        Fri, 1 Nov 2013 16:59:01 -0700 (PDT)
+X-Received: by 10.66.149.73 with SMTP id ty9mr5510191pab.36.1383350340049;
+        Fri, 01 Nov 2013 16:59:00 -0700 (PDT)
+Return-Path: <teamromama@gmail.com>
+Received: from mail-pd0-x231.google.com (mail-pd0-x231.google.com [2607:f8b0:400e:c02::231])
+        by mx.google.com with ESMTPS id ph6si5656233pbb.127.2013.11.01.16.58.58
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 01 Nov 2013 16:58:59 -0700 (PDT)
+Received-SPF: pass (google.com: domain of teamromama@gmail.com designates 2607:f8b0:400e:c02::231 as permitted sender) client-ip=2607:f8b0:400e:c02::231;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of teamromama@gmail.com designates 2607:f8b0:400e:c02::231 as permitted sender) smtp.mail=teamromama@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x231.google.com with SMTP id p10so4460738pdj.36
+        for <3g.coordinator@gmail.com>; Fri, 01 Nov 2013 16:58:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=EsO1fSDOoRDwPjOequqFssNZ5kNwZ8Ct8RhcwPFKVsI=;
+        b=N/v5l3Wqd99oIL1TJUd35SW9FZAN4LWUQzzcH39jEAFNj2azrTvd1gk3nK87Lo7DYo
+         2ofOwg/GDtp9G5WfVChFBFSUx/gj86inZCIjLPfyCQqNGhmarlqSizS8sNj61+KIk/zG
+         etymoVpW1OFUntjrNC4wU43M4uBuIbsvqG25m61H807rf24deFzTDIV0G/UuCIL72pV+
+         gaW+8QOW9f3lZInvDubSASYRws55oWQ5DdXUciv8nNJQWgBVGYbcYMK7Od3Q/GITz367
+         TCAdzqaJKtVbQ0wYKALruEGWLT6X0a6H0kK9bE3cYltgCDgJituBkwYkIpR1hKZ4b2YK
+         QLhw==
+X-Received: by 10.68.202.38 with SMTP id kf6mr5634953pbc.43.1383350337967;
+        Fri, 01 Nov 2013 16:58:57 -0700 (PDT)
+Return-Path: <teamromama@gmail.com>
+Received: from [10.0.0.3] (50-54-212-37.evrt.wa.frontiernet.net. [50.54.212.37])
+        by mx.google.com with ESMTPSA id fk4sm15839662pab.23.2013.11.01.16.58.53
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 01 Nov 2013 16:58:54 -0700 (PDT)
+Subject: Re: Sunfield Expenses
+References: <20131028173916.GH7375@gmail.com> <91311462f6a941bab244c6bca1867084@BN1PR05MB359.namprd05.prod.outlook.com>
+From: Rachel Rodriguez <teamromama@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-9F873A9B-E800-44F7-BF99-26E0FFABBEBA
+X-Mailer: iPhone Mail (11B511)
+In-Reply-To: <91311462f6a941bab244c6bca1867084@BN1PR05MB359.namprd05.prod.outlook.com>
+Message-Id: <6D42C3CE-D7EC-4712-B3D6-0530C67760C5@gmail.com>
+Date: Fri, 1 Nov 2013 16:58:34 -0700
+To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+
+--Apple-Mail-9F873A9B-E800-44F7-BF99-26E0FFABBEBA
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Scott,
+
+Do you know what I paid in?  More than $25? Or do I owe?
+
+Thanks,
+
+Rachel
+
+Sent from my iPhone
+
+> On Oct 31, 2013, at 3:38 PM, School Office <schooloffice@threecedarswaldor=
+f.org> wrote:
+>=20
+> Please find below a message from your class coordinators. Replies may be d=
+irected to 3g.coordinator@gmail.com.
+> =20
+> =20
+> Dear Third Grade Parents,
+> I mentioned a few weeks ago costs incurred by some parents in preparation f=
+or the trip to Sunfield. There has been some churn on the real total in the l=
+ast two weeks, but now we have that information.
+> =20
+> Ferry                     $145.50
+> Gas                        $92.22
+> Trip Supplies*            $274.49
+> Subtotal:                 $512.21
+> =20
+> Transportation Allowance  -100.00
+> Total:                    $412.21
+> =20
+> * Supplies for Sunfield: fire wood, propane, plastic bags, etc. Other supp=
+lies were also
+>   purchased that would be used to create an emergency kit for this and oth=
+er trips.
+> =20
+> This comes to a cost of $25 per family, except for the Mantis-Hanacek fami=
+ly, whose share is only $12 for the future trip supplies, since Joseph didn'=
+t go.
+> =20
+> There is an envelope in the inbox marked 'Sunfield Checks'. Please drop of=
+f a check for the amount indicated, payable to Scott Stanley, by Wednesday, N=
+ovember 6 so we can redistribute the money to the appropriate parents. I wou=
+ld appreciate very much your promptness in this matter so as to get these pa=
+rents reimbursed ASAP.
+> =20
+> Please feel free to call me if you have any questions, and have a great we=
+ek!
+> =20
+> =20
+> Scott and Sanae Stanley | Grade Three Class Coordinators
+
+--Apple-Mail-9F873A9B-E800-44F7-BF99-26E0FFABBEBA
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Scott,</div><div><br></div><div>Do you know what I paid in? &nbsp;More than $25? Or do I owe?</div><div><br></div><div>Thanks,</div><div><br></div><div>Rachel<br><br>Sent from my iPhone</div><div><br>On Oct 31, 2013, at 3:38 PM, School Office &lt;<a href="mailto:schooloffice@threecedarswaldorf.org">schooloffice@threecedarswaldorf.org</a>&gt; wrote:<br><br></div><blockquote type="cite"><div>
+
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+
+
+<div class="WordSection1">
+<p class="MsoPlainText"><i>Please find below a message from your class coordinators. Replies may be directed to
+<a href="mailto:3g.coordinator@gmail.com">3g.coordinator@gmail.com</a>.<o:p></o:p></i></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<div class="MsoPlainText" align="center" style="text-align:center">
+<hr size="2" width="100%" align="center">
+</div>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Dear Third Grade Parents,<o:p></o:p></p>
+<p class="MsoPlainText">I mentioned a few weeks ago costs incurred by some parents in preparation for the trip to Sunfield. There has been some churn on the real total in the last two weeks, but now we have that information.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Ferry&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $145.50<o:p></o:p></p>
+<p class="MsoPlainText">Gas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$92.22<o:p></o:p></p>
+<p class="MsoPlainText">Trip Supplies*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $274.49<o:p></o:p></p>
+<p class="MsoPlainText">Subtotal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $512.21<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Transportation Allowance&nbsp; -100.00<o:p></o:p></p>
+<p class="MsoPlainText">Total:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $412.21<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">* Supplies for Sunfield: fire wood, propane, plastic bags, etc. Other supplies were also<o:p></o:p></p>
+<p class="MsoPlainText">&nbsp; purchased that would be used to create an emergency kit for this and other trips.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">This comes to a cost of $25 per family, except for the Mantis-Hanacek family, whose share is only $12 for the future trip supplies, since Joseph didn't go.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">There is an envelope in the inbox marked 'Sunfield Checks'. Please drop off a check for the amount indicated, payable to Scott Stanley, by Wednesday, November 6 so we can redistribute the money to the appropriate parents. I would appreciate
+ very much your promptness in this matter so as to get these parents reimbursed ASAP.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Please feel free to call me if you have any questions, and have a great week!<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Scott and Sanae Stanley | Grade Three Class Coordinators<o:p></o:p></p>
+</div>
+
+
+</div></blockquote></body></html>
+--Apple-Mail-9F873A9B-E800-44F7-BF99-26E0FFABBEBA--

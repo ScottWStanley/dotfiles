@@ -1,0 +1,96 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp84011wjy;
+        Wed, 2 Oct 2013 09:01:34 -0700 (PDT)
+X-Received: by 10.66.169.172 with SMTP id af12mr4112002pac.23.1380729693731;
+        Wed, 02 Oct 2013 09:01:33 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received: from mail-pd0-x234.google.com (mail-pd0-x234.google.com [2607:f8b0:400e:c02::234])
+        by mx.google.com with ESMTPS id ds3si1707762pbb.349.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 02 Oct 2013 09:01:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of l2e2knit@gmail.com designates 2607:f8b0:400e:c02::234 as permitted sender) client-ip=2607:f8b0:400e:c02::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of l2e2knit@gmail.com designates 2607:f8b0:400e:c02::234 as permitted sender) smtp.mail=l2e2knit@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x234.google.com with SMTP id y10so1068956pdj.39
+        for <multiple recipients>; Wed, 02 Oct 2013 09:01:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:mime-version:subject:from:in-reply-to:date:cc
+         :content-transfer-encoding:message-id:references:to;
+        bh=1cP68j4yfdiW3UVqP1C/ckGGfn1i1oX+1/ytVVDYu5E=;
+        b=EFJ3EDpiLxBxEg7ZdYIcZyz6SVchl8/moN7d9fiUOxZzKUYStE6NkARmQDvUIUsQ/n
+         bttWOsZiUF+GMLrchm6F2IwawMHCGz1QOceoHWHHlqEA0O1iFLviR8RoYNAcCE7MfkdR
+         i9ThTnjsbycERDSAevylusEaD8B+gn2o0iPI4EWS5M4R5tYXurDoV5N0w67Pty/Ed1LU
+         sEYGswKfsVGifRKW/dxU1kFrL6flgIC+0wrJdjKEOqB08ZiLC4DI6kf+5Z/TwfLXq972
+         M5lHL0sQRgnL1DjPGA+7DPU9lS9uIpo7VOjH8oyIDR9H2iSnkee5EsJfuMa9WdJgdSVx
+         IMDg==
+X-Received: by 10.68.114.36 with SMTP id jd4mr3345717pbb.31.1380729692291;
+        Wed, 02 Oct 2013 09:01:32 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received: from [10.0.0.60] (50-46-116-109.evrt.wa.frontiernet.net. [50.46.116.109])
+        by mx.google.com with ESMTPSA id xe9sm4371216pab.0.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 02 Oct 2013 09:01:31 -0700 (PDT)
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+Subject: Re: Gregory's sleeping gear
+From: Lydia Lee <l2e2knit@gmail.com>
+In-Reply-To: <20131002141736.GE3536@gmail.com>
+Date: Wed, 2 Oct 2013 09:01:31 -0700
+Cc: Scott and Sanae Stanley <3g.coordinator@gmail.com>,
+ Alex K Lee <mr.alex.k.lee@gmail.com>,
+ Mary Spurgin <mspurgin@threecedarswaldorf.org>
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <A7E75238-547B-4966-95D6-4A36027FB5FC@gmail.com>
+References: <06835EFB-9AAC-496B-A172-C536C239B7A2@gmail.com> <20131002141736.GE3536@gmail.com>
+To: "<jared.parker@live.com>" <jared.parker@live.com>
+X-Mailer: Apple Mail (2.1510)
+
+I've slightly changed the extra PJs scenario.  Since Gregory doesn't =
+normally like PJs (too confining and too warm, I think), I've put one =
+pair of PJs in for him and told him if he wets, he can put on sweatpants =
+and any t-shirt and underwear, besides these will be looser, easier and =
+faster to put on in the middle of the night.
+
+There is a plastic bag in with the sleeping bag for a wet sleeping bag =
+insert, and there are a couple of plastic bags in with the clothes in =
+case of wet sleeping clothes.
+
+He'll definitely need to go to the bathroom in the middle of the night =
+(11:30/12:00), as he's been wetting the bed lately; it may be he's =
+worried about the trip and isn't saying so.  Maybe bring some medical =
+gloves so you don't have to deal with touching the wet stuff??  I'm =
+sorry!!  And we really appreciate your help!=20
+
+His eyeglass case is in a gallon Ziploc bag in duffle for his clothes.
+
+Thank you,
+
+Lydia
+
+
+
+On Oct 2, 2013, at 7:17 AM, Scott and Sanae Stanley =
+<3g.coordinator@gmail.com> wrote:
+
+> Noted; thanks for the extra prep Lydia. I've also forwarded this to =
+Jared, who will be in Gregory's tent.
+>=20
+> -Scott
+>=20
+> On Tue, Oct 01, 2013 at 09:58:58PM -0700, Lydia Lee wrote:
+>> Hi Scott and Sanae,
+>>=20
+>> I am packing two sleeping bag liners in the event of bedwetting; I've =
+already inserted one into his sleeping bag (and had him try it out), and =
+have left it there so it's ready to sleep in.  It doesn't fasten to the =
+sleeping bag, but rather is just inserted.  One side is the bottom that =
+goes underneath him and the other, thinner side is the top.  I will =
+include a plastic bag to put one into in the event of bedwetting.  There =
+will also be extra set of PJs and underwear for him.
+>>=20
+>> Thank you,
+>> Lydia
+

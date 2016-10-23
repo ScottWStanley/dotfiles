@@ -1,0 +1,92 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp15512wjy;
+        Sat, 28 Sep 2013 17:48:52 -0700 (PDT)
+X-Received: by 10.68.88.161 with SMTP id bh1mr15619488pbb.49.1380415731342;
+        Sat, 28 Sep 2013 17:48:51 -0700 (PDT)
+Return-Path: <teamromama@gmail.com>
+Received: from mail-pb0-x233.google.com (mail-pb0-x233.google.com [2607:f8b0:400e:c01::233])
+        by mx.google.com with ESMTPS id ws5si14797829pab.35.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 28 Sep 2013 17:48:51 -0700 (PDT)
+Received-SPF: pass (google.com: domain of teamromama@gmail.com designates 2607:f8b0:400e:c01::233 as permitted sender) client-ip=2607:f8b0:400e:c01::233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of teamromama@gmail.com designates 2607:f8b0:400e:c01::233 as permitted sender) smtp.mail=teamromama@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pb0-x233.google.com with SMTP id jt11so4030886pbb.38
+        for <3g.coordinator@gmail.com>; Sat, 28 Sep 2013 17:48:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=U0kuwaRGxDMUM0uA2MzEs99Y7yNKfvacItKNR+QwiIo=;
+        b=afe2/FmFKNoTQYOyxWzLW3N0IiQ1828gPSSg8d2ZeNDappB48GIqHCZkk0g2MrmZr4
+         Gdo2g3MjUFC4GrVJQRvyr7Jy/M+xakph3tB1n65vyEyEIhJYL9cdTpGQNGiihpkmHtRf
+         JVeszYgLM1s1fJkxBSLa2p8ORgGfNXG5YTLLF57J1JdUhS7hpnwWfZnqwPjbXCLQrQqq
+         gnONmI0HTPxQnY1FojZn+zL/QjXNC3OHywe8bIzSAYMxc08oJrRnX9IVngek9u4onhqS
+         SKSi2WdkwoEHVXIsW36JtHTj/BBcw1zxQ4YkOVferM3R1HSlQCzRh2v4lX2K1OxkUSta
+         lgFg==
+X-Received: by 10.68.129.99 with SMTP id nv3mr15862245pbb.40.1380415730597;
+        Sat, 28 Sep 2013 17:48:50 -0700 (PDT)
+Return-Path: <teamromama@gmail.com>
+Received: from [192.168.0.100] (50-54-212-37.evrt.wa.frontiernet.net. [50.54.212.37])
+        by mx.google.com with ESMTPSA id fa4sm22536045pab.17.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 28 Sep 2013 17:48:48 -0700 (PDT)
+Subject: Re: Erroneous Sunfield Email
+References: <CALT4reeRY5SeCYBC-q3CiysXnqjscUL2tUje6iN06jQUW5VbbQ@mail.gmail.com> <CADsFO5osArVXD6-tDHCnOHq_jAxntgV0JC-oZCnZSC959b-czg@mail.gmail.com> <20130925192401.GA27196@gmail.com>
+From: Rachel Rodriguez <teamromama@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPhone Mail (11A465)
+In-Reply-To: <20130925192401.GA27196@gmail.com>
+Message-Id: <6706294A-B9E1-4BA7-BDE2-1C66B19B8DF6@gmail.com>
+Date: Sat, 28 Sep 2013 17:48:50 -0700
+To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+I have all but still need two more cutting boards two spatulas and one more s=
+killet.  Rheanne is helping me with firewood.  Have all the rest on my list
+
+Sent from my iPhone
+
+> On Sep 25, 2013, at 12:24 PM, Scott and Sanae Stanley <3g.coordinator@gmai=
+l.com> wrote:
+>=20
+> Hi Rachel,
+> See below; thanks for your help!
+>=20
+> -Scott
+>=20
+>> On Wed, Sep 25, 2013 at 11:19:27AM -0700, Rachel Rodriguez wrote:
+>> Scott and Sanae,
+>>=20
+>> I can bring a tent that two or three kids and I could fit in.  Its not a
+>> five person tent.  I would need a tarp though.  I could get one or borrow=
+
+>> one.
+>=20
+> We have enough tents now.
+>=20
+>> I signed up to bring dish soap, rags, towels, salad bowl, fire wood,
+>> matches, first aid kit, one extra blanket and two extra sleeping bags,
+>> water 5 gallons, tea, insect repellent, gave Corey a cooler already.
+>=20
+> Thank you.
+>=20
+>> I can bring a two burner camp stove with propane.
+>=20
+> This helps a lot.
+>=20
+>> What am I supposed to bring for kitchen supplies?
+>=20
+> Let's say we need:
+>  3 knives/cutting boards for children to chop with
+>  2 spatulas/skillets for scrambled eggs
+>  2 pans or pots for boiling water
+>=20
+> I'll see what Sanae wants to contribute to this tonight. I don't have Lisa=
+'s list in front of me, can you think of any other cooking needs based on wh=
+at we're having?
+>=20

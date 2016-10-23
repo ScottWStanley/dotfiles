@@ -1,0 +1,58 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp52003wjy;
+        Tue, 1 Oct 2013 21:59:01 -0700 (PDT)
+X-Received: by 10.66.26.194 with SMTP id n2mr1014928pag.151.1380689940828;
+        Tue, 01 Oct 2013 21:59:00 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received: from mail-pa0-x22d.google.com (mail-pa0-x22d.google.com [2607:f8b0:400e:c03::22d])
+        by mx.google.com with ESMTPS id kk1si7351908pbc.184.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 01 Oct 2013 21:59:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of l2e2knit@gmail.com designates 2607:f8b0:400e:c03::22d as permitted sender) client-ip=2607:f8b0:400e:c03::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of l2e2knit@gmail.com designates 2607:f8b0:400e:c03::22d as permitted sender) smtp.mail=l2e2knit@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-f45.google.com with SMTP id rd3so516502pab.4
+        for <3g.coordinator@gmail.com>; Tue, 01 Oct 2013 21:59:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-type:content-transfer-encoding:subject:date:message-id
+         :cc:to:mime-version;
+        bh=go4Fe30foB97F6Ahy4AuF2vAclRLVYvf1YuqHwHiq/A=;
+        b=ldwjPjmV/3OMZKk0wB89Mbwil8HtlHJOCRF8NLJldzmMN0gv3E80wVh1ntzXOp9y3O
+         /9NZc4e7oHHryxoPij8JGd0BecIZI5A8fEGyFogyUMqu+y2TGP5j3IBpbGn8RhZpi15Y
+         WaEJYQgVU/Iio3doqidfKhaoY3hibsE49eA1++36/AcjQo3H6YLtt/o9F4qEHTyzpE0a
+         Ig/MdOMpQRAJb3fWhxeEkcxTYC/kc4N79xNi9sFxcuoK5UQsUsGGLklGJv1kZQejs49L
+         hYHN70ThnrB01yHLV29Yrsl8vPb5n4EE5zS7GB1dYZGJlEe/vyeoj9UnACa5kqgizyE8
+         J11w==
+X-Received: by 10.66.158.196 with SMTP id ww4mr1068346pab.57.1380689940209;
+        Tue, 01 Oct 2013 21:59:00 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received: from [10.0.0.60] (50-46-116-109.evrt.wa.frontiernet.net. [50.46.116.109])
+        by mx.google.com with ESMTPSA id og5sm10379975pbb.10.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 01 Oct 2013 21:58:59 -0700 (PDT)
+From: Lydia Lee <l2e2knit@gmail.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Subject: Gregory's sleeping gear
+Date: Tue, 1 Oct 2013 21:58:58 -0700
+Message-Id: <06835EFB-9AAC-496B-A172-C536C239B7A2@gmail.com>
+Cc: Mary Spurgin <mspurgin@threecedarswaldorf.org>
+To: S Stanley <3g.coordinator@gmail.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+X-Mailer: Apple Mail (2.1510)
+
+Hi Scott and Sanae,
+
+I am packing two sleeping bag liners in the event of bedwetting; I've =
+already inserted one into his sleeping bag (and had him try it out), and =
+have left it there so it's ready to sleep in.  It doesn't fasten to the =
+sleeping bag, but rather is just inserted.  One side is the bottom that =
+goes underneath him and the other, thinner side is the top.  I will =
+include a plastic bag to put one into in the event of bedwetting.  There =
+will also be extra set of PJs and underwear for him.
+
+Thank you,
+Lydia=

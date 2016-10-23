@@ -1,0 +1,80 @@
+#-----------------------------------------
+# ~/.mutt/muttrc settings for mutt 1.5.20
+# Process the password file first
+#-----------------------------------------
+#set my_tmp=`gpg -o ~/.tmp -d ~/.remember.gpg`
+#set my_pass1=`awk '/mutt amorphous/ {print $3}' ~/.secret/.tmp`
+#set my_pass2=`awk '/mutt 3g.coordinator/ {print $3}' ~/.secret/.tmp`
+#set my_del=`rm -f ~/.secret/.tmp`
+# Try it my own way first
+set my_pass1=`gpg -d .remember.gpg | awk '/mutt amorphous/ {print $3}'`
+set my_pass2=`gpg -d .remember.gpg | awk '/mutt 3g.coordinator/ {print $3}'`
+#
+#-------------------------------------
+# Account Hooks
+#-------------------------------------
+account-hook . 'unset imap_user imap_pass' # unset first!
+account-hook 'imaps://amorphous.yet.not@imap.gmail.com/' "\
+              set imap_user=amorphous.yet.not imap_pass=$my_pass1 "
+account-hook 'imaps://3g.coordinator@imap.gmail.com/' "\
+              set imap_user=3g.coordinator imap_pass=$my_pass2 "
+#
+#-------------------------------------
+# Folders, mailboxes and folder hooks
+#-------------------------------------
+# Setup for amorphous.yet.not:
+set folder="imaps://amorphous.yet.not@imap.gmail.com/"
+mailboxes =INBOX =[Gmail]/Drafts =[Gmail]/'Sent Mail' =[Gmail]/Spam \
+          =[Gmail]/Hold
+folder-hook 'imaps://amorphous.yet.not@imap.gmail.com' " \
+        set     folder=imaps://amorphous.yet.not@imap.gmail.com/ \
+                postponed=+[Gmail]/Drafts \
+                record=+[Gmail]/'Sent Mail' \
+                smtp_url=smtps://amorphous.yet.not@smtp.gmail.com \
+                smtp_pass=$my_pass1 \
+                signature=~/.mutt/amorphous.yet.not.sig \
+                from='User One <amorphous.yet.not@gmail.com> ' \
+                realname='User One' "
+#
+# Setup for 3g.coordinator:
+set folder="imaps://3g.coordinator@imap.gmail.com/"
+mailboxes =INBOX =[Gmail]/Drafts =[Gmail]/'Sent Mail' =[Gmail]/Spam
+folder-hook 'imaps://3g.coordinator@imap.gmail.com' " \
+        set     folder=imaps://3g.coordinator@imap.gmail.com/ \
+                postponed=+[Gmail]/Drafts \
+                record=+[Gmail]/'Sent Mail' \
+                smtp_url=smtps://3g.coordinator@smtp.gmail.com \
+                smtp_pass=$my_pass2 \
+                signature=~/.mutt/3g.coordinator.sig \
+                from='User Two <3g.coordinator@gmail.com> ' \
+                realname='User Two' "
+#
+#-------------------------------------
+# Macros to make life easier
+#-------------------------------------
+macro index <esc>1 "y1<return><return>" # ESC+1 takes to first INBOX
+macro index <esc>2 "y5<return><return>" # ESC+2 takes to the second
+#
+#-------------------------------------
+# Mail-check preferences
+#-------------------------------------
+set timeout=60	#Check for mail every minute
+set mail_check=5
+#
+#-------------------------------------
+# Sidebar
+#-------------------------------------
+set timeout=60	#Check for mail every minute
+set sidebar_width=16
+set sidebar_visible=yes
+set sidebar_delim='|'
+#set sidebar_sort=yes
+# which mailboxes to list in the sidebar
+# color of folders with new mail
+color sidebar_new yellow default
+# ^n/^p to select next/prev folder; ^i to open
+bind index,pager \cp sidebar-prev
+bind index,pager \cn sidebar-next
+bind index,pager \ci sidebar-open
+# EOF
+

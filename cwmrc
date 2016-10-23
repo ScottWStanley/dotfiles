@@ -1,0 +1,139 @@
+# Set default Xft(3) font
+fontname "sans-serif:pixelsize=14:bold"
+
+# Turn on sticky-group mode
+sticky yes
+
+# Leave a gap for tint
+gap 60 0 0 0
+
+# Any entry here is shown in the application menu
+command top             "xterm -e top"
+command Avidemux        avidemux2_gtk
+command acme            "9 acme"
+command Easytag         easytag
+command Mute            "mixerctl outputs.master.mute=on"
+command Unmute            "mixerctl outputs.master.mute=off"
+command Shutdown         "sudo /sbin/shutdown -hp now"
+command Reboot         "sudo /sbin/reboot"
+
+# Autogroup definitions
+autogroup 0 "tint2,tint2"
+autogroup 0 "tint2,Tint2"
+autogroup 0 "trayer,trayer"
+autogroup 0 "sound,sound"
+autogroup 1 "xterm,XTerm"
+autogroup 2 "firefox,firefox"
+autogroup 3 "thunderbird,thunderbird"
+autogroup 9 "xconsole,XConsole"
+
+# Ignore programs by that name by not drawing borders around them.
+ignore XMMS
+ignore xwi
+ignore xapm
+ignore xclock
+ignore "tint2"
+ignore "sound"
+
+# Keybindings
+bind CM-r       label
+#bind CS-Return  "xterm -e top"
+bind 4-o        unmap
+bind CM-equal   unmap
+bind CMS-equal  unmap
+bind C4-equal   vmaximize
+bind C4S-equal  hmaximize
+bind M-1        grouponly1
+bind M-2        grouponly2
+bind M-3        grouponly3
+bind M-4        grouponly4
+bind M-5        grouponly5
+bind M-6        grouponly6
+bind M-7        grouponly7
+bind M-8        grouponly8
+bind M-9        grouponly9
+bind MS-1       movetogroup1
+bind MS-2       movetogroup2
+bind MS-3       movetogroup3
+bind MS-4       movetogroup4
+bind MS-5       movetogroup5
+bind MS-6       movetogroup6
+bind MS-7       movetogroup7
+bind MS-8       movetogroup8
+bind MS-9       movetogroup9
+bind MS-Return  urxvt            # Spawn a new terminal.
+bind MS-q       quit                # Quit cwm.
+bind M-q        restart             # Restart the running cwm(1)
+bind M-x        delete              # Delete current window.
+bind M-f        maximize            # Maximize current window
+bind M-w        firefox
+#bind M-g        "/usr/local/bin/scrot -s" #why doesn't it work?
+bind M-g        "/home/scott/bin/ss" #why doesn't it work?
+bind M-p        dmenu_run
+bind M-l        slock
+bind M-n        nautilus
+bind M-m        thunderbird
+bind M-Down	"mixerctl outputs.master=-12"
+bind M-Up	"mixerctl outputs.master=+12"
+bind M-Delete	"mixerctl outputs.master.mute=toggle"
+
+# Mousebindings
+mousebind M-2   window_lower
+mousebind M-3   window_resize
+
+
+#     lock                Lock the screen.
+#     search              Launch window search menu.
+#     menusearch          Launch application search menu.
+#     exec                Launch ``exec program'' menu.
+#     exec_wm             Launch ``exec WindowManager'' menu.
+#     ssh                 Launch ``ssh'' menu.
+#     group[n]            Select group n, where n is 1-9.
+#     grouponly[n]        Like group[n] but also hides the other groups.
+#     nogroup             Select all groups.
+#     grouptoggle         Toggle group membership of current window.
+#     movetogroup[n]      Hide current window from display and move to group n,
+#                         where n is 1-9.
+#     cyclegroup          Forward cycle through groups.
+#     rcyclegroup         Reverse cycle through groups.
+#     cycle               Forward cycle through windows.
+#     rcycle              Reverse cycle through windows.
+#     cycleingroup        Forward cycle through windows in current group.
+#     rcycleingroup       Reverse cycle through windows in current group.
+#     hide                Hide current window.
+#     lower               Lower current window.
+#     raise               Raise current window.
+#     label               Label current window.
+#     freeze              Freeze current window geometry.
+#     vmaximize           Maximize current window vertically.
+#     hmaximize           Maximize current window horizontally.
+#     moveup              Move window moveamount pixels up.
+#     movedown            Move window moveamount pixels down.
+#     moveright           Move window moveamount pixels right.
+#     moveleft            Move window moveamount pixels left.
+#     bigmoveup           Move window 10 times moveamount pixels up.
+#     bigmovedown         Move window 10 times moveamount pixels down.
+#     bigmoveright        Move window 10 times moveamount pixels right.
+#     bigmoveleft         Move window 10 times moveamount pixels left.
+#     resizeup            Resize window moveamount pixels up.
+#     resizedown          Resize window moveamount pixels down.
+#     resizeright         Resize window moveamount pixels right.
+#     resizeleft          Resize window moveamount pixels left.
+#     bigresizeup         Resize window 10 times moveamount pixels up.
+#     bigresizedown       Resize window 10 times moveamount pixels down.
+#     bigresizeright      Resize window 10 times moveamount pixels right.
+#     bigresizeleft       Resize window 10 times moveamount pixels left.
+#     ptrmoveup           Move pointer moveamount pixels up.
+#     ptrmovedown         Move pointer moveamount pixels down.
+#     ptrmoveright        Move pointer moveamount pixels right.
+#     ptrmoveleft         Move pointer moveamount pixels left.
+#     bigptrmoveup        Move pointer 10 times moveamount pixels up.
+#     bigptrmovedown      Move pointer 10 times moveamount pixels down.
+#     bigptrmoveright     Move pointer 10 times moveamount pixels right.
+#     bigptrmoveleft      Move pointer 10 times moveamount pixels left.
+#     htile               Current window is placed at the top of the screen and
+#                         maximized horizontally, other windows in its group
+#                         share remaining screen space.
+#     vtile               Current window is placed on the left of the screen
+#                         and maximized vertically, other windows in its group
+#                         share remaining screen space.

@@ -1,0 +1,112 @@
+Delivered-To: amorphous.yet.not@gmail.com
+Received: by 10.52.116.98 with SMTP id jv2csp942498vdb;
+        Sun, 21 Dec 2014 22:32:17 -0800 (PST)
+X-Received: from mr.google.com ([10.194.22.6])
+        by 10.194.22.6 with SMTP id z6mr24318302wje.55.1419229937444 (num_hops = 1);
+        Sun, 21 Dec 2014 22:32:17 -0800 (PST)
+X-Received: by 10.194.22.6 with SMTP id z6mr37186288wje.55.1419229936752;
+        Sun, 21 Dec 2014 22:32:16 -0800 (PST)
+X-Forwarded-To: amorphous.yet.not@gmail.com
+X-Forwarded-For: scott.w.stanley@gmail.com amorphous.yet.not@gmail.com
+Delivered-To: scott.w.stanley@gmail.com
+Received: by 10.27.50.146 with SMTP id y140csp964725wly;
+        Sun, 21 Dec 2014 22:32:15 -0800 (PST)
+X-Received: by 10.170.188.8 with SMTP id f8mr18940296yke.114.1419229934934;
+        Sun, 21 Dec 2014 22:32:14 -0800 (PST)
+Return-Path: <layrault@seattlewaldorf.org>
+Received: from mail-yk0-f171.google.com (mail-yk0-f171.google.com. [209.85.160.171])
+        by mx.google.com with ESMTPS id v124si760653ykv.81.2014.12.21.22.32.11
+        for <scott.w.stanley@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 21 Dec 2014 22:32:12 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.160.171 is neither permitted nor denied by domain of layrault@seattlewaldorf.org) client-ip=209.85.160.171;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.160.171 is neither permitted nor denied by domain of layrault@seattlewaldorf.org) smtp.mail=layrault@seattlewaldorf.org
+Received: by mail-yk0-f171.google.com with SMTP id 142so1981533ykq.2
+        for <scott.w.stanley@gmail.com>; Sun, 21 Dec 2014 22:32:11 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=typH5ohAQwdOkki0gzkC09WsuntYUBaDvnM++ACNZgc=;
+        b=IgAi09AwX1p88TDENjAXope/MQYw0zBmVYnJJyIrqFqW4lVR5xYbOoua1JsxxQsO2a
+         dkWVs/XL4CRl8v0f8wbrG8L7vBytCI1xmfBz84J1AIsHlnTh0HbUaTuile2wQGFYbd14
+         sWQKGg9FCACZMs10wM2tbgqmZk45v6CHW3LOSpGi247MlPhieMDvnLoJNFG2kuoDMvJr
+         RE30iiaAWP8W7pbINyL9mvrJYBZnuyN2sEsWMwVz1AZPdZFJZa3M3+6zARALQSx0hXZt
+         BdrHw9y4w+6TmN02GWc0cSWkFwGQFraCABtq/yfJ3bkS599Nrjm/LIq95cIrl81Kk2/k
+         hUoA==
+X-Gm-Message-State: ALoCoQl+Gu5Hme4yUuSqc0OyrVKRSgIqPf6xe/JwBXROTRjxCc4lh7NZiQL7ZiKJ/Rq+Y4W47nDU
+MIME-Version: 1.0
+X-Received: by 10.170.90.68 with SMTP id h65mr19073983yka.94.1419229931531;
+ Sun, 21 Dec 2014 22:32:11 -0800 (PST)
+Received: by 10.170.207.5 with HTTP; Sun, 21 Dec 2014 22:32:11 -0800 (PST)
+In-Reply-To: <54979EC3.7000308@gmail.com>
+References: <54979EC3.7000308@gmail.com>
+Date: Sun, 21 Dec 2014 22:32:11 -0800
+Message-ID: <CAGowNctaOTCXoqqhNmPj6A+NkwPvpiSh5O07b+PV2xjePMcRXg@mail.gmail.com>
+Subject: Re: Johanna Steegmans contact info
+From: Lisa Ayrault <layrault@seattlewaldorf.org>
+To: Scott Stanley <scott.w.stanley@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11396e62ec85f3050ac837a3
+
+--001a11396e62ec85f3050ac837a3
+Content-Type: text/plain; charset=UTF-8
+
+Hi Scott - the number I have for Johanna is 206-778-1045. Please let me
+know if that doesn't work, though, and I can easily find her updated info.
+
+Good wishes for a wonderful holiday season!
+-Lisa
+
+On Sun, Dec 21, 2014 at 8:32 PM, Scott Stanley <scott.w.stanley@gmail.com>
+wrote:
+
+> Good Evening Lisa,
+>
+> Looking on the internet for Johanna's contact information, I wasn't able
+> to find anything that gave me confidence that it was current. Would you
+> please send me her contact info?
+>
+> I hope your break's off to a good start :)
+>
+> -Scott Stanley
+>
+
+
+
+-- 
+Lisa A. Ayrault
+
+Seattle Waldorf School | 206.522.2644
+layrault@seattlewaldorf.org | seattlewaldorf.org
+
+--001a11396e62ec85f3050ac837a3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Scott - the number I have for Johanna is 206-778-1045. =
+Please let me know if that doesn&#39;t work, though, and I can easily find =
+her updated info.<div><br></div><div>Good wishes for a wonderful holiday se=
+ason!</div><div>-Lisa</div></div><div class=3D"gmail_extra"><br><div class=
+=3D"gmail_quote">On Sun, Dec 21, 2014 at 8:32 PM, Scott Stanley <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:scott.w.stanley@gmail.com" target=3D"_blank"=
+>scott.w.stanley@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gm=
+ail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-le=
+ft:1ex">Good Evening Lisa,<br>
+<br>
+Looking on the internet for Johanna&#39;s contact information, I wasn&#39;t=
+ able to find anything that gave me confidence that it was current. Would y=
+ou please send me her contact info?<br>
+<br>
+I hope your break&#39;s off to a good start :)<span class=3D"HOEnZb"><font =
+color=3D"#888888"><br>
+<br>
+-Scott Stanley<br>
+</font></span></blockquote></div><br><br clear=3D"all"><div><br></div>-- <b=
+r><div class=3D"gmail_signature">Lisa A. Ayrault=C2=A0<br><br>Seattle Waldo=
+rf School | 206.522.2644 <br><a href=3D"mailto:layrault@seattlewaldorf.org"=
+ target=3D"_blank">layrault@seattlewaldorf.org</a> | <a href=3D"http://seat=
+tlewaldorf.org" target=3D"_blank">seattlewaldorf.org</a></div>
+</div>
+
+--001a11396e62ec85f3050ac837a3--

@@ -1,0 +1,224 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp158916wjy;
+        Mon, 7 Oct 2013 16:40:29 -0700 (PDT)
+X-Received: by 10.66.227.2 with SMTP id rw2mr19084pac.131.1381189228591;
+        Mon, 07 Oct 2013 16:40:28 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pa0-x22f.google.com (mail-pa0-x22f.google.com [2607:f8b0:400e:c03::22f])
+        by mx.google.com with ESMTPS id sj5si24491768pab.168.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 07 Oct 2013 16:40:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::22f as permitted sender) client-ip=2607:f8b0:400e:c03::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::22f as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x22f.google.com with SMTP id kp14so8023243pab.34
+        for <multiple recipients>; Mon, 07 Oct 2013 16:40:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=3hmcbjX4nD47j9/Vx8yWAfoRMfYPeKFj9HptzxZQXoY=;
+        b=lulZ6E9QgcbC0puFZX9M139KQFQ77TngYBq1QOczw4ybnFKJyzwrnrpkxFRxYx4neh
+         3fZdbt6zDeuj/N1t2hsAeG7BWN4UL5M2FtA4H1KAQHdFxQB5PZOoutHbD0fZGxANueUU
+         5qmlNehJimpVV4SXVqIytZhy0T+9spkRlgv1YcaLhOuOJv4zkQmKQGETLBeFe98xH4Y/
+         YzxmIJTxAPzxzXSHvZ71/hQXlW6EVq+xuGrycu6qnP7KEHMdL8H3qd9s9YqCPIoUFxDk
+         F8JUESR6GYFbxpgTm7JGWvZV4EFY0z6YnpiWcMt7tpcLLMx1v2/kB+i2AK4ZOonON19+
+         fjhg==
+X-Received: by 10.67.14.67 with SMTP id fe3mr117352pad.134.1381189226597;
+        Mon, 07 Oct 2013 16:40:26 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from [10.237.15.64] (234.sub-174-239-225.myvzw.com. [174.239.225.234])
+        by mx.google.com with ESMTPSA id fi4sm35823346pbc.28.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 07 Oct 2013 16:40:25 -0700 (PDT)
+References: <CALT4reeFzwxECVL-g5U_otMDmA++zV8NUMuvLxL1S5rgo94wDA@mail.gmail.com> <e4c9e78a243f43f886ea92ea5c71dfa4@BLUPR05MB323.namprd05.prod.outlook.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <e4c9e78a243f43f886ea92ea5c71dfa4@BLUPR05MB323.namprd05.prod.outlook.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-C31F9049-5EC5-4FDF-A5AA-EA5A03F834C2
+Content-Transfer-Encoding: 7bit
+Message-Id: <7358AC84-8121-469E-B869-952B776F5597@gmail.com>
+Cc: S Stanley <3g.coordinator@gmail.com>,
+ Lisa Anderson <lisabadand@hotmail.com>,
+ Mary Clausnitzer <mary.clausnitzer@gmail.com>,
+ Jared Parker <jared.parker@live.com>,
+ Rachel Rodriguez <teamromama@gmail.com>
+X-Mailer: iPhone Mail (11A501)
+From: Corey Colwell <coreyhopecolwell@gmail.com>
+Subject: Re: Collecting Receipts
+Date: Mon, 7 Oct 2013 16:40:21 -0700
+To: Mary Spurgin <mspurgin@threecedarswaldorf.org>
+
+
+--Apple-Mail-C31F9049-5EC5-4FDF-A5AA-EA5A03F834C2
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Thanks for letting us know. I think we should include gas with food, supplie=
+s, etc and just let families know what happened.=20
+
+Sent from my iPhone
+
+> On Oct 7, 2013, at 3:36 PM, Mary Spurgin <mspurgin@threecedarswaldorf.org>=
+ wrote:
+>=20
+> Because the ferry costs will total over one hundred dollars, it looks like=
+ the gas may need to either be donated or factored into the class responsibi=
+lity (food, gas, firewood....)
+>=20
+> The ferry was about $29 per car roundtrip.  I had initially thought it was=
+ only $13 for the round trip, but a look through the receipts made it clear t=
+hat we were all charged about $29 each.  That's upwards around $175 just for=
+ ferry cost.  Already spoke with the accounting office here and they said th=
+ey'd allot for the high ferry cost, but that anything more than that can't g=
+et coverage.
+>=20
+> Thank you.
+>=20
+>=20
+>=20
+> =20
+> =20
+> Mary Spurgin I Third Grade Teacher
+> 206 393 8891 I  www.threecedarswaldorf.org
+> =20
+> "Love invested is never wasted."
+>=20
+> =20
+> From: S Stanley <3g.coordinator@gmail.com>
+> Sent: Sunday, October 06, 2013 12:53 PM
+> To: Corey Hope Colwell; Lisa Anderson; Mary Clausnitzer; Jared Parker; Rac=
+hel Rodriguez
+> Cc: Mary Spurgin
+> Subject: Collecting Receipts
+> =20
+> Hi Sunfield Chaperones,=20
+>=20
+> I hope all of you are having a restful weekend.
+>=20
+> I'm going to put two envelopes in our inbox tomorrow.
+>=20
+> One is for gas and ferry receipts which will go to Mrs. Spurgin.
+> The other one is for receipts for food and any other things that you got f=
+or the class.
+> (The whole class splits the cost evenly)=20
+>=20
+> The sooner I collect the receipts, the sooner we'll get our money back :)
+>=20
+> Thank you!
+>=20
+> Scott and Sanae Stanley
+> Third Grade Class Coordinators
+
+--Apple-Mail-C31F9049-5EC5-4FDF-A5AA-EA5A03F834C2
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Thanks for letting us know. I think we should include gas with food, supplies, etc and just let families know what happened.&nbsp;<br><br>Sent from my iPhone</div><div><br>On Oct 7, 2013, at 3:36 PM, Mary Spurgin &lt;<a href="mailto:mspurgin@threecedarswaldorf.org">mspurgin@threecedarswaldorf.org</a>&gt; wrote:<br><br></div><blockquote type="cite"><div>
+
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+
+
+
+<div name="divtagdefaultwrapper" id="divtagdefaultwrapper" style="font-family: Tw Cen MT; font-size: 12pt; color: #000000; margin: 0">
+Because the ferry costs will total over one hundred dollars, it looks like the gas may need to either be donated or factored into the class responsibility (food, gas, firewood....)<br>
+<br>
+The ferry was about $29 per car roundtrip.&nbsp; I had initially thought it was only $13 for the round trip, but a look through the receipts made it clear that we were all charged about $29 each.&nbsp; That's upwards around $175 just for ferry cost.&nbsp; Already spoke with
+ the accounting office here and they said they'd allot for the high ferry cost, but that anything more than that can't get coverage.<br>
+<br>
+Thank you.<br>
+<br>
+<br>
+<div><br>
+<div style="font-family:Tahoma; font-size:13px">
+<div style="font-family:Tahoma; font-size:13px">
+<div style="margin:0px"><font color="#008000" face="Tw Cen MT" size="2"><span style="font-size:11pt"></span></font>&nbsp;</div>
+<div style="margin:0px"><font size="2"><span style="font-size:11pt"></span></font>&nbsp;</div>
+<div style="margin:0px"><font color="#003300" face="Tw Cen MT" size="2"><span style="font-size:11pt">Mary Spurgin&nbsp;I Third Grade Teacher</span></font></div>
+<div style="margin:0px"><font color="#008000" size="2"><span style="font-size:11pt"><font color="#003300" face="Tw Cen MT">206 393 8891 I&nbsp;&nbsp;</font><a href="http://www.threecedarswaldorf.org/"><font color="#008000" face="Tw Cen MT">www.threecedarswaldorf.org</font></a></span></font></div>
+<div style="margin:0px"><font face="Tw Cen MT"><span style="font-size:11pt"></span></font>&nbsp;</div>
+<div style="margin:0px"><font color="#800000" face="Tw Cen MT" size="4"><span style="font-size:11pt"><em>"Love invested is never wasted."</em></span></font></div>
+</div>
+</div>
+</div>
+<br>
+<div style="color: rgb(40, 40, 40);">
+<hr tabindex="-1" style="display:inline-block; width:98%">
+<div id="divRplyFwdMsg" dir="ltr"><font style="font-size:11pt" color="#000000" face="Calibri, sans-serif"><b>From:</b> S Stanley &lt;<a href="mailto:3g.coordinator@gmail.com">3g.coordinator@gmail.com</a>&gt;<br>
+<b>Sent:</b> Sunday, October 06, 2013 12:53 PM<br>
+<b>To:</b> Corey Hope Colwell; Lisa Anderson; Mary Clausnitzer; Jared Parker; Rachel Rodriguez<br>
+<b>Cc:</b> Mary Spurgin<br>
+<b>Subject:</b> Collecting Receipts</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div dir="ltr">
+<div>
+<div>
+<div>
+<div>
+<div>Hi Sunfield Chaperones, <br>
+<br>
+</div>
+I hope all of you are having a restful weekend.<br>
+<br>
+I'm going to put two envelopes in our inbox tomorrow.<br>
+</div>
+</div>
+<br>
+One is for gas and ferry <span class="">receipts which will go to Mrs. Spurgin.<br>
+</span></div>
+<span class="">The other one is for </span><span class="">receipts for </span><span class="">food and any other things that you got for the class.<br>
+</span></div>
+<div><span class="">(The whole class splits the cost evenly) <br>
+</span></div>
+<div><span class=""><br>
+</span></div>
+<div><span class="">The sooner I collect the </span><span class="">receipts, the sooner we'll get our money back :)<br>
+<br>
+</span></div>
+<div><span class="">Thank you!<br>
+</span></div>
+<div><span class=""><br>
+</span></div>
+<span class=""></span><span style="color:rgb(0,0,0)">Scott and Sanae Stanley</span>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div dir="ltr"><span style="color:rgb(102,102,102)">Third Grade Class Coordinators</span><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div></blockquote></body></html>
+--Apple-Mail-C31F9049-5EC5-4FDF-A5AA-EA5A03F834C2--

@@ -1,0 +1,247 @@
+Xft.antialias:           true
+URxvt*termName:         xterm-color
+Xcurser*theme:          DMZ-White
+URxvt*scrollBar:        false
+URxvt*loginShell:       true
+URxvt*vt100*geometry:   80x50
+URxvt*tint:             black
+URxvt*transparent:      false
+URxvt*shading:          20
+URxvt*inheritPixmap:    true
+URxvt*highlightSelection: true
+URxvt*forcePackedFont:		false
+URxvt*locale: utf8
+
+!URxvt*faceName:        Terminus 
+!URxvt*faceSize:        12
+!URxvt*faceNameDoublesize: TakaoExMincho
+! Included with OpenBSD
+!URxvt*Font:         -*-dejavu sans mono-medium-r-*-*-15-*-*-*-*-*-*-*
+!URxvt*faceName:        Mono 
+!URxvt*faceSize:        10              
+#URxvt*font: xft:Bitstream Vera Sans Mono:pixelsize=12:antialias=true:hinting=true
+#URxvt*boldFont: xft:Bitstream Vera Sans Mono:bold:pixelsize=12:antialias=true:hinting=true
+URxvt*font: xft:DejaVu Sans Mono:pixelsize=14:antialias=true:hinting=true
+URxvt*boldFont: xft:DejaVu Sans Mono:bold:pixelsize=14:antialias=true:hinting=true
+#URxvt*font: xft:Liberation Mono:pixelsize=13:antialias=true:hinting=true
+#URxvt*boldFont: xft:Liberation Mono:bold:pixelsize=13:antialias=true:hinting=true
+#URxvt*font: xft:terminus:pixelsize=15
+#URxvt*boldFont: xft:terminus:bold:pixelsize=15
+#URxvt*font:-*-courier-medium-r-normal-*-14-*-*-*-*-*-iso8859-1
+#URxvt*boldFont:-*-courier-bold-r-normal-*-14-*-*-*-*-*-iso8859-1
+
+!XPDF settings
+xpdf*matteColor:        black
+xpdf*enableFreetype:    yes
+xpdf*antialias:         yes
+xpdf*foreground:        black
+xpdf*background:        white
+xpdf*urlCommand:        /usr/bin/firefox %s
+
+*fileFilterStyle: filter_hidden_files
+
+! These are the 8 ANSI colors and their bright equivalents.
+! Depending on other resource settings, URxvt may use the
+! bright colors when displaying bold text
+! (see the boldColors resource).
+! For named colors, see: http://en.wikipedia.org/wiki/X11_color_names
+
+! Example
+!URxvt*background:               rgb:00/00/00
+!URxvt*foreground:               rgb:aa/aa/aa
+! Black
+!URxvt*color0:                   rgb:00/00/00
+!URxvt*color8:                   rgb:5f/5f/5f
+! Red
+!URxvt*color1:                   rgb:af/00/00
+!URxvt*color9:                   rgb:d7/00/00
+! Green
+!URxvt*color2:                   rgb:00/af/00
+!URxvt*color10:                  rgb:00/d7/00
+! Yellow
+!URxvt*color3:                   rgb:af/af/00
+!URxvt*color11:                  rgb:d7/d7/00
+! Blue #0000af
+!URxvt*color4:                   rgb:41/41/71
+!URxvt*color12:                  rgb:00/00/d7
+! Magenta
+!URxvt*color5:                   rgb:af/00/af
+!URxvt*color13:                  rgb:d7/00/d7
+! Cyan
+!URxvt*color6:                   rgb:00/af/af
+!URxvt*color14:                  rgb:00/d7/d7
+! White
+!URxvt*color7:                   rgb:9a/9a/9a
+!URxvt*color15:                  rgb:d7/d7/d7
+
+!Theme Two (used as of 2014-10-15)
+!URxvt*cursorColor:      #00ff00
+!URxvt*cursorColor2:     #000000
+!URxvt*pointerColor:     #dc74d1
+!URxvt*background: rgb:00/00/00
+!URxvt*foreground: rgb:7f/7f/7f
+!! Black
+!URxvt*color0:     rgb:00/00/00
+!URxvt*color8:     rgb:66/66/66
+!! Red
+!URxvt*color1:     rgb:9e/18/28
+!URxvt*color9:     rgb:cf/61/71
+!! Green
+!URxvt*color2:     rgb:ae/ce/92
+!URxvt*color10:    rgb:c5/f7/79
+!! Yellow
+!URxvt*color3:     rgb:96/8a/38
+!URxvt*color11:    rgb:ff/f7/96
+!! Blue
+!URxvt*color4:     rgb:41/41/71
+!URxvt*color12:    rgb:41/86/be
+!! Magenta
+!URxvt*color5:     rgb:96/3c/59
+!URxvt*color13:    rgb:cf/9e/be
+!! Cyan
+!URxvt*color6:     rgb:41/81/79
+!URxvt*color14:    rgb:71/be/be
+!! White
+!URxvt*color7:     rgb:be/be/be
+!URxvt*color15:    rgb:ff/ff/ff
+
+!Theme Fifteen
+!URxvt*background: rgb:1d/2b/3a
+!URxvt*foreground: rgb:be/be/be
+!URxvt*color0:     rgb:00/00/00
+!URxvt*color1:     rgb:d3/62/65
+!URxvt*color2:     rgb:ae/ce/91
+!URxvt*color3:     rgb:e7/e1/8c
+!URxvt*color4:     rgb:7a/7a/b0
+!URxvt*color5:     rgb:96/3c/59
+!URxvt*color6:     rgb:41/81/79
+!URxvt*color7:     rgb:be/be/be
+!URxvt*color8:     rgb:66/66/66
+!URxvt*color9:     rgb:ef/81/71
+!URxvt*color10:    rgb:e5/f7/79
+!URxvt*color11:    rgb:ff/f7/99
+!URxvt*color12:    rgb:41/86/be
+!URxvt*color13:    rgb:ef/9e/be
+!URxvt*color14:    rgb:71/be/be
+!URxvt*color15:    rgb:ff/ff/ff
+
+!Theme Twenty-One
+!URxvt*background: rgb:1a/1a/1a
+!URxvt*foreground: rgb:aa/aa/aa
+!!URxvt*color0:     rgb:00/00/00
+!URxvt*color0:     rgb:1a/1a/1a
+!URxvt*color8:     rgb:66/66/66
+!URxvt*color1:     rgb:9e/18/28
+!URxvt*color9:     rgb:bc/57/66
+!URxvt*color2:     rgb:00/88/00
+!URxvt*color10:    rgb:61/a1/71
+!URxvt*color3:     rgb:d2/bb/4b
+!URxvt*color11:    rgb:e7/db/52
+!URxvt*color4:     rgb:41/41/71
+!URxvt*color12:    rgb:50/85/af
+!URxvt*color5:     rgb:96/3c/59
+!URxvt*color13:    rgb:a9/7a/99
+!URxvt*color6:     rgb:41/81/79
+!URxvt*color14:    rgb:6b/a4/a4
+!URxvt*color7:     rgb:be/be/be
+!URxvt*color15:    rgb:ff/ff/ff
+
+!Theme Twenty-Four (White)
+!URxvt*color0:  rgb:00/00/00
+!URxvt*color1:  rgb:cd/5c/5c
+!URxvt*color2:  rgb:8e/ae/71
+!URxvt*color3:  rgb:d2/b4/8c
+!URxvt*color4:  rgb:5f/7b/8a
+!URxvt*color5:  rgb:cd/cd/b4
+!URxvt*color6:  rgb:68/68/68
+!URxvt*color7:  rgb:ff/ff/ff
+!URxvt*color8:  rgb:00/00/00
+!URxvt*color9:  rgb:ee/63/63
+!URxvt*color10: rgb:95/c7/49
+!URxvt*color11: rgb:cd/cd/c1
+!URxvt*color12: rgb:6b/7b/8a
+!URxvt*color13: rgb:cd/cd/b4
+!URxvt*color14: rgb:77/87/98
+!URxvt*color15: rgb:ca/ca/ca
+
+! Custom black color scheme
+!URxvt*background:               rgb:00/00/00
+!URxvt*foreground:               rgb:aa/aa/aa
+!URxvt*color0:                   rgb:00/00/00
+!URxvt*color8:                   rgb:5f/5f/5f
+!URxvt*color1:                   rgb:af/00/00
+!URxvt*color9:                   rgb:d7/00/00
+!URxvt*color2:                   rgb:00/af/00
+!URxvt*color10:                  rgb:00/d7/00
+!URxvt*color3:                   rgb:af/af/00
+!URxvt*color11:                  rgb:d7/d7/00
+!URxvt*color4:                   rgb:41/41/71
+!URxvt*color12:                  rgb:00/00/d7
+!URxvt*color5:                   rgb:af/00/af
+!URxvt*color13:                  rgb:d7/00/d7
+!URxvt*color6:                   rgb:00/af/af
+!URxvt*color14:                  rgb:00/d7/d7
+!URxvt*color7:                   rgb:9a/9a/9a
+!URxvt*color15:                  rgb:d7/d7/d7
+
+
+! Solarized
+! Common
+#define S_yellow #b58900
+#define S_orange #cb4b16
+#define S_red #dc322f
+#define S_magenta #d33682
+#define S_violet #6c71c4
+#define S_blue #268bd2
+#define S_cyan #2aa198
+#define S_green #859900
+
+! Dark
+#define S_base03 #002b36
+#define S_base02 #073642
+#define S_base01 #586e75
+#define S_base00 #657b83
+#define S_base0 #839496
+#define S_base1 #93a1a1
+#define S_base2 #eee8d5
+#define S_base3 #fdf6e3
+
+! Light
+! #define S_base03 #fdf6e3
+! #define S_base02 #eee8d5
+! #define S_base01 #93a1a1
+! #define S_base00 #839496
+! #define S_base0 #657b83
+! #define S_base1 #586e75
+! #define S_base2 #073642
+! #define S_base3 #002b36
+
+! To only apply colors to your terminal, for example, prefix
+! the color assignment statement with its name. Example:
+!
+! URxvt*background: S_base03
+
+URxvt*background: #002b36
+URxvt*foreground: #839496
+URxvt*fading: 40
+URxvt*fadeColor: #002b36
+URxvt*cursorColor: #93a1a1
+URxvt*pointerColorBackground: #586e75
+URxvt*pointerColorForeground: #93a1a1
+
+URxvt*color0: #073642
+URxvt*color1: #dc322f
+URxvt*color2: #859900
+URxvt*color3: #b58900
+URxvt*color4: #268bd2
+URxvt*color5: #d33682
+URxvt*color6: #2aa198
+URxvt*color7: #eee8d5
+URxvt*color9: #cb4b16
+URxvt*color8: #002b36
+URxvt*color10: #586e75
+URxvt*color11: #657b83
+URxvt*color12: #839496
+URxvt*color13: #6c71c4
+URxvt*color14: #93a1a1
+URxvt*color15: #fdf6e3

@@ -1,0 +1,12 @@
+[default]
+# Write your default config options here!
+really-quiet="1"
+#vo="xv" 		# video out
+#vo="cvidix"		# play in the console; currently need root permission; 
+#vo="aa"			# ascii art
+#monitoraspect="16:9"	# use for widescreens to keep 4:3 aspect ratio; disable for console
+s="1"
+alang="eng"
+#dvd://1
+#screenw=720		# for movies
+#screenh=400		# for TV shows

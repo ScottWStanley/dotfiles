@@ -1,0 +1,140 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp79956wjy;
+        Fri, 18 Oct 2013 13:56:31 -0700 (PDT)
+X-Received: by 10.66.163.164 with SMTP id yj4mr5361633pab.91.1382129790296;
+        Fri, 18 Oct 2013 13:56:30 -0700 (PDT)
+Return-Path: <teamromama@gmail.com>
+Received: from mail-pa0-x236.google.com (mail-pa0-x236.google.com [2607:f8b0:400e:c03::236])
+        by mx.google.com with ESMTPS id it5si1751918pbc.305.2013.10.18.13.56.29
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 18 Oct 2013 13:56:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of teamromama@gmail.com designates 2607:f8b0:400e:c03::236 as permitted sender) client-ip=2607:f8b0:400e:c03::236;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of teamromama@gmail.com designates 2607:f8b0:400e:c03::236 as permitted sender) smtp.mail=teamromama@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x236.google.com with SMTP id kx10so5133522pab.13
+        for <multiple recipients>; Fri, 18 Oct 2013 13:56:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=9b0rEuiJPerKgbqmcweW4SqiTiAuuj3QVItR//PKYpM=;
+        b=pCyO9WOhs6F9+vLQtnayx09deiL0ILTw4XDUTygmSdCk5z9v4to4xzRQKbi2LN0VuS
+         XHggaIcRgv41E1av5sMK/MLRTE8gpZFlgdwthhOGIIut2EKZzuwwbSU+DRpcYkYMfJcA
+         J0qJl2ceJdyob2c8zK1WXxppBiivk4wzFTOHfXPM6g/mRg2XV8W8O5KUNOWf+vzESPzd
+         F9IZpxbSwbf8hpt8VbPwKsOlsQHZNV1+a3lfJQg7gn3GfYVwSl2fLExMzQhuBXwBOGbW
+         09513v1mBlf7ZC4qL3KEDpOBhERMh5ByKHbDFthZjA71c69MDgYiFyN8c8Nte2p9n7No
+         spUA==
+X-Received: by 10.66.102.9 with SMTP id fk9mr5399275pab.41.1382129789067;
+        Fri, 18 Oct 2013 13:56:29 -0700 (PDT)
+Return-Path: <teamromama@gmail.com>
+Received: from [10.0.0.3] (50-54-212-37.evrt.wa.frontiernet.net. [50.54.212.37])
+        by mx.google.com with ESMTPSA id fk4sm6607616pab.23.2013.10.18.13.56.27
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 18 Oct 2013 13:56:27 -0700 (PDT)
+References: <20131018165428.GC7375@gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <20131018165428.GC7375@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <009E39AC-B217-4A1E-BB99-F7082EBEF352@gmail.com>
+Cc: Corey Colwell-Lipson <coreyhopecolwell@gmail.com>,
+ Lisa Anderson <lisabadand@hotmail.com>,
+ Mary Spurgin <mspurgin@threecedarswaldorf.org>
+X-Mailer: iPhone Mail (11A501)
+From: Rachel Rodriguez <teamromama@gmail.com>
+Subject: Re: Sunfield Trip Expenses
+Date: Fri, 18 Oct 2013 13:56:29 -0700
+To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+
+Scott,
+
+We had a lot of extra food that Corey bought that she gave out to people whe=
+n we got back.  I think she should just submit her whole shopping bill to sc=
+hool because that is too much to figure out.
+
+Rachel
+
+Sent from my iPhone
+
+> On Oct 18, 2013, at 9:54 AM, Scott and Sanae Stanley <3g.coordinator@gmail=
+.com> wrote:
+>=20
+> Corey, Lisa, and Rachel,
+> Please read the email below for a statement from Seraphina. In short, TCWS=
+ will reimburse you for any FOOD related expenses.
+>=20
+> However, I have this to add. I'm certain that a portion of the food that w=
+as purchased was not ultimately consumed during the trip (either by being ea=
+ten or thrown away), and I know this was anticpiated during our chaperone me=
+eting.=20
+>=20
+> When you fill out your reimbursement form, I ask that you consider the rea=
+l cost to you. That means that if a bottle/jar/package of something was purc=
+hased but only a small fraction of that was used for the trip, calculate acc=
+ordingly. For example, if you bought a (fictitious) jar of pickles for $3 an=
+d only used 1/3 of the jar for the trip, claim $3 x 1/3, or $1. When you sub=
+mit your receipts with the reimbursement form, add the denominator to the li=
+ne item that you divided, and I'll explain the meaning to Seraphina. I reali=
+ze this will take extra time on your part, but it's the right thing to do.
+>=20
+> The next step will be for me to repay you all for the non-food items. I'd l=
+ike to send out that email this weekend.
+>=20
+> Please call or email me with your questions.
+>=20
+> -Scott
+>=20
+> ----- Forwarded message from Seraphina Orzel <sorzel@threecedarswaldorf.or=
+g> -----
+>=20
+> Date: Thu, 17 Oct 2013 18:24:39 +0000
+> From: Seraphina Orzel <sorzel@threecedarswaldorf.org>
+> To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+> Subject: RE: Sunfield Trip Expenses
+>=20
+> Dear Scott,
+>=20
+> Thank you for your email.
+>=20
+> This trip is relatively new for our school, and it is evident that we have=
+ not yet mastered the details of this overnight. Having asked parents to pur=
+chase food for this trip was clearly a departure from our current practices t=
+o fund field trips entirely out of tuition, as we do state clearly in our tu=
+ition contract that parents will not incur any additional charges other than=
+ those related to our strings program. For a variety of reasons, we did not i=
+nclude the cost for the food expense associated with this field trip in the c=
+lass budget, which led to parents being asked to provide funding for the foo=
+d. In retrospect, this should have been handled differently, and I'm so very=
+ sorry for any confusion or financial strain this may have caused you and th=
+e Grade 3 class parents.
+>=20
+> In this light, we feel it is the responsibility of the school to reimburse=
+ parents fully for the unplanned expenses they incurred related to food for t=
+his trip. This additional expense does not mean that the budget of the class=
+ will be reduced, but simply means that the funds will be located elsewhere.=
+ Parents are of course very welcome to make a tax deductible donation to the=
+ school if they would like to donate the amount they spent on the trip. They=
+ can simply add that amount to the annual fund contribution they were alread=
+y planning on donating. If the class parents who made the purchases wish to b=
+e reimbursed, they will simply need to fill out a reimbursement form, with t=
+he receipts attached, and submit it to the office.
+>=20
+> I hope this helps clarify, but please let me know if you have additional q=
+uestions. Again, I apologize for any confusion that has surrounded the organ=
+ization of this particular trip and am grateful to be able to benefit from y=
+our experience this year to ensure a smoother process for classes to come. T=
+hank you for your support of the school on many levels, and for carrying the=
+ Grade 3 class.
+>=20
+> Warmly,
+> Seraphina
+>=20
+> Seraphina Orzel | Director of Administration
+> Three Cedars Waldorf School | 425.401.9874
+> sorzel@threecedarswaldorf.org<mailto:sorzel@threecedarswaldorf.org> | thre=
+ecedarswaldorf.org<http://www.threecedarswaldorf.org/>

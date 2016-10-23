@@ -1,0 +1,91 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp77322wjy;
+        Sun, 6 Oct 2013 16:01:34 -0700 (PDT)
+X-Received: by 10.67.24.7 with SMTP id ie7mr28111058pad.112.1381100493497;
+        Sun, 06 Oct 2013 16:01:33 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pa0-x232.google.com (mail-pa0-x232.google.com [2607:f8b0:400e:c03::232])
+        by mx.google.com with ESMTPS id if6si19045173pbc.283.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 06 Oct 2013 16:01:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::232 as permitted sender) client-ip=2607:f8b0:400e:c03::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::232 as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x232.google.com with SMTP id fb1so6497707pad.23
+        for <3g.coordinator@gmail.com>; Sun, 06 Oct 2013 16:01:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=8l4HiI1Y4Y4lYzrBH58Q0ew9f8+vKRLll5kD49DKx0M=;
+        b=i5nHmJudywN45zphQJAJ/plIPwj4iyF9LI5iEJ6pPilixgshsp+fmHnWBhZjQjOCG0
+         Xdy6iQBX6PqUu/zbqFBbL1kTmDazQrweAGRVqb2wdPlZ20HRp8E2VuCWoXSrqv7rgkMR
+         AEf8BTwvpsTX4PSjp6al7e3zKUGoWYgnMAFIUuB+d3nJUB9DEytoJDCGTldyLdW0IkP6
+         zzGj8Zk8Zey13OK5QhYz7gOc2pR2fwZQpBZK1UjdYAvCdvSeMr7+LTNAvoPlcVeCVbJC
+         NXCKO73IoeYFoJGVWYFKfUJ5Bj8tEyETaPEK4GcsYUVX3ZYCSFKtVM/XpRBZ7bddnD/k
+         /qiw==
+X-Received: by 10.66.11.202 with SMTP id s10mr29059920pab.86.1381100492772;
+        Sun, 06 Oct 2013 16:01:32 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from [10.248.56.8] (28.sub-174-255-176.myvzw.com. [174.255.176.28])
+        by mx.google.com with ESMTPSA id py4sm29058383pbb.33.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 06 Oct 2013 16:01:31 -0700 (PDT)
+Subject: Re: Collecting Receipts
+References: <CALT4reeFzwxECVL-g5U_otMDmA++zV8NUMuvLxL1S5rgo94wDA@mail.gmail.com>
+From: Corey Colwell <coreyhopecolwell@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-1A906C8D-85EB-49AA-94D0-975EBFFB650E
+X-Mailer: iPhone Mail (11A465)
+In-Reply-To: <CALT4reeFzwxECVL-g5U_otMDmA++zV8NUMuvLxL1S5rgo94wDA@mail.gmail.com>
+Message-Id: <CAE18C5B-B70A-490A-9F11-093D1F936962@gmail.com>
+Date: Sun, 6 Oct 2013 16:01:27 -0700
+To: S Stanley <3g.coordinator@gmail.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+
+--Apple-Mail-1A906C8D-85EB-49AA-94D0-975EBFFB650E
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Thank you, all ready to go.
+
+Sent from my iPhone
+
+> On Oct 6, 2013, at 12:53 PM, S Stanley <3g.coordinator@gmail.com> wrote:
+>=20
+> Hi Sunfield Chaperones,=20
+>=20
+> I hope all of you are having a restful weekend.
+>=20
+> I'm going to put two envelopes in our inbox tomorrow.
+>=20
+> One is for gas and ferry receipts which will go to Mrs. Spurgin.
+> The other one is for receipts for food and any other things that you got f=
+or the class.
+> (The whole class splits the cost evenly)=20
+>=20
+> The sooner I collect the receipts, the sooner we'll get our money back :)
+>=20
+> Thank you!
+>=20
+> Scott and Sanae Stanley
+> Third Grade Class Coordinators
+
+--Apple-Mail-1A906C8D-85EB-49AA-94D0-975EBFFB650E
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Thank you, all ready to go.<br><br>Sent from my iPhone</div><div><br>On Oct 6, 2013, at 12:53 PM, S Stanley &lt;<a href="mailto:3g.coordinator@gmail.com">3g.coordinator@gmail.com</a>&gt; wrote:<br><br></div><blockquote type="cite"><div><div dir="ltr"><div><div><div><div><div>Hi Sunfield Chaperones, <br><br></div>I hope all of you are having a restful weekend.<br><br>I'm going to put two envelopes in our inbox tomorrow.<br></div></div><br>One is for gas and ferry <span class="">receipts which will go to Mrs. Spurgin.<br>
+</span></div><span class="">The other one is for </span><span class="">receipts for </span><span class="">food and any other things that you got for the class.<br></span></div><div><span class="">(The whole class splits the cost evenly) <br>
+</span></div><div><span class=""><br></span></div><div><span class="">The sooner I collect the </span><span class="">receipts, the sooner we'll get our money back :)<br><br></span></div><div><span class="">Thank you!<br>
+</span></div><div><span class=""><br></span></div><span class=""></span><span style="color:rgb(0,0,0)">Scott and Sanae Stanley</span><div><div><div><div><div><div><div><div><div><div><div><div><div><div dir="ltr"><span style="color:rgb(102,102,102)">Third Grade Class Coordinators</span><br>
+</div></div>
+</div></div></div></div></div></div></div></div></div></div></div></div></div>
+</div></blockquote></body></html>
+--Apple-Mail-1A906C8D-85EB-49AA-94D0-975EBFFB650E--

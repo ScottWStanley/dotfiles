@@ -1,0 +1,126 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp114260wjy;
+        Mon, 30 Sep 2013 21:56:55 -0700 (PDT)
+X-Received: by 10.68.170.225 with SMTP id ap1mr11957932pbc.133.1380603415040;
+        Mon, 30 Sep 2013 21:56:55 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pd0-x22c.google.com (mail-pd0-x22c.google.com [2607:f8b0:400e:c02::22c])
+        by mx.google.com with ESMTPS id pi7si2827934pbc.321.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 30 Sep 2013 21:56:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c02::22c as permitted sender) client-ip=2607:f8b0:400e:c02::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c02::22c as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x22c.google.com with SMTP id z10so6664143pdj.17
+        for <multiple recipients>; Mon, 30 Sep 2013 21:56:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=nVBZXzt4S3zGecDm0l0GhNIrQA6WaxG4ItKb2LnqLHk=;
+        b=JomIfWQyqYZ62+IxFlAyG7bXX9MjBmXQxEva0Enb7mf1RmuKpOlCRRo2d48bcDX81z
+         404YomE+fML37J8PciKAanNZk2uFxl9DK8kfs4VWbfZtirzclEl+bWDAuQVny+njWZiP
+         rGFxOKLP4ZUDondp1/CmZNVp4INwqFf2GDHSFb7jsbmCxCqEIhY4+jIkIf65u6sJ6Vjn
+         R7FyNT6F1M2bR/kzY2fLbVgQmBiJBmMaOpA/gr2CJUd1vVHIKdqTM7jWQJKxZxfcamTp
+         b0Hz3h2ollq7VvT/4QdP/JzfA7r0HG7jH2JxuNNsrnxZY6LdfBt99e9OmRRNVUCsaZ62
+         DQqQ==
+X-Received: by 10.68.234.165 with SMTP id uf5mr27532420pbc.41.1380603413931;
+        Mon, 30 Sep 2013 21:56:53 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from [10.229.148.211] (136.sub-174-255-161.myvzw.com. [174.255.161.136])
+        by mx.google.com with ESMTPSA id qw8sm4274801pbb.27.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 30 Sep 2013 21:56:52 -0700 (PDT)
+References: <5c2069b375b449bb9dd8dbc1bc2d04c7@BLUPR05MB323.namprd05.prod.outlook.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <5c2069b375b449bb9dd8dbc1bc2d04c7@BLUPR05MB323.namprd05.prod.outlook.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-BCA30549-AB98-496F-906E-548A7B667D5B
+Content-Transfer-Encoding: 7bit
+Message-Id: <DD0515DB-3182-47FB-8C01-3DAA75F7FC11@gmail.com>
+Cc: S Stanley <3g.coordinator@gmail.com>,
+ "maryclausnitzer@gmail.com" <maryclausnitzer@gmail.com>,
+ lisa anderson <lisabadand@hotmail.com>,
+ Jared Parker <jared.parker@live.com>,
+ Rachel Rodriguez <teamromama@gmail.com>
+X-Mailer: iPhone Mail (11A465)
+From: Corey Colwell <coreyhopecolwell@gmail.com>
+Subject: Re: FINAL FARM TRIP GUIDELINES AND GROUPS for CHAPERONES
+Date: Mon, 30 Sep 2013 21:56:46 -0700
+To: Mary Spurgin <mspurgin@threecedarswaldorf.org>
+
+
+--Apple-Mail-BCA30549-AB98-496F-906E-548A7B667D5B
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Would someone be willing to print a copy for me? We are out of ink and I won=
+'t have a chance to pick some up before Thurs. Thanks so much for letting me=
+ know.
+
+Sent from my iPhone
+
+> On Sep 30, 2013, at 9:31 PM, Mary Spurgin <mspurgin@threecedarswaldorf.org=
+> wrote:
+>=20
+> Dear Third Grade Farm Trip Chaperones,
+>=20
+> Here is the final packet that I revised after today's meeting.  Please let=
+ me know if you'd like a hard copy instead.  Otherwise, please print and bri=
+ng with you on the farm trip.=20
+>=20
+> Thank you so much for your time and effort.
+>=20
+> With warmth,
+>=20
+> =20
+> =20
+> Mary Spurgin I Third Grade Teacher
+> 206 393 8891 I  www.threecedarswaldorf.org
+> =20
+> "Love invested is never wasted."
+> <FARM TRIP MEMO FOR CHAPERONES (2).docx>
+
+--Apple-Mail-BCA30549-AB98-496F-906E-548A7B667D5B
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Would someone be willing to print a copy for me? We are out of ink and I won't have a chance to pick some up before Thurs. Thanks so much for letting me know.<br><br>Sent from my iPhone</div><div><br>On Sep 30, 2013, at 9:31 PM, Mary Spurgin &lt;<a href="mailto:mspurgin@threecedarswaldorf.org">mspurgin@threecedarswaldorf.org</a>&gt; wrote:<br><br></div><blockquote type="cite"><div>
+
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+
+
+
+<div name="divtagdefaultwrapper" id="divtagdefaultwrapper" style="font-family: Tw Cen MT; font-size: 12pt; color: #000000; margin: 0">
+Dear Third Grade Farm Trip Chaperones,
+<div><br>
+</div>
+<div>Here is the final packet that I revised after today's meeting. &nbsp;Please let me know if you'd like a hard copy instead. &nbsp;Otherwise, please print and bring with you on the farm trip.&nbsp;</div>
+<div><br>
+</div>
+<div>Thank you so much for your time and effort.</div>
+<div><br>
+</div>
+<div>With warmth,<br>
+<div><br>
+<div style="font-family:Tahoma; font-size:13px">
+<div style="font-family:Tahoma; font-size:13px">
+<div style="margin:0px"><font color="#008000" size="2" face="Tw Cen MT"><span style="font-size:11pt"></span></font>&nbsp;</div>
+<div style="margin:0px"><font size="2"><span style="font-size:11pt"></span></font>&nbsp;</div>
+<div style="margin:0px"><font color="#003300" size="2" face="Tw Cen MT"><span style="font-size:11pt">Mary Spurgin&nbsp;I Third Grade Teacher</span></font></div>
+<div style="margin:0px"><font color="#008000" size="2"><span style="font-size:11pt"><font color="#003300" face="Tw Cen MT">206 393 8891 I&nbsp;&nbsp;</font><a href="http://www.threecedarswaldorf.org/"><font color="#008000" face="Tw Cen MT">www.threecedarswaldorf.org</font></a></span></font></div>
+<div style="margin:0px"><font face="Tw Cen MT"><span style="font-size:11pt"></span></font>&nbsp;</div>
+<div style="margin:0px"><font color="#800000" size="4" face="Tw Cen MT"><span style="font-size:11pt"><em>"Love invested is never wasted."</em></span></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div></blockquote><blockquote type="cite"><div>&lt;FARM TRIP MEMO FOR CHAPERONES (2).docx&gt;</div></blockquote></body></html>
+--Apple-Mail-BCA30549-AB98-496F-906E-548A7B667D5B--

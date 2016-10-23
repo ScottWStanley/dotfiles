@@ -1,0 +1,111 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp87056wjy;
+        Wed, 2 Oct 2013 09:42:20 -0700 (PDT)
+X-Received: by 10.68.20.69 with SMTP id l5mr3543405pbe.93.1380732139183;
+        Wed, 02 Oct 2013 09:42:19 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received: from mail-pd0-x235.google.com (mail-pd0-x235.google.com [2607:f8b0:400e:c02::235])
+        by mx.google.com with ESMTPS id z1si1817731pbw.309.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 02 Oct 2013 09:42:19 -0700 (PDT)
+Received-SPF: pass (google.com: domain of l2e2knit@gmail.com designates 2607:f8b0:400e:c02::235 as permitted sender) client-ip=2607:f8b0:400e:c02::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of l2e2knit@gmail.com designates 2607:f8b0:400e:c02::235 as permitted sender) smtp.mail=l2e2knit@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x235.google.com with SMTP id g10so1155329pdj.40
+        for <3g.coordinator@gmail.com>; Wed, 02 Oct 2013 09:42:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:mime-version:subject:from:in-reply-to:date
+         :content-transfer-encoding:message-id:references:to;
+        bh=XIiarSyFyVLWTOhK5qkqdOFBhdadp2zVlabIHBzfscY=;
+        b=y3B5Dwvh8zK3aJ7IFrdJ0meqNVQSFaLjYW8TV7W7LvEYOgujWVLdm8WWAbtwoJw5lM
+         TnbXocCumvhwBbQfZ1j6XIS+iXvrZhSdGg13QsTEJnd25YJ/Yg0m+viuUxKs+ckQt1LX
+         9pt6upXbDf6dtmy869TylYBjiUaaKvniRbrFAwgCM7PSRoxNTLLuyJyfB0f7rRBSDiq1
+         1VeQvymfMOSFuI1GdZmwPaGX7NXiXE1VSNz9j/yIoRLIhO87hFSjNMEaOUqT1AdErw4u
+         GjiAnPLyabNC3C9LrTMFbZ1FedOlEFWrw8UTV4mkdC1lTw4DyTsR/I6n0NdVgJxoLGAJ
+         Sbnw==
+X-Received: by 10.66.122.100 with SMTP id lr4mr4294889pab.164.1380732138438;
+        Wed, 02 Oct 2013 09:42:18 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received: from [10.0.0.60] (50-46-116-109.evrt.wa.frontiernet.net. [50.46.116.109])
+        by mx.google.com with ESMTPSA id pu5sm4519548pac.21.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 02 Oct 2013 09:42:17 -0700 (PDT)
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+Subject: Re: Gregory's sleeping gear
+From: Lydia Lee <l2e2knit@gmail.com>
+In-Reply-To: <20131002163641.GG3536@gmail.com>
+Date: Wed, 2 Oct 2013 09:42:17 -0700
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <600545B0-1B59-4123-9416-FD57ECF7B15E@gmail.com>
+References: <06835EFB-9AAC-496B-A172-C536C239B7A2@gmail.com> <20131002141736.GE3536@gmail.com> <A7E75238-547B-4966-95D6-4A36027FB5FC@gmail.com> <20131002163641.GG3536@gmail.com>
+To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+X-Mailer: Apple Mail (2.1510)
+
+Hah!  Thanks, Scott!
+
+Lydia
+
+On Oct 2, 2013, at 9:36 AM, Scott and Sanae Stanley =
+<3g.coordinator@gmail.com> wrote:
+
+> Medical gloves? It's just urine.
+>=20
+> Please relax Lydia. It's not near the burden you're imagining it to =
+be. We'll do our best with Gregory.
+>=20
+> -Scott
+>=20
+>=20
+> On Wed, Oct 02, 2013 at 09:01:31AM -0700, Lydia Lee wrote:
+>> I've slightly changed the extra PJs scenario.  Since Gregory doesn't =
+normally like PJs (too confining and too warm, I think), I've put one =
+pair of PJs in for him and told him if he wets, he can put on sweatpants =
+and any t-shirt and underwear, besides these will be looser, easier and =
+faster to put on in the middle of the night.
+>>=20
+>> There is a plastic bag in with the sleeping bag for a wet sleeping =
+bag insert, and there are a couple of plastic bags in with the clothes =
+in case of wet sleeping clothes.
+>>=20
+>> He'll definitely need to go to the bathroom in the middle of the =
+night (11:30/12:00), as he's been wetting the bed lately; it may be he's =
+worried about the trip and isn't saying so.  Maybe bring some medical =
+gloves so you don't have to deal with touching the wet stuff??  I'm =
+sorry!!  And we really appreciate your help!=20
+>>=20
+>> His eyeglass case is in a gallon Ziploc bag in duffle for his =
+clothes.
+>>=20
+>> Thank you,
+>>=20
+>> Lydia
+>>=20
+>>=20
+>>=20
+>> On Oct 2, 2013, at 7:17 AM, Scott and Sanae Stanley =
+<3g.coordinator@gmail.com> wrote:
+>>=20
+>>> Noted; thanks for the extra prep Lydia. I've also forwarded this to =
+Jared, who will be in Gregory's tent.
+>>>=20
+>>> -Scott
+>>>=20
+>>> On Tue, Oct 01, 2013 at 09:58:58PM -0700, Lydia Lee wrote:
+>>>> Hi Scott and Sanae,
+>>>>=20
+>>>> I am packing two sleeping bag liners in the event of bedwetting; =
+I've already inserted one into his sleeping bag (and had him try it =
+out), and have left it there so it's ready to sleep in.  It doesn't =
+fasten to the sleeping bag, but rather is just inserted.  One side is =
+the bottom that goes underneath him and the other, thinner side is the =
+top.  I will include a plastic bag to put one into in the event of =
+bedwetting.  There will also be extra set of PJs and underwear for him.
+>>>>=20
+>>>> Thank you,
+>>>> Lydia
+>>=20
+

@@ -1,0 +1,97 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.75.195 with SMTP id e3csp236519wjw;
+        Wed, 18 Dec 2013 11:30:27 -0800 (PST)
+Return-Path: <amorphous.yet.not@gmail.com>
+Received-SPF: pass (google.com: domain of amorphous.yet.not@gmail.com designates 10.220.169.203 as permitted sender) client-ip=10.220.169.203
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of amorphous.yet.not@gmail.com designates 10.220.169.203 as permitted sender) smtp.mail=amorphous.yet.not@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.220.169.203])
+        by 10.220.169.203 with SMTP id a11mr9209528vcz.26.1387395025766 (num_hops = 1);
+        Wed, 18 Dec 2013 11:30:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=eCfJB+mzDoI6e2UhWcRFysFyk4L8JNNRJpWAX98sXP8=;
+        b=ofVJfGx9CIeqQsU4+MNJUmlYhx9IzQc4vCWBYrIV/McPHU9bESyq95pOjsWV03d3Ae
+         yZX3+4SlFf48OOE+RfDKMAUZcGLkIHzpfsBZseQNp2z0x23z8xOv6pvG8jXgz8Ca4sH2
+         +csZvivkjnEkcB2epy17KM7RKVlrTFJ4NCkk9uXmrl1FqMBx4dBAhQPL1iiuNOjWjok0
+         Qb8QcP25PWcM8/WNfl1b4PkEIC3GEwdColgfSFOwkeo0j6MFs2w3wHGMYimna4Dl5FNc
+         hsfrzmEi5Y85hHaI+usVEy2F+tAWtj/2Tw82KTrvf5CDNfNl788zfDM7ujt8cvkZsZq5
+         qHZg==
+MIME-Version: 1.0
+X-Received: by 10.220.169.203 with SMTP id a11mr9209528vcz.26.1387395025763;
+ Wed, 18 Dec 2013 11:30:25 -0800 (PST)
+Received: by 10.52.102.164 with HTTP; Wed, 18 Dec 2013 11:30:25 -0800 (PST)
+Received: by 10.52.102.164 with HTTP; Wed, 18 Dec 2013 11:30:25 -0800 (PST)
+In-Reply-To: <CAESC6sWYQs5CeDkX3AFSaeS4QssY=h2J3v9TJssV1_qbOAfsXw@mail.gmail.com>
+References: <CAESC6sWYQs5CeDkX3AFSaeS4QssY=h2J3v9TJssV1_qbOAfsXw@mail.gmail.com>
+Date: Wed, 18 Dec 2013 11:30:25 -0800
+Message-ID: <CAON4CQA7ENo=e6GtpoWL0BO-VzAExS33wQ8OB7L6E0bO7vN8VQ@mail.gmail.com>
+Subject: Fwd: is this OK?
+From: Scott <amorphous.yet.not@gmail.com>
+To: "3g.coordinator@gmail.com" <3g.coordinator@gmail.com>
+Content-Type: multipart/alternative; boundary=047d7b6721c4ac820504edd4131a
+
+--047d7b6721c4ac820504edd4131a
+Content-Type: text/plain; charset=ISO-8859-1
+
+---------- Forwarded message ----------
+From: "Sanae Stanley" <goobi928@gmail.com>
+Date: Dec 18, 2013 11:16 AM
+Subject: is this OK?
+To: "Scott Stanley" <amorphous.yet.not@gmail.com>
+
+Grade Three parents,
+
+This is just a quick reminder that there are just TWO mornings left to sign
+the card for Mrs. Spurgin,
+The Christmas card we will giving her is in our box in the school office.
+
+Friday, December 20th after lunch recess Sanae will be presenting her with
+the card and handmade or consumable gifts that you may drop off in the eco
+shopping bag outside the classroom.
+(Friday is a Mrs. Spurgin's short day)
+
+Many thanks for all of your generous gifts of time and effort and care!
+
+--047d7b6721c4ac820504edd4131a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"gmail_quote">---------- Forwarded message ----------<br>From:=
+ &quot;Sanae Stanley&quot; &lt;<a href=3D"mailto:goobi928@gmail.com">goobi9=
+28@gmail.com</a>&gt;<br>Date: Dec 18, 2013 11:16 AM<br>Subject: is this OK?=
+<br>
+To: &quot;Scott Stanley&quot; &lt;<a href=3D"mailto:amorphous.yet.not@gmail=
+.com">amorphous.yet.not@gmail.com</a>&gt;<br><br type=3D"attribution"><div =
+dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial,helveti=
+ca,sans-serif;font-size:small">
+Grade Three parents,<br><br></div><div class=3D"gmail_default" style=3D"fon=
+t-family:arial,helvetica,sans-serif;font-size:small">
+
+This is just a quick reminder that there are just TWO mornings left to sign=
+ the card for Mrs. Spurgin,<br></div><div class=3D"gmail_default" style=3D"=
+font-family:arial,helvetica,sans-serif;font-size:small">The Christmas card =
+we will giving her is in our box in the school office.<br>
+
+
+<br></div><div class=3D"gmail_default" style=3D"font-family:arial,helvetica=
+,sans-serif;font-size:small">Friday, December 20th after lunch recess Sanae=
+ will be presenting her with the card and handmade or consumable gifts that=
+ you may drop off in the eco shopping bag outside the classroom.<br>
+
+
+</div><div class=3D"gmail_default" style=3D"font-family:arial,helvetica,san=
+s-serif;font-size:small">(Friday is a Mrs. Spurgin&#39;s short day)<br><br>=
+</div><div class=3D"gmail_default" style=3D"font-family:arial,helvetica,san=
+s-serif;font-size:small">
+
+
+Many thanks for all of your generous gifts of time and effort and care!<br>=
+<br></div><div class=3D"gmail_default" style=3D"font-family:arial,helvetica=
+,sans-serif;font-size:small">=A0<br></div></div>
+</div>
+
+--047d7b6721c4ac820504edd4131a--

@@ -1,0 +1,137 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp28143wjy;
+        Sat, 5 Oct 2013 18:10:12 -0700 (PDT)
+X-Received: by 10.229.116.197 with SMTP id n5mr98038qcq.22.1381021811586;
+        Sat, 05 Oct 2013 18:10:11 -0700 (PDT)
+Return-Path: <Lisa.Anderson@emc.com>
+Received: from mailuogwhop.emc.com (mailuogwhop.emc.com. [168.159.213.141])
+        by mx.google.com with ESMTPS id j8si7067683qaz.122.1969.12.31.16.00.00
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 05 Oct 2013 18:10:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Lisa.Anderson@emc.com designates 168.159.213.141 as permitted sender) client-ip=168.159.213.141;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Lisa.Anderson@emc.com designates 168.159.213.141 as permitted sender) smtp.mail=Lisa.Anderson@emc.com;
+       dkim=pass header.i=@emc.com
+Received: from maildlpprd05.lss.emc.com (maildlpprd05.lss.emc.com [10.253.24.37])
+	by mailuogwprd03.lss.emc.com (Sentrion-MTA-4.3.0/Sentrion-MTA-4.3.0) with ESMTP id r961A9gk032269
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO);
+	Sat, 5 Oct 2013 21:10:10 -0400
+X-DKIM: OpenDKIM Filter v2.4.3 mailuogwprd03.lss.emc.com r961A9gk032269
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=emc.com; s=jan2013;
+	t=1381021810; bh=LhDjXdNPeEN9QZmBi2sS9/44Zg8=;
+	h=From:To:Date:Subject:Message-ID:Content-Type:MIME-Version;
+	b=rz0NiVvh3trETdlEIlbxGkQDx4jx6bDiI503HbMGnVYYxmXnGCJWc42bXBKDlGxi2
+	 Abw1MobXtDVGzm8e3UsWjX0AViFQyf/8WbhkOD9LtscPTZCNWj5AV4pQV/QvbD1M/u
+	 LhdAlvxaWx6Z2DNFJQ5YZ/4gBJeI+MaZckIDZvz4=
+X-DKIM: OpenDKIM Filter v2.4.3 mailuogwprd03.lss.emc.com r961A9gk032269
+Received: from mailusrhubprd52.lss.emc.com (mailusrhubprd52.lss.emc.com [10.106.48.25]) by maildlpprd05.lss.emc.com (RSA Interceptor); Sat, 5 Oct 2013 18:09:50 -0700
+Received: from mxhub08.corp.emc.com (mxhub08.corp.emc.com [128.222.70.205])
+	by mailusrhubprd52.lss.emc.com (Sentrion-MTA-4.3.0/Sentrion-MTA-4.3.0) with ESMTP id r9619ngE018280
+	(version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=FAIL);
+	Sat, 5 Oct 2013 21:09:49 -0400
+Received: from mx13a.corp.emc.com ([169.254.1.119]) by mxhub08.corp.emc.com
+ ([128.222.70.205]) with mapi; Sat, 5 Oct 2013 21:09:49 -0400
+From: "Anderson, Lisa" <Lisa.Anderson@emc.com>
+To: Corey Hope Colwell <coreyhopecolwell@gmail.com>,
+        Scott and Sanae Stanley
+	<3g.coordinator@gmail.com>,
+        Rachel Rodriguez <teamromama@gmail.com>,
+        Mary
+ Spurgin <mspurgin@threecedarswaldorf.org>,
+        "maryclausnitzer@gmail.com"
+	<maryclausnitzer@gmail.com>
+Date: Sat, 5 Oct 2013 21:09:48 -0400
+Subject: Totally random trip tidbit
+Thread-Topic: Totally random trip tidbit
+Thread-Index: Ac7CMIgb/Ry/PGxRSDWnj3iy+DTd4AAADh5Z
+Message-ID: <7703B7CA90262447BEE878EB6B6AAAA812B5248B@MX13A.corp.emc.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_7703B7CA90262447BEE878EB6B6AAAA812B5248BMX13Acorpemccom_"
+MIME-Version: 1.0
+X-Sentrion-Hostname: mailusrhubprd52.lss.emc.com
+X-EMM-GWVC: 1
+X-EMM-McAfeeVC: 1
+X-RSA-Classifications: public
+
+--_000_7703B7CA90262447BEE878EB6B6AAAA812B5248BMX13Acorpemccom_
+Content-Type: text/plain; charset="windows-1256"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Sent from my Windows Phone
+________________________________
+From: lisa anderson<mailto:lisabadand@hotmail.com>
+Sent: =FD10/=FD5/=FD2013 6:08 PM
+To: Anderson, Lisa<mailto:Lisa.Anderson@emc.com>
+Subject: Totally random trip tidbit
+
+http://m.youtube.com/watch?v=3DKgmeL_xuB0I&desktop_uri=3D%2Fwatch%3Fv%3DKgm=
+eL_xuB0I
+
+I just wanted to share with you that this was my earworm THE ENTIRE TRIP!!!
+
+:)
+Lisa
+
+Sent from my Windows Phone
+
+--_000_7703B7CA90262447BEE878EB6B6AAAA812B5248BMX13Acorpemccom_
+Content-Type: text/html; charset="windows-1256"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+256">
+</head>
+<body>
+<div>
+<div style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif"><br>
+<br>
+Sent from my Windows Phone</div>
+</div>
+<div dir=3D"ltr">
+<hr>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGH=
+T: bold">From:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif"><a =
+href=3D"mailto:lisabadand@hotmail.com">lisa anderson</a></span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGH=
+T: bold">Sent:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif">=FD=
+10/=FD5/=FD2013 6:08 PM</span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGH=
+T: bold">To:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif"><a =
+href=3D"mailto:Lisa.Anderson@emc.com">Anderson, Lisa</a></span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGH=
+T: bold">Subject:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif">Tot=
+ally random trip tidbit</span><br>
+<br>
+</div>
+<div>
+<div>
+<div style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif">http://m.yo=
+utube.com/watch?v=3DKgmeL_xuB0I&amp;desktop_uri=3D%2Fwatch%3Fv%3DKgmeL_xuB0=
+I
+<br>
+<br>
+I just wanted to share with you that this was my earworm THE ENTIRE TRIP!!!=
+<br>
+<br>
+:)<br>
+Lisa<br>
+<br>
+Sent from my Windows Phone</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_7703B7CA90262447BEE878EB6B6AAAA812B5248BMX13Acorpemccom_--

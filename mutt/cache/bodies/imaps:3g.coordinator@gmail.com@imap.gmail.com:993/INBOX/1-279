@@ -1,0 +1,183 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp110074wjy;
+        Mon, 11 Nov 2013 11:11:52 -0800 (PST)
+X-Received: by 10.66.253.169 with SMTP id ab9mr4208871pad.156.1384197111624;
+        Mon, 11 Nov 2013 11:11:51 -0800 (PST)
+Return-Path: <shatrova@gmail.com>
+Received: from mail-pd0-x234.google.com (mail-pd0-x234.google.com [2607:f8b0:400e:c02::234])
+        by mx.google.com with ESMTPS id ai2si17024995pad.291.2013.11.11.11.11.50
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 11 Nov 2013 11:11:51 -0800 (PST)
+Received-SPF: pass (google.com: domain of shatrova@gmail.com designates 2607:f8b0:400e:c02::234 as permitted sender) client-ip=2607:f8b0:400e:c02::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shatrova@gmail.com designates 2607:f8b0:400e:c02::234 as permitted sender) smtp.mail=shatrova@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x234.google.com with SMTP id v10so1486225pde.25
+        for <3g.coordinator@gmail.com>; Mon, 11 Nov 2013 11:11:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=2pamM4F2gjGD5jJUpEYj+VVsPmcgomrVuYXzIMu5LRM=;
+        b=DWjlcCt4Pxrlum/mZ0zidtmEJwyZ7hoXbGCa2/fBS+peJpDqdSBOa3hwhVKW3wT9dp
+         i3R9W9an0yLqIOJfFUSVDaDGEhAQpHyE7I/NJygGzGQiwOnktjhyx5/o2ggz/tnVp1NY
+         wku2WqprVY3gHvDHhQmwUeie8XQClQ1nVPJusdS6Cfo+Kf1Z/c0UYc0eX9NpIq4ZfWVs
+         Y7xbAFlkEn4gU0nC1Cm8B6+RYJ8/Au5g/L/lDRU2nYI6lVSCkndnrY+Zw6REkzAkZL6+
+         ZPnDgIiiHsMgFzym+ZeQBYgH3ToKLCGhrmoqHFOCQ/OqznZM3WQUNVvVwMoZ9xbBxYHO
+         fFDQ==
+X-Received: by 10.68.160.69 with SMTP id xi5mr4173498pbb.168.1384197110875;
+        Mon, 11 Nov 2013 11:11:50 -0800 (PST)
+Return-Path: <shatrova@gmail.com>
+Received: from [192.168.1.8] (50-46-111-172.evrt.wa.frontiernet.net. [50.46.111.172])
+        by mx.google.com with ESMTPSA id ef10sm11576770pac.1.2013.11.11.11.11.49
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 11 Nov 2013 11:11:49 -0800 (PST)
+Subject: Re: Sunfield Payments
+References: <20131111045538.GB28136@gmail.com> <fd3950eb7bb243ef8f5d4a2595b7c0a6@DM2PR05MB366.namprd05.prod.outlook.com>
+From: Anna Shatrova <shatrova@gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-A012FC83-D462-439D-842A-BA548099894F
+X-Mailer: iPhone Mail (11B511)
+In-Reply-To: <fd3950eb7bb243ef8f5d4a2595b7c0a6@DM2PR05MB366.namprd05.prod.outlook.com>
+Message-Id: <E900BA8C-E152-478B-8CD7-8D0484AD675F@gmail.com>
+Date: Mon, 11 Nov 2013 11:11:48 -0800
+To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+
+--Apple-Mail-A012FC83-D462-439D-842A-BA548099894F
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Sorry, Scott, it totally slipped my mind. What was the sum again?
+Thanks,
+Anna
+
+Sent from my iPhone 4S
+
+> On Nov 11, 2013, at 10:11, School Office <schooloffice@threecedarswaldorf.=
+org> wrote:
+>=20
+> Please find below a message from your class coordinators. Replies may be d=
+irected to 3g.coordinator@gmail.com.
+> =20
+> =20
+> Dear Third Grade Parents,
+> Thank you to those who have dropped off your checks. We've repaid two of t=
+he three parents, and partially paid the third.
+> =20
+> We need 6 more checks; it would be great if we could get these by the end o=
+f this week. Please do what you can to make this happen.
+> =20
+> At this time I'd also like to acknowledge that it's not typical for there t=
+o be a "charge" associated with field trips at Three Cedars. It would have b=
+een much better for the class to come together as a community to contribute m=
+aterials or time, rather than a few people making decisions for the whole cl=
+ass and then shouldering that load. However, outside issues made planning ve=
+ry difficult to achieve this kind of coordination.
+> =20
+> The planning for the May trip to Pioneer Farm will be much more gratifying=
+ for ALL parents, and you will not be asked for any payment. I've got a pret=
+ty thick skin, so you're all certainly welcome to give any feedback you have=
+ to make Pioneer more enjoyable for you.
+> =20
+> -Scott
+> =20
+> Scott and Sanae Stanley | Grade Three Class Coordinator
+
+--Apple-Mail-A012FC83-D462-439D-842A-BA548099894F
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Sorry, Scott, it totally slipped my mind. What was the sum again?</div><div>Thanks,</div><div>Anna<br><br>Sent from my iPhone 4S</div><div><br>On Nov 11, 2013, at 10:11, School Office &lt;<a href="mailto:schooloffice@threecedarswaldorf.org">schooloffice@threecedarswaldorf.org</a>&gt; wrote:<br><br></div><blockquote type="cite"><div>
+
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+
+
+<div class="WordSection1">
+<p class="MsoPlainText"><i>Please find below a message from your class coordinators. Replies may be directed to
+<a href="mailto:3g.coordinator@gmail.com">3g.coordinator@gmail.com</a>.<o:p></o:p></i></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<div class="MsoPlainText" align="center" style="text-align:center">
+<hr size="2" width="100%" align="center">
+</div>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Dear Third Grade Parents,<o:p></o:p></p>
+<p class="MsoPlainText">Thank you to those who have dropped off your checks. We've repaid two of the three parents, and partially paid the third.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">We need 6 more checks; it would be great if we could get these by the end of this week. Please do what you can to make this happen.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">At this time I'd also like to acknowledge that it's not typical for there to be a "charge" associated with field trips at Three Cedars. It would have been much better for the class to come together as a community to contribute materials
+ or time, rather than a few people making decisions for the whole class and then shouldering that load. However, outside issues made planning very difficult to achieve this kind of coordination.
+<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">The planning for the May trip to Pioneer Farm will be much more gratifying for ALL parents, and you will not be asked for any payment. I've got a pretty thick skin, so you're all certainly welcome to give any feedback you have to make
+ Pioneer more enjoyable for you.<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">-Scott<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Scott and Sanae Stanley | Grade Three Class Coordinator<o:p></o:p></p>
+</div>
+
+
+</div></blockquote></body></html>
+--Apple-Mail-A012FC83-D462-439D-842A-BA548099894F--

@@ -1,0 +1,67 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp81270wjy;
+        Mon, 30 Sep 2013 07:39:40 -0700 (PDT)
+Return-Path: <l2e2knit@gmail.com>
+Received-SPF: pass (google.com: domain of l2e2knit@gmail.com designates 10.182.18.9 as permitted sender) client-ip=10.182.18.9
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of l2e2knit@gmail.com designates 10.182.18.9 as permitted sender) smtp.mail=l2e2knit@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.182.18.9])
+        by 10.182.18.9 with SMTP id s9mr22797975obd.15.1380551980441 (num_hops = 1);
+        Mon, 30 Sep 2013 07:39:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=references:from:mime-version:in-reply-to:date:message-id:subject:to
+         :cc:content-type;
+        bh=gGSyLaJ4MGfgn1pvWEYJwTMynPJpS6Kfu9/AzvmD5y4=;
+        b=PLOYmsatLP0RBfifZXk6IXIn/OAfHGS/VZ8Kx2POERD7I4saFFvoNOBk5kcnLsvCFc
+         ENMVO2T+idCET+JdayJma6Z+7pqdZuBJUQJsYkIQUwpac35F5Vn3ZvYirlHJdpIGwNII
+         nFld0BBbsZmTRtH+lviTRq6T6oAtmqCNKzmmI01040miQPsjvydmuocSghKgS65Nve3s
+         htdS1Kfrzgk+7hpLsbDkzh19BYBsuFUQhu6A/AZhuMWu4K2v2g/dHUToBgHOlKcD3LSY
+         7nSUFcyfSKVnRII5SIdX5NkEfxnRj+k8BbVMlXZG1SsdhLrtYPGTnnL9QYBu/6XpCcaI
+         /4hg==
+X-Received: by 10.182.18.9 with SMTP id s9mr20263919obd.15.1380551979534; Mon,
+ 30 Sep 2013 07:39:39 -0700 (PDT)
+References: <CALT4recWQr4quL73_Ga8aiZ7S3WH-VrbOt8uRuqWgTauXZE+bg@mail.gmail.com>
+From: Lydia Lee <l2e2knit@gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <CALT4recWQr4quL73_Ga8aiZ7S3WH-VrbOt8uRuqWgTauXZE+bg@mail.gmail.com>
+Date: Mon, 30 Sep 2013 07:39:37 -0700
+Message-ID: <8089672355014893401@unknownmsgid>
+Subject: Re: The final gear list for the Field Trip
+To: S Stanley <3g.coordinator@gmail.com>
+Cc: Mary Spurgin <mspurgin@threecedarswaldorf.org>
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Sanae and Scott,
+
+Thank you for the final list; I find it very helpful.  You may want to
+put an email out to remind parents to bring the storage case (labeled)
+for the special items kids need:  storage case for retainer (don't
+know if anyone has this yet), eyeglass case for glasses when not worn.
+ It seems pretty obvious for the category of "toiletries", but Gregory
+has been wearing glasses forever, and it just occurred to me to bring
+an eyeglass case (labeled brightly colored, so it's easily seen in a
+dimly lit tent) for when he's asleep.  He's supposed to wear glasses
+all the time while awake, but often "forgets" to put them on and they
+could be overlooked.
+
+Lydia
+
+Sent from my iPhone
+
+> On Sep 27, 2013, at 6:22 PM, S Stanley <3g.coordinator@gmail.com> wrote:
+>
+> Hi Third Grade Parents,
+>
+> I handed out the"final" gear list to most of the parents at pick-up time today but
+> some students stayed for after care.
+> So here is the list.
+> If you have any questions, please send us email.
+>
+> Have a nice weekend!
+>
+>
+> Scott and Sanae Stanley
+> Third Grade Class Coordinators
+> <sunfieldfinallist.pdf>

@@ -1,0 +1,49 @@
+Delivered-To: amorphous.yet.not@gmail.com
+Received: by 10.52.116.98 with SMTP id jv2csp414467vdb;
+        Fri, 19 Dec 2014 13:33:48 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:date:from:to
+         :reply-to:subject:content-type:message-id;
+        bh=I2rZ2eCEQaMCj6Gz+niANHJZ5fIizmNFUX8ruzgUE3Y=;
+        b=cjFmnAJs3XxC9v2Ptqfwy/+1KGTjsldj/aWcfSmi6EmBUXCAxcCuiuS/h6KbAeLOZ5
+         BX+Bf+pL/uE6OSu39dfCNrSqpjgxjHobvSLptTNF+8ClIhZF4w3Ujermz/elfqMHzohj
+         WyBGkOpSUy1OAmEdOrHtn4ckYPk3Zu69SbjZCk6LfSVddtBxktmWN0jC1888fK7FTBNR
+         tp5INKj6RIADfZCHkHJ0lebCaLAQLaRsRtFra3P59J4sRfPjavmtd3OiH9mswYFfjfXo
+         RUrEY6Lwit4/TFzcwS/i++BuWAeZusfiqCi47DIl7cZw74GE+aMMlhroynDLA+1IadpL
+         Fwhg==
+X-Original-Authentication-Results: mx.google.com;       spf=none (google.com: email@mta.blackboardconnect.com does not designate permitted sender hosts) smtp.mail=email@mta.blackboardconnect.com
+X-Received: from mr.google.com ([10.194.57.43])
+        by 10.194.57.43 with SMTP id f11mr13226846wjq.6.1419024828641 (num_hops = 1);
+        Fri, 19 Dec 2014 13:33:48 -0800 (PST)
+X-Received: by 10.194.57.43 with SMTP id f11mr18152636wjq.6.1419024828074;
+        Fri, 19 Dec 2014 13:33:48 -0800 (PST)
+X-Forwarded-To: amorphous.yet.not@gmail.com
+X-Forwarded-For: scott.w.stanley@gmail.com amorphous.yet.not@gmail.com
+Delivered-To: scott.w.stanley@gmail.com
+Received: by 10.27.50.146 with SMTP id y140csp423059wly;
+        Fri, 19 Dec 2014 13:33:47 -0800 (PST)
+X-Received: by 10.68.175.97 with SMTP id bz1mr15738990pbc.90.1419024826304;
+        Fri, 19 Dec 2014 13:33:46 -0800 (PST)
+Return-Path: <email@mta.blackboardconnect.com>
+Received: from smtp.notification.com (smtp.notification.com. [208.93.120.245])
+        by mx.google.com with ESMTP id mt9si15731461pdb.157.2014.12.19.13.33.45
+        for <scott.w.stanley@gmail.com>;
+        Fri, 19 Dec 2014 13:33:46 -0800 (PST)
+Received-SPF: none (google.com: email@mta.blackboardconnect.com does not designate permitted sender hosts) client-ip=208.93.120.245;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: email@mta.blackboardconnect.com does not designate permitted sender hosts) smtp.mail=email@mta.blackboardconnect.com
+Received: by smtp.notification.com id hiicrk162vgo for <scott.w.stanley@gmail.com>; Fri, 19 Dec 2014 13:30:17 -0800 (envelope-from <email@mta.blackboardconnect.com>)
+Date: Fri, 19 Dec 2014 13:30:17 -0800
+From: "Tracy Bennett" <tracy.bennett@seattlewaldorf.org>
+To: scott.w.stanley@gmail.com
+Reply-To: tracy.bennett@seattlewaldorf.org
+Subject: Season's Greetings From Seattle Waldorf School
+Content-Type: text/html; charset="utf-8"
+Message-ID: <0.0.9.8CF.1D01BD2FB956AA0.27E@smtp.notification.com>
+
+<DIV>
+<P style="text-align: left; font-family: Lucida Grande; font-size: 13px; color: #333333; ">A message from SEATTLE WALDORF SCHOOL</P>
+</DIV>
+<div style="text-align: left;"><img alt="" src="http://www.seattlewaldorf.org/Images/email/Connection_Images/SeasonsGreetings2014.png" style="width: 750px; height: 900px;" /><br />
+</div><BR/><BR/>

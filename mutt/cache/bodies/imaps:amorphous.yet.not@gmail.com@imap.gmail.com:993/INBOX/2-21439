@@ -1,0 +1,72 @@
+Delivered-To: amorphous.yet.not@gmail.com
+Received: by 10.52.116.98 with SMTP id jv2csp1439580vdb;
+        Tue, 23 Dec 2014 12:08:01 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:date:from:to
+         :reply-to:subject:content-type:message-id;
+        bh=24iATkZGJeM0YKMbAANrYcRelO+A7V/rW5Gncnd7QtU=;
+        b=ZDY/+ANXZ11aMA76PlcL5YD5COKTgNE0qAt9I2cjgOzZKB2xqXM+1hJONfFJS+nWWh
+         kZk4j6fMDNTZnnWvby7GAznSVh0k7PxkMc0zd7RuVRNgsq9B2hb9VdaFz0l2U0U8TSrM
+         xZ09PVdyZnisOEE1zco28F4Sqr+qYfpgD8bPnZH2J8oqIPZ2G1/03KyY04Yceb2KNmt4
+         b+NS9wdnTWqhZIWrpL2z2+47KIc4i3NBIzIU2U4W2ag8UA7KagNMaB2t3ppBBtEHbzvK
+         102uC0EHZYsN8M4MkN1qXM5IXHxAeBnIhW9LBPUtVJFCq5DKndv/0aA3t03H1k6duC1Z
+         Np9Q==
+X-Original-Authentication-Results: mx.google.com;       spf=none (google.com: email@mta.blackboardconnect.com does not designate permitted sender hosts) smtp.mail=email@mta.blackboardconnect.com
+X-Received: from mr.google.com ([10.194.19.38])
+        by 10.194.19.38 with SMTP id b6mr36572699wje.44.1419365281110 (num_hops = 1);
+        Tue, 23 Dec 2014 12:08:01 -0800 (PST)
+X-Received: by 10.194.19.38 with SMTP id b6mr56192046wje.44.1419365280631;
+        Tue, 23 Dec 2014 12:08:00 -0800 (PST)
+X-Forwarded-To: amorphous.yet.not@gmail.com
+X-Forwarded-For: scott.w.stanley@gmail.com amorphous.yet.not@gmail.com
+Delivered-To: scott.w.stanley@gmail.com
+Received: by 10.27.50.146 with SMTP id y140csp1491640wly;
+        Tue, 23 Dec 2014 12:07:59 -0800 (PST)
+X-Received: by 10.70.134.34 with SMTP id ph2mr47795825pdb.78.1419365278761;
+        Tue, 23 Dec 2014 12:07:58 -0800 (PST)
+Return-Path: <email@mta.blackboardconnect.com>
+Received: from smtp.notification.com (smtp.notification.com. [208.93.120.245])
+        by mx.google.com with ESMTP id ck6si31201990pad.145.2014.12.23.12.07.57
+        for <scott.w.stanley@gmail.com>;
+        Tue, 23 Dec 2014 12:07:58 -0800 (PST)
+Received-SPF: none (google.com: email@mta.blackboardconnect.com does not designate permitted sender hosts) client-ip=208.93.120.245;
+Authentication-Results: mx.google.com;
+       spf=none (google.com: email@mta.blackboardconnect.com does not designate permitted sender hosts) smtp.mail=email@mta.blackboardconnect.com
+Received: by smtp.notification.com id hj75ps16328b for <scott.w.stanley@gmail.com>; Tue, 23 Dec 2014 12:00:05 -0800 (envelope-from <email@mta.blackboardconnect.com>)
+Date: Tue, 23 Dec 2014 12:00:05 -0800
+From: "Erica Suk" <esuk@seattlewaldorf.org>
+To: scott.w.stanley@gmail.com
+Reply-To: esuk@seattlewaldorf.org
+Subject: High School Term 1 Reports Ready to View
+Content-Type: text/html; charset="utf-8"
+Message-ID: <0.0.1.650.1D01EEB0B78524F.7ED@smtp.notification.com>
+
+<DIV>
+<P style="text-align: left; font-family: Lucida Grande; font-size: 13px; color: #333333; ">A message from SEATTLE WALDORF SCHOOL</P>
+</DIV>
+Dear High School families,<br />
+<br />
+We are pleased to announce the release of the High School reports for Term 1 via our online system known as ORCAS.  <br />
+<br />
+To view student reports, please follow these steps:<br />
+<br />
+1. Navigate to ORCAS at <a href="https://orcas.seattlewaldorf.org.">https://orcas.seattlewaldorf.org.</a>&nbsp;<br />
+<br />
+2. At the login screen, enter your case-sensitive username and password. Click on "Forgotten Username" or "Forgotten Password" if you have lost this information and it will be emailed to you.<br />
+<br />
+3. To ensure that you are able to view all grades and reports:<br />
+&bull;	Click the &ldquo;Students&rdquo; tab at the top of the page.<br />
+&bull;	Click &ldquo;Reports&rdquo;, which is located in the menu on the left-hand side of the screen. <br />
+&bull;	Select "View and Print All". <br />
+&bull;	When the print option appears, just click the cancel button and you will be able to read through all the reports and grades.<br />
+<br />
+If you have questions about the content of your student's reports, please contact his or her advisor. For technical assistance, please email me at esuk@seattlewaldorf.org. <strong>If you are having difficulty viewing your student&rsquo;s grades, please make sure that you follow the directions in item 3 above.</strong><br />
+<br />
+I hope you and your family have a wonderful Winter Break!<br />
+<br />
+Sincerely,<br />
+<br />
+Erica Suk | Office Coordinator &amp; Registrar<br />
+Seattle Waldorf High School | 206.522.2644<br />
+esuk@seattlewaldorf.org | www.seattlewaldorf.org<BR/><BR/>

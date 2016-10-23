@@ -1,0 +1,40 @@
+" nvi doesn't like inline comments or empty lines, be warned!
+"
+" GENERAL
+set columns=80
+set secure
+"
+" 2 SPACE INDENTATION
+"set autoindent
+set shiftwidth=2
+set tabstop=2
+set ts=2
+"set expandtab
+"
+" PROMPTS
+set errorbells
+set flash
+set verbose
+"
+" SHOW LINE NUMBERS, COLUMN/ROW POSITION
+set number
+set ruler
+"
+" KEY MAPPING
+map e ea
+map wm 
+"
+" ABBREVIATIONS
+" to use, type abbreviation, then non alpha-numeric
+" to set on the fly type :ab abbr the phrase you want
+" to unset an abbreviation, type :unab abbr
+abbr _aa This is The Tale, of Alan A'Dale
+abbr _bw The Bird is The Word
+abbr _gc Grilled cheese sandwiches
+abbr _nc #include <ncurses.h>
+abbr _rb http://rubenerd.com/
+abbr _ri <img src="http://rubenerd.com/uploads/" alt="" style="" />
+abbr _sig Peace, health and happiness,<br /><cite>~ Ruben</cite>
+"
+" EOF
+

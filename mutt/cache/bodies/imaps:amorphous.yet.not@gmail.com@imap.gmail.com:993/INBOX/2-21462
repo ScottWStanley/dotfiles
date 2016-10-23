@@ -1,0 +1,502 @@
+Delivered-To: amorphous.yet.not@gmail.com
+Received: by 10.52.116.98 with SMTP id jv2csp2437274vdb;
+        Sat, 27 Dec 2014 14:23:35 -0800 (PST)
+X-Received: from mr.google.com ([10.180.87.36])
+        by 10.180.87.36 with SMTP id u4mr48539036wiz.20.1419719015045 (num_hops = 1);
+        Sat, 27 Dec 2014 14:23:35 -0800 (PST)
+X-Received: by 10.180.87.36 with SMTP id u4mr79654910wiz.20.1419719014157;
+        Sat, 27 Dec 2014 14:23:34 -0800 (PST)
+X-Forwarded-To: amorphous.yet.not@gmail.com
+X-Forwarded-For: scott.w.stanley@gmail.com amorphous.yet.not@gmail.com
+Delivered-To: scott.w.stanley@gmail.com
+Received: by 10.27.50.146 with SMTP id y140csp2530561wly;
+        Sat, 27 Dec 2014 14:23:33 -0800 (PST)
+Return-Path: <sanae.stan@gmail.com>
+Received-SPF: pass (google.com: domain of sanae.stan@gmail.com designates 10.42.25.144 as permitted sender) client-ip=10.42.25.144
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of sanae.stan@gmail.com designates 10.42.25.144 as permitted sender) smtp.mail=sanae.stan@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.42.25.144])
+        by 10.42.25.144 with SMTP id a16mr34228237icc.66.1419719012870 (num_hops = 1);
+        Sat, 27 Dec 2014 14:23:32 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=NG4Yh9RdySU1gQBt/4X1Cj/OvJpo4r9OYED+Lw72DXI=;
+        b=mu0z9B5wdPSLXFT4ovdhBn7SncHfPm8Nfw0m9wtMcbPg+0nGpqNijlZGz9bKD7MOWJ
+         teKo/Wd2yMgMFoq+a4cOCjiFnsDMYNyxxhzQx6UqqGtcuGko2Gh9RImBimWk4ylPWdVu
+         +7jQJY32m/g8ZDZ8IE62kmBb6dAIsOLSpLzodl85BYJjugvpUWs39o3d0OxWA596VchU
+         3sX97pZUhZWKwFdRM6N+2s/UA/R14e+ScGzqPhO4u57c6hdhS7fo3bSV2WoiVZe8fn0D
+         Sn/X3ecvBJLriFOy8yPrBdV9xF4VuH2KCoW0wuSgOS1aHot+oDvGmsAU4Mdu2VdTygtu
+         IadQ==
+MIME-Version: 1.0
+X-Received: by 10.42.25.144 with SMTP id a16mr38214484icc.66.1419719012005;
+ Sat, 27 Dec 2014 14:23:32 -0800 (PST)
+Received: by 10.107.135.217 with HTTP; Sat, 27 Dec 2014 14:23:31 -0800 (PST)
+Received: by 10.107.135.217 with HTTP; Sat, 27 Dec 2014 14:23:31 -0800 (PST)
+In-Reply-To: <083679CA-130A-4C56-B9C3-48B86A9C04B3@yahoo.com>
+References: <41.17.16368.4360E945@dc4mta05>
+	<506FDDA0-6CA3-4581-AADF-7999981CEF74@yahoo.com>
+	<A91A555B-8808-47CF-90FD-76E6A847E8C9@gmail.com>
+	<083679CA-130A-4C56-B9C3-48B86A9C04B3@yahoo.com>
+Date: Sat, 27 Dec 2014 14:23:31 -0800
+Message-ID: <CAB5rohHz=+ZE_EJWGJXvKSCC1GxtrkaCReWdARfNRmHnUq+sDA@mail.gmail.com>
+Subject: Re: Opening Day and New Year's Eve at Alpental
+From: Sanae Stanley <sanae.stan@gmail.com>
+To: Rachel Wilson Rodriguez <racheldw@yahoo.com>
+Cc: Kelly Anderson <bell47g2@gmail.com>, Scott Stanley <scott.w.stanley@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf303ea5826439c4050b3a17bb
+
+--20cf303ea5826439c4050b3a17bb
+Content-Type: text/plain; charset=UTF-8
+
+Thank you for the information Rachel. I'm not in good condition either, but
+let's make sure to go when everyone gets better.
+
+-Sanae
+On Dec 27, 2014 10:50 AM, "Rachel Rodriguez" <racheldw@yahoo.com> wrote:
+
+> I agree. Wanted you all to see the official word from them in case you
+> aren't on their email list.
+>
+> Thanks,
+>
+> Rachel
+>
+> On Dec 27, 2014, at 7:33 AM, Kelly Anderson <bell47g2@gmail.com> wrote:
+>
+> Let's wait until our collective health is 100%.  This round of flu is
+> brutal!
+>
+> Kelly
+>
+> On Dec 27, 2014, at 1:22 AM, Rachel Rodriguez <racheldw@yahoo.com> wrote:
+>
+> Looks like tubing will open this weekend.
+>
+> Jav and I are so sick, don't know if we will get to go.
+>
+> Rachel
+>
+> Begin forwarded message:
+>
+> *From:* "The Summit at Snoqualmie" <webmonkey@summiti90.com>
+> *Date:* December 26, 2014 at 5:00:25 PM PST
+> *To:* Rachel Rodriguez <racheldw@yahoo.com>
+> *Subject:* *Opening Day and New Year's Eve at Alpental  *
+> *Reply-To:* webmonkey2@summiti90.com
+>
+>   View this message online <http://echo3.bluehornet.com/p/vsxY3wuAON>
+> [image: Mountain Update]
+> <http://echo3.bluehornet.com/ct/24519977:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+>
+>
+>  *Summit West Possible Opening*
+>
+> Hallelujah!! The forecast
+> <http://echo3.bluehornet.com/ct/24519978:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> is calling for significant snow Saturday and Saturday night, and we hope
+> it's enough to open Summit West on *Sunday* for the 2014-2015 season!
+> Forecasts aren't always accurate as you know, so we will wait to make an
+> official opening decision until we see what this storm truly provides. Stay
+> tuned for a Saturday update, and be sure to check our website
+> <http://echo3.bluehornet.com/ct/24519977:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> and social channels.
+>  *Tubing Center Opening*
+>
+>  We've been working hard to prep the Tubing Center for opening day.
+> Continuing to wait for mother nature was not an option, so we've been
+> hauling hundreds of dump truck loads of snow to the tubing hill over the
+> past week. Snow has been harvested from parking lots across the base areas,
+> from Summit Central to Alpental. Thanks to our snow removal team, the
+> Tubing Center will open for limited operations this Sunday!
+>
+> Tubing tickets will be available online
+> <http://echo3.bluehornet.com/ct/24519979:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> starting Saturday. We recommend purchasing in advance as tickets will be
+> limited and tend to sell out fast.
+> Holiday Perks at Big Sky & Brighton
+> <http://echo3.bluehornet.com/ct/24519980:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+>
+> Extending through January 9, 2015, all Summit Passholders (excluding
+> Nordic) will be eligible for free full-day tickets at Big Sky Resort,
+> Montana, and Brighton, Utah. Thanks to our sister resorts, we're able to
+> help spread a little more holiday cheer this season. Plus, at Big Sky
+> Summit passholders can get 30% off lodging, making this an incredible
+> opportunity to make a trip to Montana for a legendary experience. For
+> complete details on this offer click here
+> <http://echo3.bluehornet.com/ct/24519980:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> .
+>
+> Call
+> *1-800-548-4486 <1-800-548-4486>*
+> to reserve today
+>
+> ------------------------------
+>
+>   [image: Jobs]
+> <http://echo3.bluehornet.com/ct/24519981:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r> New
+> Year's Eve at Alpental
+>
+> We're having a huge NYE party at Alpental, and you're invited! Live music,
+> food, and festivities. Order your tickets in advance and get a limited
+> edition Alpental Koozie... Read More
+> <http://echo3.bluehornet.com/ct/24519981:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> .
+>
+>  *Time: *8p - 1a
+>
+> *Date: *Dec. 31st, 2014
+>    [image: Roktoberfest]
+> <http://echo3.bluehornet.com/ct/24519982:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r> *Burton
+> Riglet Park*
+>
+> A fun way for kids to discover snowboarding at a young age. The Riglet
+> Park offers free coaching and gear, all your little one needs is a lift
+> ticket... Read more
+> <http://echo3.bluehornet.com/ct/24519982:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> .
+>
+>  *Time: *9a - 3p
+>
+> *Date: *Jan. 4th, 2015
+>
+>   [image: Multi-week]
+> <http://echo3.bluehornet.com/ct/24519983:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+>
+> *Multi-Week Lessons Still Open*
+>
+> Many of our Consecutive week lessons at Summit Central and Summit West are
+> still open for enrollment. Central6 and West4 lessons offer superb value
+> for skiers and boarders of all levels... Read more
+> <http://echo3.bluehornet.com/ct/24519983:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r>
+> .
+>
+>
+>   *With a little luck and some more hard work, we'll be hitting the
+> slopes this weekend. Stay tuned!*
+>
+> *-The Summit Family*
+>
+>
+>        *The Summit at Snoqualmie*
+> 1001 State Rt 906, Snoqualmie Pass, WA 98068
+> [image: Summit on Instagram] <http://instagram.com/summitatsnoqualmie>[image:
+> Summit on Facebook] <https://www.facebook.com/summitatsnoqualmie>[image:
+> Summit on Twitter] <https://twitter.com/SummitSnow411>
+>
+>  This message was intended for: racheldw@yahoo.com
+>
+> You were added to the system February 18, 2014. For more information click
+> here <http://echo3.bluehornet.com/p/isxY3wuAON>.
+> Update your preferences <http://echo3.bluehornet.com/p/osxY3wuAON> |
+> Unsubscribe <http://echo3.bluehornet.com/p/osxY3wuAON>
+>
+>
+>
+>
+> <http://www.ryansolutions.com/welcome/?utm_source=bluehornet&utm_medium=footerlink&utm_campaign=clientemails>
+>
+>
+
+--20cf303ea5826439c4050b3a17bb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Thank you for the information Rachel. I&#39;m not in good co=
+ndition either, but let&#39;s make sure to go when everyone gets better.</p=
+>
+<p dir=3D"ltr">-Sanae</p>
+<div class=3D"gmail_quote">On Dec 27, 2014 10:50 AM, &quot;Rachel Rodriguez=
+&quot; &lt;<a href=3D"mailto:racheldw@yahoo.com">racheldw@yahoo.com</a>&gt;=
+ wrote:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"=
+margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"=
+auto"><div>I agree. Wanted you all to see the official word from them in ca=
+se you aren&#39;t on their email list.</div><div><br></div><div>Thanks,<br>=
+<br>Rachel</div><div><br>On Dec 27, 2014, at 7:33 AM, Kelly Anderson &lt;<a=
+ href=3D"mailto:bell47g2@gmail.com" target=3D"_blank">bell47g2@gmail.com</a=
+>&gt; wrote:<br><br></div><blockquote type=3D"cite"><div><div>Let&#39;s wai=
+t until our collective health is 100%.=C2=A0 This round of flu is brutal!<b=
+r><br>Kelly</div><div><br>On Dec 27, 2014, at 1:22 AM, Rachel Rodriguez &lt=
+;<a href=3D"mailto:racheldw@yahoo.com" target=3D"_blank">racheldw@yahoo.com=
+</a>&gt; wrote:<br><br></div><blockquote type=3D"cite"><div><div>Looks like=
+ tubing will open this weekend. =C2=A0</div><div><br></div><div>Jav and I a=
+re so sick, don&#39;t know if we will get to go.<br><br>Rachel</div><div><b=
+r>Begin forwarded message:<br><br></div><blockquote type=3D"cite"><div><b>F=
+rom:</b> &quot;The Summit at Snoqualmie&quot; &lt;<a href=3D"mailto:webmonk=
+ey@summiti90.com" target=3D"_blank">webmonkey@summiti90.com</a>&gt;<br><b>D=
+ate:</b> December 26, 2014 at 5:00:25 PM PST<br><b>To:</b> Rachel Rodriguez=
+ &lt;<a href=3D"mailto:racheldw@yahoo.com" target=3D"_blank">racheldw@yahoo=
+.com</a>&gt;<br><b>Subject:</b> <b>Opening Day and New Year&#39;s Eve at Al=
+pental=C2=A0 </b><br><b>Reply-To:</b> <a href=3D"mailto:webmonkey2@summiti9=
+0.com" target=3D"_blank">webmonkey2@summiti90.com</a><br><br></div></blockq=
+uote><blockquote type=3D"cite"><div>
+
+
+                   <table width=3D"620" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" summary=3D"411">             <tbody>
+                <tr>                     <td><a href=3D"http://echo3.blueho=
+rnet.com/p/vsxY3wuAON" target=3D"_blank">View this message online</a><br>  =
+                   <a href=3D"http://echo3.bluehornet.com/ct/24519977:24240=
+244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=3D"_blank">=
+<img src=3D"http://echo3.bluehornet.com/cimages/8439cc6c88a80805558d590c58a=
+a3b8a/EmailHeaderStatus.jpg" alt=3D"Mountain Update" align=3D"" style=3D"ma=
+rgin:0px" border=3D"0"></a></td>                 </tr>                 <tr>=
+                     <td><table width=3D"620" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" summary=3D"Article1">                         <tbody>  =
+                           <tr>                                 <td style=
+=3D"padding:4px"><span style=3D"color:#074e7f">                            =
+     <h4></h4>                                 </span><span style=3D"color:=
+#074e7f">                                 <p><span style=3D"font-family:Tah=
+oma"><br type=3D"_moz">                               =20
+</span></p>                                 <h4><span style=3D"font-family:=
+Tahoma"><strong>Summit West Possible Opening</strong></span></h4>         =
+=20
+                      <p></p>                                 <p><span styl=
+e=3D"font-family:Tahoma">Hallelujah!! The <a href=3D"http://echo3.bluehorne=
+t.com/ct/24519978:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF4=
+7:r" target=3D"_blank">forecast</a> is calling for significant snow Saturda=
+y and
+Saturday night, and we hope it&#39;s enough to open Summit West on <strong>=
+Sunday</strong> for the 2014-2015 season! Forecasts aren&#39;t always accur=
+ate as
+you know, so we will wait to make an official opening decision until we see=
+ what this storm truly provides. Stay tuned for a Saturday update, and be
+sure to check our <a href=3D"http://echo3.bluehornet.com/ct/24519977:242402=
+44840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=3D"_blank">w=
+ebsite</a> and social
+channels.</span></p>                                 </span><span style=3D"=
+color:#074e7f">                                 <h4><span style=3D"font-fam=
+ily:Tahoma"><strong>Tubing Center Opening</strong></span></h4>             =
+                    <p></p>                              =20
+ <p></p>                                 <p><span style=3D"font-family:Taho=
+ma">We&#39;ve been working hard to prep the Tubing Center for opening day.
+Continuing to wait for mother nature was not an option, so we&#39;ve been h=
+auling hundreds of dump truck loads of snow to the tubing hill over the pas=
+t
+week. Snow has been harvested from parking lots across the base areas, from=
+ Summit Central to Alpental. Thanks to our snow removal team, the Tubing
+Center will open for limited operations this Sunday! </span></p>           =
+                      <p><span style=3D"font-family:Tahoma">Tubing tickets
+will be <a href=3D"http://echo3.bluehornet.com/ct/24519979:24240244840:m:1:=
+584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=3D"_blank">available o=
+nline</a> starting Saturday. We
+recommend purchasing in advance as tickets will be limited and tend to sell=
+ out fast.</span></p>                                 <h4><font face=3D"Tah=
+oma"><span style=3D"font-family:Tahoma"><a href=3D"http://echo3.bluehornet.=
+com/ct/24519980:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:=
+r" target=3D"_blank">Holiday Perks at Big Sky &amp; Brighton</a></span></fo=
+nt></h4>                                 </span>                           =
+    =20
+<p><span style=3D"color:#074e7f"><span style=3D"font-family:Tahoma">Extendi=
+ng through January 9, 2015, all Summit Passholders (excluding
+Nordic)=C2=A0will be eligible for free full-day tickets at Big Sky Resort, =
+Montana,=C2=A0and Brighton,=C2=A0Utah. Thanks to our sister resorts, we&#39=
+;re
+able to help spread a little more holiday cheer this season. Plus, at Big S=
+ky Summit passholders can get 30% off lodging, making this an incredible
+opportunity to make a trip to Montana for a legendary experience. For compl=
+ete details on this offer=C2=A0</span></span><a href=3D"http://echo3.blueho=
+rnet.com/ct/24519980:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2=
+FF47:r" target=3D"_blank"><span style=3D"font-family:Tahoma">click
+here</span></a><span style=3D"color:#074e7f"><span style=3D"font-family:Tah=
+oma">.</span></span></p>                                 <p></p>          =
+=20
+                     <p align=3D"center" style=3D"text-align:center"><span =
+style=3D"font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;color:#06548=
+5">Call<br>                                 </span><strong><span style=3D"f=
+ont-size:13.5pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;color=
+:#065485"><a href=3D"tel:1-800-548-4486" value=3D"+18005484486" target=3D"_=
+blank">1-800-548-4486</a></span></strong><span style=3D"font-family:&quot;T=
+ahoma&quot;,&quot;sans-serif&quot;;color:#065485"><br>                     =
+            to reserve today</span><span style=3D"font-family:Tahoma"><br t=
+ype=3D"_moz">                                 </span></p>                  =
+               <br>                                 <hr></td>        =20
+                   </tr>                         </tbody>                  =
+   </table>                     <p></p>                     <table width=3D=
+"620" style=3D"margin:15px 0px 15px" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" summary=3D"event1" height=3D"145">                         <tbod=
+y>   =20
+                        <tr>                                 <td style=3D"p=
+adding:4px" height=3D"145"><h3><a href=3D"http://echo3.bluehornet.com/ct/24=
+519981:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=
+=3D"_blank"><img src=3D"http://echo3.bluehornet.com/cimages/8439cc6c88a8080=
+5558d590c58aa3b8a/Email-EventNYE14.jpg" alt=3D"Jobs" style=3D"float:left;pa=
+dding:4px;margin:0px 8px 5px;border-radius:3px 3px 3px 3px" width=3D"150px"=
+ height=3D"85px"></a></h3></td>                     =20
+          <td style=3D"padding:4px"><h3><span style=3D"font-size:13px"><spa=
+n style=3D"font-family:Tahoma"><font color=3D"#074e7f">New Year&#39;s Eve a=
+t
+Alpental</font></span></span></h3>                                 <p><span=
+ style=3D"color:#074e7f"><span style=3D"font-size:13px"><span style=3D"font=
+-family:Tahoma">We&#39;re having a huge NYE party at Alpental, and you&#39;=
+re invited! Live music, food, and festivities. Order your tickets in
+advance and get a limited edition Alpental Koozie...</span></span></span><s=
+pan style=3D"font-size:13px"><span style=3D"font-family:Tahoma"><span style=
+=3D"color:#074e7f"> </span></span></span><span style=3D"color:#074e7f;font-=
+family:Tahoma;font-size:13px"><a href=3D"http://echo3.bluehornet.com/ct/245=
+19981:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=
+=3D"_blank"><span style=3D"font-size:13px"><span style=3D"font-family:Tahom=
+a">Read More</span></span></a></span><span style=3D"font-size:13px"><span s=
+tyle=3D"font-family:Tahoma"><span style=3D"color:#074e7f">.</span></span></=
+span></p></td>                                 <td style=3D"padding:4px" he=
+ight=3D"145" width=3D"135"><p></p>                 =20
+              <span style=3D"color:#074e7f">                               =
+  <p style=3D"text-align:right"><strong><span style=3D"font-size:13px"><spa=
+n style=3D"font-family:Tahoma">Time: </span></span></strong><span style=3D"=
+font-size:13px"><span style=3D"font-family:Tahoma">8p -
+1a</span></span></p>                                 </span>               =
+                  <p style=3D"text-align:right"><span style=3D"color:#074e7=
+f"><strong><span style=3D"font-size:13px"><span style=3D"font-family:Tahoma=
+">Date: </span></span></strong><span style=3D"font-size:13px"><span style=
+=3D"font-family:Tahoma">Dec. 31st, 2014</span></span></span></p></td>      =
+                       </tr>                         </tbody>        =20
+           </table>                     <table width=3D"620" style=3D"margi=
+n:15px 0px 15px" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" summary=
+=3D"event2" height=3D"145">                         <tbody>                =
+             <tr>                                 <td style=3D"padding:4px"=
+ height=3D"145"><h3><a href=3D"http://echo3.bluehornet.com/ct/24519982:2424=
+0244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=3D"_blank"=
+><img src=3D"http://echo3.bluehornet.com/cimages/8439cc6c88a80805558d590c58=
+aa3b8a/Email-Eventriglet.jpg" alt=3D"Roktoberfest" style=3D"float:left;padd=
+ing:4px;margin:0px 8px 5px;border-radius:3px 3px 3px 3px" width=3D"150px" h=
+eight=3D"85px"></a></h3></td>          =20
+                     <td style=3D"padding:4px"><h3><strong><span style=3D"c=
+olor:#074e7f"><span style=3D"font-size:13px"><span style=3D"font-family:Tah=
+oma">Burton Riglet Park</span></span></span></strong></h3>                 =
+                <p><span style=3D"font-size:13px"><span style=3D"font-famil=
+y:Tahoma"><span style=3D"color:#074e7f">A fun way for kids to discover snow=
+boarding at a young age. The Riglet Park offers free
+coaching and gear, all your little one needs is a lift ticket... </span></s=
+pan></span><span style=3D"color:#074e7f;font-family:Tahoma;font-size:13px">=
+<a href=3D"http://echo3.bluehornet.com/ct/24519982:24240244840:m:1:58411296=
+1:520BF5B29178D6E829BA84DC26A2FF47:r" target=3D"_blank"><span style=3D"font=
+-size:13px"><span style=3D"font-family:Tahoma">Read more</span></span></a><=
+/span><span style=3D"font-size:13px"><span style=3D"font-family:Tahoma"><sp=
+an style=3D"color:#074e7f">.</span></span></span></p></td>                 =
+                <td style=3D"padding:4px" height=3D"145" width=3D"135"><p><=
+/p>                 =20
+              <span style=3D"color:#074e7f">                               =
+  <p style=3D"text-align:right"><strong><span style=3D"font-size:13px"><spa=
+n style=3D"font-family:Tahoma">Time: </span></span></strong><span style=3D"=
+font-size:13px"><span style=3D"font-family:Tahoma">9a -
+3p</span></span></p>                                 </span>               =
+                  <p style=3D"text-align:right"><span style=3D"color:#074e7=
+f"><strong><span style=3D"font-size:13px"><span style=3D"font-family:Tahoma=
+">Date: </span></span></strong><span style=3D"font-size:13px"><span style=
+=3D"font-family:Tahoma">Jan. 4th, 2015</span></span></span></p></td>       =
+                      </tr>                         </tbody>         =20
+          </table>                     <p></p>                     <table w=
+idth=3D"620" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" summary=3D"ev=
+ent3" height=3D"145">                         <tbody>                      =
+       <tr>                                 <td style=3D"padding:4px" heigh=
+t=3D"145"><p><a href=3D"http://echo3.bluehornet.com/ct/24519983:24240244840=
+:m:1:584112961:520BF5B29178D6E829BA84DC26A2FF47:r" target=3D"_blank"><img s=
+rc=3D"http://echo3.bluehornet.com/cimages/8439cc6c88a80805558d590c58aa3b8a/=
+Email-Eventcwl.jpg" alt=3D"Multi-week" style=3D"float:left;padding:4px;marg=
+in:0px 8px 5px;border-radius:3px 3px 3px 3px" width=3D"150px" height=3D"85p=
+x"></a></p></td>           =20
+                    <td style=3D"padding:4px"><p><font color=3D"#074e7f" fa=
+ce=3D"Tahoma"><span style=3D"font-size:13px"><strong>Multi-Week Lessons Sti=
+ll
+Open</strong></span></font></p>                                 <p><span st=
+yle=3D"color:#074e7f"><span style=3D"font-size:13px"><span style=3D"font-fa=
+mily:Tahoma">Many of our Consecutive week lessons at Summit Central and Sum=
+mit West are still open for enrollment. Central6 and West4
+lessons offer superb value for skiers and boarders of all levels...</span><=
+/span></span><span style=3D"font-size:13px"><span style=3D"font-family:Taho=
+ma"><span style=3D"color:#074e7f"> </span></span></span><span style=3D"colo=
+r:#074e7f;font-family:Tahoma;font-size:13px"><a href=3D"http://echo3.blueho=
+rnet.com/ct/24519983:24240244840:m:1:584112961:520BF5B29178D6E829BA84DC26A2=
+FF47:r" target=3D"_blank"><span style=3D"font-size:13px"><span style=3D"fon=
+t-family:Tahoma">Read more</span></span></a></span><span style=3D"font-size=
+:13px"><span style=3D"font-family:Tahoma"><span style=3D"color:#074e7f">.</=
+span></span></span></p>                                 <p></p></td>       =
+                      </tr>                         </tbody> =20
+                  </table>                     <table width=3D"620" style=
+=3D"margin:20px 0px 20px" border=3D"0" cellpadding=3D"1" cellspacing=3D"1" =
+summary=3D"closing paragraph">                         <tbody>             =
+                <tr>                                 <td style=3D"padding:4=
+px"><p></p>                                 <p><span style=3D"font-family:T=
+ahoma"><br type=3D"_moz">                                 </span></p>   =20
+                            <p></p>                                 <span s=
+tyle=3D"font-family:Tahoma">                                 <p><font color=
+=3D"#065485"><span style=3D"font-size:14px"><em>With a little luck and some=
+ more hard work, we&#39;ll be hitting the slopes this weekend. Stay
+tuned!</em></span></font></p>                                 </span>      =
+                           <p><span style=3D"color:#065485"><strong><span s=
+tyle=3D"font-size:14px"><span style=3D"font-family:Tahoma">-The Summit Fami=
+ly</span></span></strong></span></p>                               =20
+<p><span style=3D"font-family:Tahoma"><br type=3D"_moz">                   =
+              </span></p>                                 <p></p></td>    =
+=20
+                       </tr>                         </tbody>              =
+       </table></td>                 </tr>                 <tr>           =
+=20
+    </tr>             </tbody>         </table>    =20
+
+                            <table style=3D"background:#d4ecfc;margin:10px =
+0px 0px" width=3D"620" border=3D"0" cellpadding=3D"1" cellspacing=3D"1" sum=
+mary=3D"Summary">             <tbody>                 <tr>                 =
+    <td><p style=3D"text-align:left"><span style=3D"color:#3278a8"><strong>=
+<span style=3D"font-size:13px"><span style=3D"font-family:Tahoma">The Summi=
+t at
+Snoqualmie</span></span></strong><br>                     <span style=3D"fo=
+nt-size:12px"><span style=3D"font-family:Tahoma">1001 State Rt 906,
+Snoqualmie Pass, WA 98068</span></span></span></p></td>                    =
+ <td><a href=3D"http://instagram.com/summitatsnoqualmie" target=3D"_blank">=
+<img src=3D"https://echo3.bluehornet.com/cimages/8439cc6c88a80805558d590c58=
+aa3b8a/instagram_iconSm.png" style=3D"margin:5px" alt=3D"Summit on
+Instagram" align=3D"right" border=3D"0" width=3D"44px" height=3D"44px"></a>=
+<a href=3D"https://www.facebook.com/summitatsnoqualmie" target=3D"_blank"><=
+img src=3D"https://echo3.bluehornet.com/cimages/8439cc6c88a80805558d590c58a=
+a3b8a/Facebook_iconSm.png" style=3D"margin:5px" alt=3D"Summit on
+Facebook" align=3D"right" border=3D"0" width=3D"44px" height=3D"44px"></a><=
+a href=3D"https://twitter.com/SummitSnow411" target=3D"_blank"><img src=3D"=
+http://echo3.bluehornet.com/cimages/8439cc6c88a80805558d590c58aa3b8a/twitte=
+r_iconSm.png" style=3D"margin:5px" alt=3D"Summit on Twitter" align=3D"right=
+" border=3D"0" width=3D"44px" height=3D"44px"></a></td>                 </t=
+r>             </tbody>         </table>         <table style=3D"margin:0px=
+ 0px 10px" width=3D"620" border=3D"0" cellpadding=3D"7" cellspacing=3D"1" s=
+ummary=3D"Footer">             <tbody>                 <tr>                =
+     <td><p style=3D"text-align:center"></p>                     <p style=
+=3D"text-align:center"></p>                     <p style=3D"text-align:cent=
+er"><span style=3D"color:rgb(153,153,153);font-family:Verdana,Arial,Helveti=
+ca,sans-serif;font-size:x-small">This message was intended
+for:=C2=A0</span><a href=3D"mailto:racheldw@yahoo.com" style=3D"font-family=
+:Verdana,Arial,Helvetica,sans-serif;font-size:x-small" target=3D"_blank">ra=
+cheldw@yahoo.com</a><span style=3D"color:rgb(153,153,153);font-family:Verda=
+na,Arial,Helvetica,sans-serif;font-size:x-small">=C2=A0</span></p>         =
+            <p style=3D"text-align:center"><span style=3D"text-align:center=
+;color:rgb(153,153,153);font-family:Verdana,Arial,Helvetica,sans-serif;font=
+-size:x-small">You were added to the system February 18, 2014. For more inf=
+ormation=C2=A0</span><a href=3D"http://echo3.bluehornet.com/p/isxY3wuAON" s=
+tyle=3D"text-align:center;font-family:Verdana,Arial,Helvetica,sans-serif;fo=
+nt-size:x-small" target=3D"_blank">click here</a><span style=3D"text-align:=
+center;color:rgb(153,153,153);font-family:Verdana,Arial,Helvetica,sans-seri=
+f;font-size:x-small">.</span><br style=3D"text-align:center;color:rgb(153,1=
+53,153);font-family:Verdana,Arial,Helvetica,sans-serif;font-size:x-small"> =
+                    <a href=3D"http://echo3.bluehornet.com/p/osxY3wuAON" st=
+yle=3D"text-align:center;font-family:Verdana,Arial,Helvetica,sans-serif;fon=
+t-size:x-small" target=3D"_blank">Update your preferences</a><span style=3D=
+"text-align:center;color:rgb(153,153,153);font-family:Verdana,Arial,Helveti=
+ca,sans-serif;font-size:x-small">=C2=A0|=C2=A0</span><a href=3D"http://echo=
+3.bluehornet.com/p/osxY3wuAON" style=3D"text-align:center;font-family:Verda=
+na,Arial,Helvetica,sans-serif;font-size:x-small" target=3D"_blank">Unsubscr=
+ibe</a></p></td>                 </tr>             </tbody>         </table=
+>         <p style=3D"text-align:center"></p>         <p></p>     <br><br><=
+a href=3D"http://www.ryansolutions.com/welcome/?utm_source=3Dbluehornet&amp=
+;utm_medium=3Dfooterlink&amp;utm_campaign=3Dclientemails" target=3D"_blank"=
+><img src=3D"http://echo3.bluehornet.com/skins/cc19d3ff6430f39b/powered_by.=
+jpg" border=3D"0"></a><p></p><img src=3D"http://echo3.bluehornet.com/imagel=
+ibrary/N-24240244840-31F86E3758C8AF17BBBCF651733F8C05.jpg" border=3D"0" wid=
+th=3D"1" height=3D"1">
+
+
+
+
+</div></blockquote></div></blockquote></div></blockquote></div></blockquote=
+></div>
+
+--20cf303ea5826439c4050b3a17bb--

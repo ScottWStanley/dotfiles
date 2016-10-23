@@ -1,0 +1,526 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp165637wjy;
+        Mon, 21 Oct 2013 12:29:30 -0700 (PDT)
+X-Received: by 10.67.5.132 with SMTP id cm4mr2878179pad.186.1382383769078;
+        Mon, 21 Oct 2013 12:29:29 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pa0-x229.google.com (mail-pa0-x229.google.com [2607:f8b0:400e:c03::229])
+        by mx.google.com with ESMTPS id hj4si9967005pac.213.2013.10.21.12.29.28
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 21 Oct 2013 12:29:29 -0700 (PDT)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::229 as permitted sender) client-ip=2607:f8b0:400e:c03::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::229 as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x229.google.com with SMTP id bj1so8595083pad.0
+        for <3g.coordinator@gmail.com>; Mon, 21 Oct 2013 12:29:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:thread-index:content-language;
+        bh=DuUojnIGHK27Ee+8ur4yj+H4EREQzqtK5U7B+n83R4g=;
+        b=FNn//811JSn/H/LRH7A83Z3JE4Q0msSRTk7iRr5Qpb/2DnUbsZMCbQs3cuv6UCucGi
+         N0Qh+2zzmTkPCzJKGYnkQ4m2FnWVI3XgjqcqjgnVTCGOIqP3t6Q3d3UXo5rlgoQ5WGDV
+         4VYqNWq9Ap+c6C6LPrjMhaPisj7JgU5K0/Z/2nBFoUyYWgRuJFFXYXeaJ0avjZzeO1p/
+         SndT+SUOfkplEIp0OhXncZlMbQclyjx9+3CF4P8AhCDKGP+s9fK6Hl42FXKhr2NLNjuh
+         m9Lpt5O2nqzXZl+0vlRpabJVpmV/fUvkVkaAInV/SH6PHZB6ZE/MUNtmKyeilj7oMWra
+         kUqg==
+X-Received: by 10.68.201.138 with SMTP id ka10mr3044773pbc.192.1382383767918;
+        Mon, 21 Oct 2013 12:29:27 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from SonyLaptop (75-172-29-89.tukw.qwest.net. [75.172.29.89])
+        by mx.google.com with ESMTPSA id b3sm22611458pbu.38.2013.10.21.12.29.26
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 21 Oct 2013 12:29:27 -0700 (PDT)
+From: "Corey Hope Colwell" <coreyhopecolwell@gmail.com>
+To: "'S Stanley'" <3g.coordinator@gmail.com>
+References: <20131018165428.GC7375@gmail.com>	<009E39AC-B217-4A1E-BB99-F7082EBEF352@gmail.com>	<012101cecc71$bd097f10$371c7d30$@com> <CALT4recpNOWA-YQdtYKiSrXan2fPDr5ObUKh=YXMLCpE3D9BGA@mail.gmail.com>
+In-Reply-To: <CALT4recpNOWA-YQdtYKiSrXan2fPDr5ObUKh=YXMLCpE3D9BGA@mail.gmail.com>
+Subject: RE: Sunfield Trip Expenses
+Date: Mon, 21 Oct 2013 12:29:32 -0700
+Message-ID: <022701cece93$dee75520$9cb5ff60$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0228_01CECE59.32887D20"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac7OG9yNZ4GPsRCJSQe7p9V4CVjWcgAd6khA
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0228_01CECE59.32887D20
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Sounds good, thank you for uploading the photos! I'm sorry my DSL made it
+impossible for me to do so :(
+
+ 
+
+As for reimbursement, all of the receipts I submitted are accurate. Of
+course, please let me know if anyone has any questions. 
+
+ 
+
+Thanks, Scott. Talk to you soon! Corey
+
+ 
+
+From: S Stanley [mailto:3g.coordinator@gmail.com] 
+Sent: Sunday, October 20, 2013 10:10 PM
+To: Corey Hope Colwell
+Subject: RE: Sunfield Trip Expenses
+
+ 
+
+Hi Corey,
+Sorry for not replying sooner. Regarding reimbursement, just do what you
+think is reasonable. My previous request must be weighed against the things
+I'm ignorant of, such as food being stored for Pioneer.
+
+Regarding your last suggestion about everyone brings their own meal, I'm
+leaning pretty heavily that way too.
+
+It'll be nice to bounce ideas off of each other.
+
+BTW, your photo disc is in our inbox. Everyone should now have access to all
+the photos online.
+
+-Scott
+
+On Oct 18, 2013 7:20 PM, "Corey Hope Colwell" <coreyhopecolwell@gmail.com>
+wrote:
+
+Hi all, 
+
+ 
+
+... Contributing some additional ideas for Pioneer & beyond:
+
+ 
+
+We are never going to be able to use 100% of what we buy for trips; some
+perishables are just going to need to be eaten. If the school is paying for
+these foods in the future, I think we should donate all leftovers to the
+school for use in aftercare, early childhood, teacher lunches, etc. But I
+don't think we should ask parents to "buy" them back, unless they really
+want to (on one of Zoe's trips there was a lot of leftover items that our
+family used regularly and so this is exactly what we did). Buying back is
+too confusing, too time consuming, etc. 
+
+ 
+
+ 
+
+Perhaps not a popular idea but maybe one to consider: In the future, to save
+money, time, stress, etc. one real option would be to just have parents send
+in all meals, snacks, etc for their own child. Only food that doesn't need
+heating (i.e. breakfast couldn't be eggs or oatmeal). Even if we're doing
+hot dogs over the fire or whatever, parents can send their kids with their
+own. No shopping, no preparing, no receipt submissions and reimbursements.
+All we'd need are a bunch of ice chests and ice.
+
+ 
+
+Just a thought :)
+
+ 
+
+Corey
+
+ 
+
+ 
+
+-----Original Message-----
+From: Rachel Rodriguez [mailto:teamromama@gmail.com] 
+Sent: Friday, October 18, 2013 1:56 PM
+To: Scott and Sanae Stanley
+Cc: Corey Colwell-Lipson; Lisa Anderson; Mary Spurgin
+Subject: Re: Sunfield Trip Expenses
+
+ 
+
+Scott,
+
+ 
+
+We had a lot of extra food that Corey bought that she gave out to people
+when we got back.  I think she should just submit her whole shopping bill to
+school because that is too much to figure out.
+
+ 
+
+Rachel
+
+ 
+
+Sent from my iPhone
+
+ 
+
+> On Oct 18, 2013, at 9:54 AM, Scott and Sanae Stanley <
+<mailto:3g.coordinator@gmail.com> 3g.coordinator@gmail.com> wrote:
+
+> 
+
+> Corey, Lisa, and Rachel,
+
+> Please read the email below for a statement from Seraphina. In short, TCWS
+will reimburse you for any FOOD related expenses.
+
+> 
+
+> However, I have this to add. I'm certain that a portion of the food that
+was purchased was not ultimately consumed during the trip (either by being
+eaten or thrown away), and I know this was anticpiated during our chaperone
+meeting. 
+
+> 
+
+> When you fill out your reimbursement form, I ask that you consider the
+real cost to you. That means that if a bottle/jar/package of something was
+purchased but only a small fraction of that was used for the trip, calculate
+accordingly. For example, if you bought a (fictitious) jar of pickles for $3
+and only used 1/3 of the jar for the trip, claim $3 x 1/3, or $1. When you
+submit your receipts with the reimbursement form, add the denominator to the
+line item that you divided, and I'll explain the meaning to Seraphina. I
+realize this will take extra time on your part, but it's the right thing to
+do.
+
+> 
+
+> The next step will be for me to repay you all for the non-food items. I'd
+like to send out that email this weekend.
+
+> 
+
+> Please call or email me with your questions.
+
+> 
+
+> -Scott
+
+> 
+
+> ----- Forwarded message from Seraphina Orzel 
+
+> < <mailto:sorzel@threecedarswaldorf.org> sorzel@threecedarswaldorf.org>
+-----
+
+> 
+
+> Date: Thu, 17 Oct 2013 18:24:39 +0000
+
+> From: Seraphina Orzel < <mailto:sorzel@threecedarswaldorf.org>
+sorzel@threecedarswaldorf.org>
+
+> To: Scott and Sanae Stanley < <mailto:3g.coordinator@gmail.com>
+3g.coordinator@gmail.com>
+
+> Subject: RE: Sunfield Trip Expenses
+
+> 
+
+> Dear Scott,
+
+> 
+
+> Thank you for your email.
+
+> 
+
+> This trip is relatively new for our school, and it is evident that we have
+not yet mastered the details of this overnight. Having asked parents to
+purchase food for this trip was clearly a departure from our current
+practices to fund field trips entirely out of tuition, as we do state
+clearly in our tuition contract that parents will not incur any additional
+charges other than those related to our strings program. For a variety of
+reasons, we did not include the cost for the food expense associated with
+this field trip in the class budget, which led to parents being asked to
+provide funding for the food. In retrospect, this should have been handled
+differently, and I'm so very sorry for any confusion or financial strain
+this may have caused you and the Grade 3 class parents.
+
+> 
+
+> In this light, we feel it is the responsibility of the school to reimburse
+parents fully for the unplanned expenses they incurred related to food for
+this trip. This additional expense does not mean that the budget of the
+class will be reduced, but simply means that the funds will be located
+elsewhere. Parents are of course very welcome to make a tax deductible
+donation to the school if they would like to donate the amount they spent on
+the trip. They can simply add that amount to the annual fund contribution
+they were already planning on donating. If the class parents who made the
+purchases wish to be reimbursed, they will simply need to fill out a
+reimbursement form, with the receipts attached, and submit it to the office.
+
+> 
+
+> I hope this helps clarify, but please let me know if you have additional
+questions. Again, I apologize for any confusion that has surrounded the
+organization of this particular trip and am grateful to be able to benefit
+from your experience this year to ensure a smoother process for classes to
+come. Thank you for your support of the school on many levels, and for
+carrying the Grade 3 class.
+
+> 
+
+> Warmly,
+
+> Seraphina
+
+> 
+
+> Seraphina Orzel | Director of Administration Three Cedars Waldorf 
+
+> School | 425.401.9874 
+
+>
+<mailto:sorzel@threecedarswaldorf.org%3cmailto:sorzel@threecedarswaldorf.org
+> sorzel@threecedarswaldorf.org<mailto:sorzel@threecedarswaldorf.org> |
+threecedarswaldorf.org< <http://www.threecedarswaldorf.org/>
+http://www.threecedarswaldorf.org/>
+
+
+------=_NextPart_000_0228_01CECE59.32887D20
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Sounds good, thank you for uploading the photos! I'm sorry my DSL =
+made it impossible for me to do so :(<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>As for reimbursement, all of the receipts I submitted are accurate. =
+Of course, please let me know if anyone has any questions. =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Thanks, Scott. Talk to you soon! Corey<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+S Stanley [mailto:3g.coordinator@gmail.com] <br><b>Sent:</b> Sunday, =
+October 20, 2013 10:10 PM<br><b>To:</b> Corey Hope =
+Colwell<br><b>Subject:</b> RE: Sunfield Trip =
+Expenses<o:p></o:p></span></p></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p>Hi Corey,<br>Sorry for not =
+replying sooner. Regarding reimbursement, just do what you think is =
+reasonable. My previous request must be weighed against the things I'm =
+ignorant of, such as food being stored for =
+Pioneer.<o:p></o:p></p><p>Regarding your last suggestion about everyone =
+brings their own meal, I'm leaning pretty heavily that way =
+too.<o:p></o:p></p><p>It'll be nice to bounce ideas off of each =
+other.<o:p></o:p></p><p>BTW, your photo disc is in our inbox. Everyone =
+should now have access to all the photos =
+online.<o:p></o:p></p><p>-Scott<o:p></o:p></p><div><p =
+class=3DMsoNormal>On Oct 18, 2013 7:20 PM, &quot;Corey Hope =
+Colwell&quot; &lt;<a =
+href=3D"mailto:coreyhopecolwell@gmail.com">coreyhopecolwell@gmail.com</a>=
+&gt; wrote:<o:p></o:p></p><div><div><p>Hi all, =
+<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>... Contributing some =
+additional ideas for Pioneer &amp; =
+beyond:<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>We are never going to =
+be able to use 100% of what we buy for trips; some perishables are just =
+going to need to be eaten. If the <i>school</i> is paying for these =
+foods in the future, I think we should donate all leftovers to the =
+school for use in aftercare, early childhood, teacher lunches, etc. But =
+I don't think we should ask parents to &quot;buy&quot; them back, unless =
+they really <i>want</i> to (on one of Zoe's trips there was a lot of =
+leftover items that our family used regularly and so this is exactly =
+what we did). Buying back is too confusing, too time consuming, etc. =
+<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>Perhaps=
+ not a popular idea but <i>maybe</i> one to consider: In the future, to =
+save money, time, stress, etc. one real option would be to just have =
+parents send in all meals, snacks, etc for their own child. Only food =
+that doesn't need heating (i.e. breakfast couldn't be eggs or oatmeal). =
+Even if we're doing hot dogs over the fire or whatever, parents can send =
+their kids with their own. No shopping, no preparing, no receipt =
+submissions and reimbursements. All we'd need are a bunch of ice chests =
+and ice.<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>Just a thought =
+:)<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>Corey<o:p></o:p></p><p>&nbsp;=
+<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>-----Original =
+Message-----<br>From: Rachel Rodriguez [mailto:<a =
+href=3D"mailto:teamromama@gmail.com" =
+target=3D"_blank">teamromama@gmail.com</a>] <br>Sent: Friday, October =
+18, 2013 1:56 PM<br>To: Scott and Sanae Stanley<br>Cc: Corey =
+Colwell-Lipson; Lisa Anderson; Mary Spurgin<br>Subject: Re: Sunfield =
+Trip =
+Expenses<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>Scott,<o:p></o:p></p><p=
+>&nbsp;<o:p></o:p></p><p>We had a lot of extra food that Corey bought =
+that she gave out to people when we got back.&nbsp; I think she should =
+just submit her whole shopping bill to school because that is too much =
+to figure =
+out.<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>Rachel<o:p></o:p></p><p>&nb=
+sp;<o:p></o:p></p><p>Sent from my =
+iPhone<o:p></o:p></p><p>&nbsp;<o:p></o:p></p><p>&gt; On Oct 18, 2013, at =
+9:54 AM, Scott and Sanae Stanley &lt;<a =
+href=3D"mailto:3g.coordinator@gmail.com" target=3D"_blank"><span =
+style=3D'color:windowtext;text-decoration:none'>3g.coordinator@gmail.com<=
+/span></a>&gt; wrote:<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; =
+Corey, Lisa, and Rachel,<o:p></o:p></p><p>&gt; Please read the email =
+below for a statement from Seraphina. In short, TCWS will reimburse you =
+for any FOOD related expenses.<o:p></o:p></p><p>&gt; =
+<o:p></o:p></p><p>&gt; However, I have this to add. I'm certain that a =
+portion of the food that was purchased was not ultimately consumed =
+during the trip (either by being eaten or thrown away), and I know this =
+was anticpiated during our chaperone meeting. <o:p></o:p></p><p>&gt; =
+<o:p></o:p></p><p>&gt; When you fill out your reimbursement form, I ask =
+that you consider the real cost to you. That means that if a =
+bottle/jar/package of something was purchased but only a small fraction =
+of that was used for the trip, calculate accordingly. For example, if =
+you bought a (fictitious) jar of pickles for $3 and only used 1/3 of the =
+jar for the trip, claim $3 x 1/3, or $1. When you submit your receipts =
+with the reimbursement form, add the denominator to the line item that =
+you divided, and I'll explain the meaning to Seraphina. I realize this =
+will take extra time on your part, but it's the right thing to =
+do.<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; The next step will be =
+for me to repay you all for the non-food items. I'd like to send out =
+that email this weekend.<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; =
+Please call or email me with your questions.<o:p></o:p></p><p>&gt; =
+<o:p></o:p></p><p>&gt; -Scott<o:p></o:p></p><p>&gt; =
+<o:p></o:p></p><p>&gt; ----- Forwarded message from Seraphina Orzel =
+<o:p></o:p></p><p>&gt; &lt;<a =
+href=3D"mailto:sorzel@threecedarswaldorf.org" target=3D"_blank"><span =
+style=3D'color:windowtext;text-decoration:none'>sorzel@threecedarswaldorf=
+.org</span></a>&gt; -----<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; =
+Date: Thu, 17 Oct 2013 18:24:39 +0000<o:p></o:p></p><p>&gt; From: =
+Seraphina Orzel &lt;<a href=3D"mailto:sorzel@threecedarswaldorf.org" =
+target=3D"_blank"><span =
+style=3D'color:windowtext;text-decoration:none'>sorzel@threecedarswaldorf=
+.org</span></a>&gt;<o:p></o:p></p><p>&gt; To: Scott and Sanae Stanley =
+&lt;<a href=3D"mailto:3g.coordinator@gmail.com" target=3D"_blank"><span =
+style=3D'color:windowtext;text-decoration:none'>3g.coordinator@gmail.com<=
+/span></a>&gt;<o:p></o:p></p><p>&gt; Subject: RE: Sunfield Trip =
+Expenses<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; Dear =
+Scott,<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; Thank you for your =
+email.<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; This trip is =
+relatively new for our school, and it is evident that we have not yet =
+mastered the details of this overnight. Having asked parents to purchase =
+food for this trip was clearly a departure from our current practices to =
+fund field trips entirely out of tuition, as we do state clearly in our =
+tuition contract that parents will not incur any additional charges =
+other than those related to our strings program. For a variety of =
+reasons, we did not include the cost for the food expense associated =
+with this field trip in the class budget, which led to parents being =
+asked to provide funding for the food. In retrospect, this should have =
+been handled differently, and I'm so very sorry for any confusion or =
+financial strain this may have caused you and the Grade 3 class =
+parents.<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; In this light, we =
+feel it is the responsibility of the school to reimburse parents fully =
+for the unplanned expenses they incurred related to food for this trip. =
+This additional expense does not mean that the budget of the class will =
+be reduced, but simply means that the funds will be located elsewhere. =
+Parents are of course very welcome to make a tax deductible donation to =
+the school if they would like to donate the amount they spent on the =
+trip. They can simply add that amount to the annual fund contribution =
+they were already planning on donating. If the class parents who made =
+the purchases wish to be reimbursed, they will simply need to fill out a =
+reimbursement form, with the receipts attached, and submit it to the =
+office.<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; I hope this helps =
+clarify, but please let me know if you have additional questions. Again, =
+I apologize for any confusion that has surrounded the organization of =
+this particular trip and am grateful to be able to benefit from your =
+experience this year to ensure a smoother process for classes to come. =
+Thank you for your support of the school on many levels, and for =
+carrying the Grade 3 class.<o:p></o:p></p><p>&gt; <o:p></o:p></p><p>&gt; =
+Warmly,<o:p></o:p></p><p>&gt; Seraphina<o:p></o:p></p><p>&gt; =
+<o:p></o:p></p><p>&gt; Seraphina Orzel | Director of Administration =
+Three Cedars Waldorf <o:p></o:p></p><p>&gt; School | <a =
+href=3D"tel:425.401.9874" target=3D"_blank">425.401.9874</a> =
+<o:p></o:p></p><p>&gt; <a =
+href=3D"mailto:sorzel@threecedarswaldorf.org%3cmailto:sorzel@threecedarsw=
+aldorf.org" target=3D"_blank"><span =
+style=3D'color:windowtext;text-decoration:none'>sorzel@threecedarswaldorf=
+.org&lt;mailto:sorzel@threecedarswaldorf.org</span></a>&gt; | <a =
+href=3D"http://threecedarswaldorf.org" =
+target=3D"_blank">threecedarswaldorf.org</a>&lt;<a =
+href=3D"http://www.threecedarswaldorf.org/" target=3D"_blank"><span =
+style=3D'color:windowtext;text-decoration:none'>http://www.threecedarswal=
+dorf.org/</span></a>&gt;<o:p></o:p></p></div></div></div></div></body></h=
+tml>
+------=_NextPart_000_0228_01CECE59.32887D20--
+

@@ -1,0 +1,24 @@
+port			"6500"
+music_directory    "/media/audio"
+playlist_directory      "~/.mpd/playlists"
+db_file                 "~/.mpd/mpd.db"
+log_file                "~/.mpd/mpd.log"
+pid_file           "~/.mpd/pid"
+state_file         "~/.mpd/state"
+
+#audio_output {
+#        type    "fifo"
+#        name    "My FIFO"
+#        path    "/tmp/mpd.fifo"
+#}
+
+#audio_output {
+#        type      "aucat"
+#        name      "My OSS Device"
+#        driver    "aucat"
+#}
+#audio_output {
+#        type                    "ao"
+#        name                    "Libao Audio Device"
+#        mixer_type              "software"
+#}

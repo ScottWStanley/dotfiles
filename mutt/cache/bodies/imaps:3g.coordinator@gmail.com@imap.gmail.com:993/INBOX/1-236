@@ -1,0 +1,68 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp310405wjy;
+        Tue, 15 Oct 2013 08:56:25 -0700 (PDT)
+X-Received: by 10.66.162.136 with SMTP id ya8mr43444391pab.110.1381852584397;
+        Tue, 15 Oct 2013 08:56:24 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pa0-x235.google.com (mail-pa0-x235.google.com [2607:f8b0:400e:c03::235])
+        by mx.google.com with ESMTPS id w5si32979404paw.113.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 15 Oct 2013 08:56:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::235 as permitted sender) client-ip=2607:f8b0:400e:c03::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::235 as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x235.google.com with SMTP id kq14so9280086pab.12
+        for <multiple recipients>; Tue, 15 Oct 2013 08:56:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=yrJluQlaHAvXwNze9DVfZlEsCq+tdghSZ4+GuEpt7Yw=;
+        b=Cq7z0rJJf0yvQ1Y2efWy5/uAxqgOYVvyCJAOfgii3zEaahzr5uET0aVHig2+fXsefp
+         +Igwpf+XfdC7f43pKDQlBWEpbJzShCvVOMxbXSXOdPHmF9y3ZXE4WoTdiLjq3fRE7guL
+         pdtAxjaFULQRMvFkR6D6HI4QaDS8LcIMirwriXSNkGJM//i2iD1Qr19KpNMZ1vtv619g
+         m+2pp64GiiYzLpNNNbWNSGrWLuoxaz79b1AyjE+2Ky2JGVrmgVAv1vS6j7/vsGWMVqGF
+         Ysnw17F7+ji2eUSfQMVEF1udtDcga2niYVwwER5o4MrK/maWY1PIDxeOisbeDwEHOAFT
+         5cUA==
+X-Received: by 10.66.190.198 with SMTP id gs6mr43389117pac.49.1381852582849;
+        Tue, 15 Oct 2013 08:56:22 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from [10.231.230.243] (16.sub-174-239-226.myvzw.com. [174.239.226.16])
+        by mx.google.com with ESMTPSA id bp4sm82814361pbb.42.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 15 Oct 2013 08:56:21 -0700 (PDT)
+References: <20131013201642.GB28522@gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <20131013201642.GB28522@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <4BB73331-B2F7-4BD3-8E8F-BA43184CE2D7@gmail.com>
+Cc: Lisa Anderson <lisabadand@hotmail.com>,
+ Rachel Rodriguez <teamromama@gmail.com>
+X-Mailer: iPhone Mail (11A501)
+From: Corey Colwell <coreyhopecolwell@gmail.com>
+Subject: Re: Sunfield reimbursement
+Date: Tue, 15 Oct 2013 08:54:59 -0700
+To: Scott and Sanae Stanley <3g.coordinator@gmail.com>
+
+Sounds great, thank you!!
+
+Sent from my iPhone
+
+> On Oct 13, 2013, at 1:16 PM, Scott and Sanae Stanley <3g.coordinator@gmail=
+.com> wrote:
+>=20
+> Lisa, Corey, and Rachel,
+> Sanae has totaled the trip expenses based on the receipts you all submitte=
+d, and subtracted $100 which the school will be contributing.
+>=20
+> As such, each family's share comes to $54.00, which I'll be requesting on W=
+ednesday. It would be sooner, but I need to talk to Seraphina about a couple=
+ of protocol questions I have first.
+>=20
+> We just wanted you all to know your money is on its way.
+>=20
+> -Scott and Sanae

@@ -1,0 +1,88 @@
+# gmail account
+set imap_pass=`gpg -d .remember.gpg | \
+  awk '/mutt amorphous.yet.not/ {print $3}'`
+set smtp_pass=$imap_pass
+set imap_user = "amorphous.yet.not@gmail.com"
+
+set smtp_url = "smtp://amorphous.yet.not@smtp.gmail.com:587/"
+set from = "scott.w.stanley@gmail.com"
+set realname = "S. Stanley"
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+
+# EDITOR
+set editor = "vim"
+
+# Basic config
+set imap_check_subscribed
+set hostname = gmail.com
+set mail_check = 120
+set timeout = 300
+set imap_keepalive = 300
+set header_cache=~/.mutt/cache/headers
+set message_cachedir=~/.mutt/cache/bodies
+set certificate_file=~/.mutt/certificates
+set move = no
+set include
+set sort = 'threads'
+set sort_aux = 'reverse-last-date-received'
+set auto_tag = yes
+
+ignore "Authentication-Results:"
+ignore "DomainKey-Signature:"
+ignore "DKIM-Signature:"
+
+hdr_order Date From To Cc
+
+bind editor <Tab> complete-query
+bind editor ^T complete
+bind editor <space> noop 
+
+# SIDEBAR
+set sidebar_width=18
+set sidebar_visible=yes
+set sidebar_delim='.'
+# color of folders with new mail
+color sidebar_new yellow default
+
+# ^n/^p to select next/prev folder; ^i to open
+bind index,pager \cp sidebar-prev
+bind index,pager \cn sidebar-next
+bind index,pager \ci sidebar-open
+
+# ABOOK
+set query_command= "abook --mutt-query '%s'"
+macro index,pager a \
+  "<pipe-message>abook --add-email-quiet<return>" \
+  "Add this sender to Abook"
+bind editor        <Tab> complete-query
+
+# VIEW HTML EMAILS
+set mailcap_path 	= ~/.mutt/mailcap
+auto_view text/html
+alternative_order text/plain text/html
+macro attach 'V' \
+  "<pipe-entry>cat >~/.cache/mutt/mail.html && \
+  $BROWSER ~/.cache/mutt/mail.html && rm ~/.cache/mutt/mail.html<enter>"
+
+
+# Shortcuts
+macro index,pager y \
+  "<enter-command>unset trash\n <delete-message>" \
+  "Gmail archive message"
+
+macro index,pager d \
+  "<enter-command>set trash=\"imaps://imap.gmail.com/[GMail]/Trash\"\n <delete-message>" \
+  "Gmail delete message"
+#folder-hook imaps://imap.gmail.com 'set trash="=[Gmail]/Trash"'
+#macro index,pager gi \
+#  "<change-folder>=INBOX<enter>" \
+#  "Go to inbox"
+
+#macro index,pager gd \
+#  "<change-folder>=[Gmail]/Drafts<enter>" \
+#  "Go to drafts"
+
+# source your colors 
+#source ~/.mutt/colors					# colors file
+source ~/.mutt//mutt-colors-solarized/mutt-colors-solarized-dark-256.muttrc

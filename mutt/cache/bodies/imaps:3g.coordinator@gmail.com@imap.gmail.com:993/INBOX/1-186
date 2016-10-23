@@ -1,0 +1,215 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp115057wjy;
+        Mon, 30 Sep 2013 22:23:36 -0700 (PDT)
+X-Received: by 10.66.196.110 with SMTP id il14mr12059385pac.130.1380605015634;
+        Mon, 30 Sep 2013 22:23:35 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pa0-x232.google.com (mail-pa0-x232.google.com [2607:f8b0:400e:c03::232])
+        by mx.google.com with ESMTPS id gx9si3152455pac.40.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 30 Sep 2013 22:23:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::232 as permitted sender) client-ip=2607:f8b0:400e:c03::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::232 as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x232.google.com with SMTP id fb1so6936798pad.9
+        for <multiple recipients>; Mon, 30 Sep 2013 22:23:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=KV5DNbMtcRsuNiu62iIyuqmJO7Hw+GuX5OwMi5zjzjY=;
+        b=OYzOuQ7Ydi2vnuU/NAxBQpaFgjAybxQcXzaIOuWSsGYrZOJRSKCLvnP4D0LbXLUu/Q
+         10+UBDX8NXbzDCY0kvkmoGoqQ6y5YgDo7ZE3n4Et7K3ufjpgRXsoJ2DGtOKtnILkH1Zw
+         KyASeNqDWXkfoTLxNlNFrSHqblg8Fbom04C/rTm4omti2brccntYOixjyOqD0/FUGl6l
+         wpb0fN0V8fL2hMsWlvCG/ymAufMRDdMdR+QxE6mq54uWWbSSVaDkU8o945sYVr476+pA
+         nxxhY29i7jKXe+uBV1MGsn0qPUKWR4heJLvXGFX7noHVydRE9yAf+WYo2wUHq5xE67h+
+         w7SQ==
+X-Received: by 10.68.225.164 with SMTP id rl4mr27801653pbc.100.1380605014418;
+        Mon, 30 Sep 2013 22:23:34 -0700 (PDT)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from [10.229.148.211] (136.sub-174-255-161.myvzw.com. [174.255.161.136])
+        by mx.google.com with ESMTPSA id tx5sm4410871pbc.29.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 30 Sep 2013 22:23:32 -0700 (PDT)
+References: <BAY405-EAS246FFDE8B921D4CEEB70174D4150@phx.gbl>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <BAY405-EAS246FFDE8B921D4CEEB70174D4150@phx.gbl>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-BC4BB73C-E264-4DD4-BCD9-144E3E4AE139
+Content-Transfer-Encoding: 7bit
+Message-Id: <DCB65530-6F39-4557-BE70-9FA4DC9CEAA8@gmail.com>
+Cc: Mary Spurgin <mspurgin@threecedarswaldorf.org>,
+ S Stanley <3g.coordinator@gmail.com>,
+ "maryclausnitzer@gmail.com" <maryclausnitzer@gmail.com>,
+ Jared Parker <jared.parker@live.com>,
+ Rachel Rodriguez <teamromama@gmail.com>
+X-Mailer: iPhone Mail (11A465)
+From: Corey Colwell <coreyhopecolwell@gmail.com>
+Subject: Re: FINAL FARM TRIP GUIDELINES AND GROUPS for CHAPERONES
+Date: Mon, 30 Sep 2013 22:23:20 -0700
+To: lisa anderson <lisabadand@hotmail.com>
+
+
+--Apple-Mail-BC4BB73C-E264-4DD4-BCD9-144E3E4AE139
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+That would be great, thank you!!=20
+
+Sent from my iPhone
+
+> On Sep 30, 2013, at 9:59 PM, lisa anderson <lisabadand@hotmail.com> wrote:=
+
+>=20
+> I will :)
+>=20
+> Sent from my Windows Phone
+> From: Corey Colwell
+> Sent: =E2=80=8E9/=E2=80=8E30/=E2=80=8E2013 9:56 PM
+> To: Mary Spurgin
+> Cc: S Stanley; maryclausnitzer@gmail.com; lisa anderson; Jared Parker; Rac=
+hel Rodriguez
+> Subject: Re: FINAL FARM TRIP GUIDELINES AND GROUPS for CHAPERONES
+>=20
+> Would someone be willing to print a copy for me? We are out of ink and I w=
+on't have a chance to pick some up before Thurs. Thanks so much for letting m=
+e know.
+>=20
+> Sent from my iPhone
+>=20
+> On Sep 30, 2013, at 9:31 PM, Mary Spurgin <mspurgin@threecedarswaldorf.org=
+> wrote:
+>=20
+>> Dear Third Grade Farm Trip Chaperones,
+>>=20
+>> Here is the final packet that I revised after today's meeting.  Please le=
+t me know if you'd like a hard copy instead.  Otherwise, please print and br=
+ing with you on the farm trip.=20
+>>=20
+>> Thank you so much for your time and effort.
+>>=20
+>> With warmth,
+>>=20
+>> =20
+>> =20
+>> Mary Spurgin I Third Grade Teacher
+>> 206 393 8891 I  www.threecedarswaldorf.org
+>> =20
+>> "Love invested is never wasted."
+>> <FARM TRIP MEMO FOR CHAPERONES (2).docx>
+
+--Apple-Mail-BC4BB73C-E264-4DD4-BCD9-144E3E4AE139
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>That would be great, thank you!!&nbsp;=
+<br><br>Sent from my iPhone</div><div><br>On Sep 30, 2013, at 9:59 PM, lisa a=
+nderson &lt;<a href=3D"mailto:lisabadand@hotmail.com">lisabadand@hotmail.com=
+</a>&gt; wrote:<br><br></div><blockquote type=3D"cite"><div>
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+
+
+<div>
+<div style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif">I will :)<br=
+>
+<br>
+Sent from my Windows Phone</div>
+</div>
+<div dir=3D"ltr">
+<hr>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGHT=
+: bold">From:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif"><a h=
+ref=3D"mailto:coreyhopecolwell@gmail.com">Corey Colwell</a></span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGHT=
+: bold">Sent:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif">=E2=80=
+=8E9/=E2=80=8E30/=E2=80=8E2013 9:56 PM</span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGHT=
+: bold">To:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif"><a h=
+ref=3D"mailto:mspurgin@threecedarswaldorf.org">Mary Spurgin</a></span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGHT=
+: bold">Cc:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif"><a h=
+ref=3D"mailto:3g.coordinator@gmail.com">S Stanley</a>;
+<a href=3D"mailto:maryclausnitzer@gmail.com">maryclausnitzer@gmail.com</a>; <=
+a href=3D"mailto:lisabadand@hotmail.com">
+lisa anderson</a>; <a href=3D"mailto:jared.parker@live.com">Jared Parker</a>=
+; <a href=3D"mailto:teamromama@gmail.com">
+Rachel Rodriguez</a></span><br>
+<span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif; FONT-WEIGHT=
+: bold">Subject:
+</span><span style=3D"FONT-SIZE: 11pt; FONT-FAMILY: Calibri,sans-serif">Re: =
+FINAL FARM TRIP GUIDELINES AND GROUPS for CHAPERONES</span><br>
+<br>
+</div>
+<div dir=3D"auto">
+<div>Would someone be willing to print a copy for me? We are out of ink and I=
+ won't have a chance to pick some up before Thurs. Thanks so much for lettin=
+g me know.<br>
+<br>
+Sent from my iPhone</div>
+<div><br>
+On Sep 30, 2013, at 9:31 PM, Mary Spurgin &lt;<a href=3D"mailto:mspurgin@thr=
+eecedarswaldorf.org">mspurgin@threecedarswaldorf.org</a>&gt; wrote:<br>
+<br>
+</div>
+<blockquote type=3D"cite">
+<div>
+<div name=3D"x_divtagdefaultwrapper" id=3D"x_divtagdefaultwrapper" style=3D"=
+font-family:Tw Cen MT; font-size:12pt; color:#000000; margin:0">
+Dear Third Grade Farm Trip Chaperones,
+<div><br>
+</div>
+<div>Here is the final packet that I revised after today's meeting. &nbsp;Pl=
+ease let me know if you'd like a hard copy instead. &nbsp;Otherwise, please p=
+rint and bring with you on the farm trip.&nbsp;</div>
+<div><br>
+</div>
+<div>Thank you so much for your time and effort.</div>
+<div><br>
+</div>
+<div>With warmth,<br>
+<div><br>
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"font-family:Tahoma; font-size:13px">
+<div style=3D"margin:0px"><font color=3D"#008000" size=3D"2" face=3D"Tw Cen M=
+T"><span style=3D"font-size:11pt"></span></font>&nbsp;</div>
+<div style=3D"margin:0px"><font size=3D"2"><span style=3D"font-size:11pt"></=
+span></font>&nbsp;</div>
+<div style=3D"margin:0px"><font color=3D"#003300" size=3D"2" face=3D"Tw Cen M=
+T"><span style=3D"font-size:11pt">Mary Spurgin&nbsp;I Third Grade Teacher</s=
+pan></font></div>
+<div style=3D"margin:0px"><font color=3D"#008000" size=3D"2"><span style=3D"=
+font-size:11pt"><font color=3D"#003300" face=3D"Tw Cen MT">206 393 8891 I&nb=
+sp;&nbsp;</font><a href=3D"http://www.threecedarswaldorf.org/"><font color=3D=
+"#008000" face=3D"Tw Cen MT">www.threecedarswaldorf.org</font></a></span></f=
+ont></div>
+<div style=3D"margin:0px"><font face=3D"Tw Cen MT"><span style=3D"font-size:=
+11pt"></span></font>&nbsp;</div>
+<div style=3D"margin:0px"><font color=3D"#800000" size=3D"4" face=3D"Tw Cen M=
+T"><span style=3D"font-size:11pt"><em>"Love invested is never wasted."</em><=
+/span></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+<blockquote type=3D"cite">
+<div>&lt;FARM TRIP MEMO FOR CHAPERONES (2).docx&gt;</div>
+</blockquote>
+</div>
+
+
+</div></blockquote></body></html>=
+
+--Apple-Mail-BC4BB73C-E264-4DD4-BCD9-144E3E4AE139--

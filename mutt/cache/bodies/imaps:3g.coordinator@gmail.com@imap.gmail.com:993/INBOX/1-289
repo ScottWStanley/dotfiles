@@ -1,0 +1,265 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.75.195 with SMTP id e3csp31354wjw;
+        Fri, 22 Nov 2013 08:07:15 -0800 (PST)
+X-Received: by 10.236.190.199 with SMTP id e47mr12336255yhn.26.1385136435152;
+        Fri, 22 Nov 2013 08:07:15 -0800 (PST)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pa0-x229.google.com (mail-pa0-x229.google.com [2607:f8b0:400e:c03::229])
+        by mx.google.com with ESMTPS id 41si11380566yhf.27.2013.11.22.08.07.14
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 22 Nov 2013 08:07:15 -0800 (PST)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::229 as permitted sender) client-ip=2607:f8b0:400e:c03::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c03::229 as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pa0-x229.google.com with SMTP id lf10so1506647pab.0
+        for <3g.coordinator@gmail.com>; Fri, 22 Nov 2013 08:07:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:thread-index:content-language;
+        bh=klci57YfewTIZ/rGuADie0PiWoBKSKQBP8f2m0kToaI=;
+        b=lZyr9dqTS2ZocL/vYb9L9LdPYUerqoTGhxjF9vZpP+WqpnQjE5H54Ti0JfCwXxyc0g
+         Uf2kRsvbizjR65UrJUrvh7ioDfhNG/hrdyUyurCW8q9HJiHuegKVod3+ZBfKdugUMWuV
+         oFs/YBGg1CLlJzniRqqxNElv6JMNSnWmeIjpVUlaKjBHrElTx6HS9katOrwkHSj+libV
+         N2cyAAFZoPB4s5+0JAe4Q4vd/s/mdgBERZvLgNeixeSmNvjL173OccyyiZ2VCWaR3pMM
+         QE2P1b/jBIUbckPwzw4UkWAlcVrZK9PaejSv/70AlQdFhVaww7GQyMqQSab2iT/fLrxN
+         Mehg==
+X-Received: by 10.66.182.199 with SMTP id eg7mr12926986pac.135.1385136434321;
+        Fri, 22 Nov 2013 08:07:14 -0800 (PST)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from SonyLaptop (71-217-114-33.tukw.qwest.net. [71.217.114.33])
+        by mx.google.com with ESMTPSA id kd1sm61190071pab.20.2013.11.22.08.07.09
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 22 Nov 2013 08:07:13 -0800 (PST)
+From: "Corey Hope Colwell" <coreyhopecolwell@gmail.com>
+To: "'S Stanley'" <3g.coordinator@gmail.com>
+References: <CALT4reeHYwUCu38jwqOR_agCHXJ4zHvg2PJN5ApWZOwzhiGN6Q@mail.gmail.com>	<CALT4refUPH2SQs1kWMmTQFiv1i7NPRHnzZPkW7kZyqewhgy6Nw@mail.gmail.com>	<03cc01cedaaa$5f364250$1da2c6f0$@com>	<CALT4reftrPz76Y=wsiCBe-WaUMjsR0-OFQRUYV3r8XTDCszMbg@mail.gmail.com>	<02f401cee429$e0c21190$a24634b0$@com>	<20131118171051.GE20512@gmail.com>	<018f01cee749$ef4a83f0$cddf8bd0$@com>	<CALT4reeOROQRkyPwf5d24gv7X-iB55obTymeubtKp5C0OHOO9g@mail.gmail.com> <CALT4reeo079Jwq+2RJ2n=JFy9YXYH8xQbyZYd31j3KFmXcnYwg@mail.gmail.com>
+In-Reply-To: <CALT4reeo079Jwq+2RJ2n=JFy9YXYH8xQbyZYd31j3KFmXcnYwg@mail.gmail.com>
+Subject: RE: RE: Playdate
+Date: Fri, 22 Nov 2013 08:07:05 -0800
+Message-ID: <01f001cee79c$ea70ab90$bf5202b0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01CEE759.DC4D6B90"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac7nlTSpNFRBlWM7QLetUFQYrKPiOQAAsMEw
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_01F1_01CEE759.DC4D6B90
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi Sanae -  Sure! We're very open on start time. I'll pack Finn a lunch and
+snack? Thanks so much. My apologies again on the delay in getting back. Hope
+Hannah has a great show tonight! Warmly, Corey
+
+ 
+
+ 
+
+From: S Stanley [mailto:3g.coordinator@gmail.com] 
+Sent: Friday, November 22, 2013 7:12 AM
+To: Corey Hope Colwell
+Subject: Re: RE: Playdate
+
+ 
+
+Hi Corey,
+
+I wish Scott asked me first
+
+11am will be better for all of us, don't you think? 
+
+Sanae
+
+On Nov 22, 2013 6:50 AM, "S Stanley" <3g.coordinator@gmail.com> wrote:
+
+Hi Corey,
+You can bring Finley as early as 10am, and she can stay however long works
+for you (2pm in this case). 
+
+-Scott
+
+On Nov 21, 2013 10:13 PM, "Corey Hope Colwell" <coreyhopecolwell@gmail.com>
+wrote:
+
+Hi! Sorry for the delay... Just waaaaaay too much going on trying to catch
+up from my trip, I'm really behind. Thanks for your understanding.
+
+Ok, so I have to have Finn in Fall City at 3pm, would like to pick her up
+from you no later than 2, but could be earlier anytime. What time would feel
+right for your family/Nikka? We're really open.
+
+Thanks for letting me know! Hope you are all well...
+
+Corey
+
+-----Original Message-----
+From: Scott and Sanae Stanley [mailto:3g.coordinator@gmail.com]
+Sent: Monday, November 18, 2013 9:11 AM
+To: Corey Hope Colwell
+Subject: Playdate
+
+Hi Corey,
+Welcome back. Sunday at our place sounds great; I'll leave the time up to
+you. Stop in for tea if you'd like.
+
+Our condo:
+8017 145th Av. NE
+Redmond, WA 98052
+
+The development is called Cedar Ridge, and it's on the north side of Redmond
+Way, about 500 feet west of 148th Av.
+Once you turn into the complex, go straight (as opposed to taking the
+immediate right); we're in the second building on the left, on the second
+floor.
+
+I'm glad to hear that about Finley; when Nikka opens up a bit more I bet the
+two of them could become good friends.
+
+-Scott
+
+On Sun, Nov 17, 2013 at 10:46:06PM -0800, Corey Hope Colwell wrote:
+> How about next Sunday morning? Here or there? We're open. BTW, Finn
+> has expressed 2 x now how happy she is to be sitting next to Nikka :)
+>
+
+
+------=_NextPart_000_01F1_01CEE759.DC4D6B90
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hi Sanae -&nbsp; Sure! We're very open on start time. I'll pack Finn =
+a lunch and snack? Thanks so much. My apologies again on the delay in =
+getting back. Hope Hannah has a great show tonight! Warmly, =
+Corey<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+S Stanley [mailto:3g.coordinator@gmail.com] <br><b>Sent:</b> Friday, =
+November 22, 2013 7:12 AM<br><b>To:</b> Corey Hope =
+Colwell<br><b>Subject:</b> Re: RE: =
+Playdate<o:p></o:p></span></p></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p>Hi Corey,<o:p></o:p></p><p>I =
+wish Scott asked me first<o:p></o:p></p><p>11am will be better for all =
+of us, don't you think? <o:p></o:p></p><p>Sanae<o:p></o:p></p><div><p =
+class=3DMsoNormal>On Nov 22, 2013 6:50 AM, &quot;S Stanley&quot; &lt;<a =
+href=3D"mailto:3g.coordinator@gmail.com">3g.coordinator@gmail.com</a>&gt;=
+ wrote:<o:p></o:p></p><p>Hi Corey,<br>You can bring Finley as early as =
+10am, and she can stay however long works for you (2pm in this case). =
+<o:p></o:p></p><p>-Scott<o:p></o:p></p><div><p class=3DMsoNormal>On Nov =
+21, 2013 10:13 PM, &quot;Corey Hope Colwell&quot; &lt;<a =
+href=3D"mailto:coreyhopecolwell@gmail.com" =
+target=3D"_blank">coreyhopecolwell@gmail.com</a>&gt; =
+wrote:<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'>Hi! Sorry for the delay... Just waaaaaay =
+too much going on trying to catch<br>up from my trip, I'm really behind. =
+Thanks for your understanding.<br><br>Ok, so I have to have Finn in Fall =
+City at 3pm, would like to pick her up<br>from you no later than 2, but =
+could be earlier anytime. What time would feel<br>right for your =
+family/Nikka? We're really open.<br><br>Thanks for letting me know! Hope =
+you are all well...<br><br>Corey<br><br>-----Original =
+Message-----<br>From: Scott and Sanae Stanley [mailto:<a =
+href=3D"mailto:3g.coordinator@gmail.com" =
+target=3D"_blank">3g.coordinator@gmail.com</a>]<br>Sent: Monday, =
+November 18, 2013 9:11 AM<br>To: Corey Hope Colwell<br>Subject: =
+Playdate<br><br>Hi Corey,<br>Welcome back. Sunday at our place sounds =
+great; I'll leave the time up to<br>you. Stop in for tea if you'd =
+like.<br><br>Our condo:<br>8017 145th Av. NE<br>Redmond, WA =
+98052<br><br>The development is called Cedar Ridge, and it's on the =
+north side of Redmond<br>Way, about 500 feet west of 148th Av.<br>Once =
+you turn into the complex, go straight (as opposed to taking =
+the<br>immediate right); we're in the second building on the left, on =
+the second<br>floor.<br><br>I'm glad to hear that about Finley; when =
+Nikka opens up a bit more I bet the<br>two of them could become good =
+friends.<br><br>-Scott<br><br>On Sun, Nov 17, 2013 at 10:46:06PM -0800, =
+Corey Hope Colwell wrote:<br>&gt; How about next Sunday morning? Here or =
+there? We're open. BTW, Finn<br>&gt; has expressed 2 x now how happy she =
+is to be sitting next to Nikka =
+:)<br>&gt;<o:p></o:p></p></div></div></div></body></html>
+------=_NextPart_000_01F1_01CEE759.DC4D6B90--
+

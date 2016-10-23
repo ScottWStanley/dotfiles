@@ -1,0 +1,219 @@
+Delivered-To: 3g.coordinator@gmail.com
+Received: by 10.194.81.229 with SMTP id d5csp266811wjy;
+        Tue, 5 Nov 2013 20:40:46 -0800 (PST)
+X-Received: by 10.68.217.129 with SMTP id oy1mr1205943pbc.23.1383712844998;
+        Tue, 05 Nov 2013 20:40:44 -0800 (PST)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from mail-pd0-x229.google.com (mail-pd0-x229.google.com [2607:f8b0:400e:c02::229])
+        by mx.google.com with ESMTPS id ei3si15754083pbc.80.2013.11.05.20.40.44
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 05 Nov 2013 20:40:44 -0800 (PST)
+Received-SPF: pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c02::229 as permitted sender) client-ip=2607:f8b0:400e:c02::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of coreyhopecolwell@gmail.com designates 2607:f8b0:400e:c02::229 as permitted sender) smtp.mail=coreyhopecolwell@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-pd0-x229.google.com with SMTP id q10so9720456pdj.28
+        for <3g.coordinator@gmail.com>; Tue, 05 Nov 2013 20:40:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:thread-index:content-language;
+        bh=tutAEMWSP5Qlco+gY1XQGhgOSdm9fu5h5GBcp9TEptk=;
+        b=PpOFbXf9vE+HdaD22B3oXQhvUTwLD+VNzHAv2wPWpHK3Zi1wWhezEcfnhzfCY/0KAH
+         SKoVnI2x7nzNUtrfV+iwyTn2H0qmpODaec8lUcTI4o4qJk9RZw91B3rQyUgRlQbXTf3W
+         7Bdg8k/qGbur2cxlafqHZrWMdUzyn2tnnNziX6ePBHV2OuazxMqqOL6SUUdKQH4YM39c
+         uv6Bj9UN6b5hE6X248mY2T3zO3CR4XaxFYd+vn3FRZAWW16hTzK2My+Y4VRWIOlm9qOn
+         aZ9KqHXTwPMifd44/GFDPc6/5aTMSVO0+dUarak49y4w8wTgKKULMlNZxW3DTER+U3OC
+         GboQ==
+X-Received: by 10.68.130.36 with SMTP id ob4mr1210223pbb.180.1383712844195;
+        Tue, 05 Nov 2013 20:40:44 -0800 (PST)
+Return-Path: <coreyhopecolwell@gmail.com>
+Received: from SonyLaptop (75-165-15-5.tukw.qwest.net. [75.165.15.5])
+        by mx.google.com with ESMTPSA id go4sm38271541pbb.15.2013.11.05.20.40.42
+        for <3g.coordinator@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 05 Nov 2013 20:40:43 -0800 (PST)
+From: "Corey Hope Colwell" <coreyhopecolwell@gmail.com>
+To: "'S Stanley'" <3g.coordinator@gmail.com>
+References: <CALT4reeHYwUCu38jwqOR_agCHXJ4zHvg2PJN5ApWZOwzhiGN6Q@mail.gmail.com> <CALT4refUPH2SQs1kWMmTQFiv1i7NPRHnzZPkW7kZyqewhgy6Nw@mail.gmail.com>
+In-Reply-To: <CALT4refUPH2SQs1kWMmTQFiv1i7NPRHnzZPkW7kZyqewhgy6Nw@mail.gmail.com>
+Subject: RE: Water?
+Date: Tue, 5 Nov 2013 20:40:50 -0800
+Message-ID: <03cc01cedaaa$5f364250$1da2c6f0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_03CD_01CEDA67.51130250"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac7anim4/EsSVgV6Qm22nQ2N5J5qoQAAZGQg
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_03CD_01CEDA67.51130250
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi Scott,
+
+ 
+
+I'm really sorry to hear you've been sick! Awful stuff going around. Hope
+you feel 100% soon. 
+
+ 
+
+I believe we included everything. Some of the receipts were hand written b/c
+Ryan accidentally bought the stuff along with other stuff for our family so
+he just noted the cost of the items. Do you have our stack of receipts
+separated or are they still together? So sorry this has been a pain for you
+:(
+
+ 
+
+Also, while I have you - I'm wondering what you might think of another
+playdate with Nikka and Finn. The next few weeks are pretty full for our
+family so it might take time to schedule, but if you are open, let me know
+and we can discuss.
+
+ 
+
+Thanks, Scott! Talk to you soon...
+
+
+Corey
+
+ 
+
+From: S Stanley [mailto:3g.coordinator@gmail.com] 
+Sent: Tuesday, November 5, 2013 7:13 PM 
+To: Corey Colwell-Lipson 
+Subject: Water?
+
+ 
+
+Hi Corey,
+
+
+Sanae wants to know if you claimed your water purchase on the TCWS
+reimbursement form.
+
+Sorry I've been out of touch; I've been sick.
+
+-Scott
+
+
+------=_NextPart_000_03CD_01CEDA67.51130250
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hi Scott,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>I'm really sorry to hear you've been sick! Awful stuff going around. =
+Hope you feel 100% soon. <o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>I believe we included everything. Some of the receipts were hand =
+written b/c Ryan accidentally bought the stuff along with other stuff =
+for our family so he just noted the cost of the items. Do you have our =
+stack of receipts separated or are they still together? So sorry this =
+has been a pain for you :(<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Also, while I have you - I'm wondering what you might think of =
+another playdate with Nikka and Finn. The next few weeks are pretty full =
+for our family so it might take time to schedule, but if you are open, =
+let me know and we can discuss.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Thanks, Scott! Talk to you soon...<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><br>Corey<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+S Stanley [mailto:3g.coordinator@gmail.com] <br><b>Sent:</b> Tuesday, =
+November 5, 2013 7:13 PM <br><b>To:</b> Corey Colwell-Lipson =
+<br><b>Subject:</b> Water?<o:p></o:p></span></p></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p>Hi Corey,<span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p><br>Sanae wants to know =
+if you claimed your water purchase on the TCWS reimbursement form.<span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p>Sorry I've been out of =
+touch; I've been =
+sick.<o:p></o:p></p><p>-Scott<o:p></o:p></p></div></body></html>
+------=_NextPart_000_03CD_01CEDA67.51130250--
+

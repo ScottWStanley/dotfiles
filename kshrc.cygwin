@@ -1,0 +1,135 @@
+### gnu ls colors ###
+# no    NORMAL, NORM            Global default
+# fi    FILE                    Normal file
+# di    DIR                     Directory
+# ln    SYMLINK, LINK, LNK
+# pi    FIFO, PIPE              Named pipe
+# do    DOOR                    Door
+# bd    BLOCK, BLK              Block device
+# cd    CHAR, CHR               Character device
+# or    ORPHAN                  Symbolic link pointing to a non-existent file
+# so    SOCK                    Socket
+# su    SETUID                  File that is setuid (u+s)
+# sg    SETGID                  File that is setgid (g+s)
+# tw    STICKY_OTHER_WRITABLE   Directory that is sticky and other-writable (+t,o+w)
+# ow    OTHER_WRITABLE          Directory that is other-writable (o+w) and not sticky
+# st    STICKY                  Directory with the sticky bit set (+t) and not other-writable
+# ex    EXEC                    Executable file (i.e. has ‘x’ set in permissions)
+# mi    MISSING                 Non-existent file pointed to by a symbolic link (visible when you type ls -l)
+# lc    LEFTCODE, LEFT          Opening terminal code
+# rc    RIGHTCODE, RIGHT        Closing terminal code
+# ec    ENDCODE, END            Non-filename text
+# *.ext                         Every file using this extension e.g. *.jpg
+
+#  Effects
+#  00      Default colour
+#  01      Bold
+#  04      Underlined
+#  05      Flashing text
+#  07      Reversetd
+#  08      Concealed
+
+#  Colours
+#  30      Black
+#  31      Red
+#  32      Green
+#  33      Orange
+#  34      Blue
+#  35      Purple
+#  36      Cyan
+#  37      Grey
+
+#  Backgrounds
+#  40      Black background
+#  41      Red background
+#  42      Green background
+#  43      Orange background
+#  44      Blue background
+#  45      Purple background
+#  46      Cyan background
+#  47      Grey background
+
+#  Extra colours
+#  90      Dark grey
+#  91      Light red
+#  92      Light green
+#  93      Yellow
+#  94      Light blue
+#  95      Light purple
+#  96      Turquoise
+#  97      White
+#  100     Dark grey background
+#  101     Light red background
+#  102     Light green background
+#  103     Yellow background
+#  104     Light blue background
+#  105     Light purple background
+#  106     Turquoise background
+
+
+CLICOLOR="YES"
+LS_COLORS='no=00:di=34;01:tw=33;01:ow=33;01'
+LS_COLORS=$LS_COLORS':fi=00:ln=00:pi=00:so=00:bd=00:cd=00:or=00:mi=00:ex=00'
+LS_COLORS=$LS_COLORS':*.sh=31:*.sh=31:*.exe=31:*.bat=31:*.com=31'
+#LS_COLORS=$LS_COLORS':*.xlsx=32:*.pptx=33:*.docx=94:*.iam=93:*.ipt=93:*.pdf=31'
+
+# ENVIRONMENT
+CALENDAR_DIR=$HOME/.calendar
+EDITOR=/usr/bin/vi
+GREP_COLOR="1;33"
+HISTCONTROL="ignoredups" # Don't put duplicate lines in the history.
+HISTIGNORE="&:ls:ls *:[bf]g:exit"
+HISTFILE=~/.sh_history
+HOME=/home/sstanley
+INPUTRC=~/.inputrc
+LOCATE_PATH=$HOME/.locate.db
+LYNX_CFG=~/.lynx.cfg
+PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/X11R6/bin:/usr/local/bin:/usr/local/sbin:
+PAGER=/usr/bin/less
+PROMPT_COMMAND="history -a"
+TERM=xterm-color
+VISUAL=/usr/bin/vi
+
+PSCYAN='\033[0;36m'
+PSBROWN='\033[0;33m'
+PSPLAIN='\033[1;0m'
+PS1='$(printf "$PSCYAN[$PSBROWN%s $PSCYAN%s $PSBROWN%s]$PSPLAIN\n\$ " $(logname) $(hostname) $(pwd))'
+
+export \
+CALENDAR_DIR CLICOLOR EDITOR GREP_COLOR HISTCONTROL HISTIGNORE HOME INPUTRC \
+LOCATE_PATH LS_COLORS LYNX_CFG PATH PAGER PKG_PATH PROMPT_COMMAND PS1 TERM VISUAL
+
+set -o vi
+
+# Aliases - to override the alias instruction use \
+# i.e. \rm will call the real rm not the alias.
+alias cl='clear'
+#alias shutdown='unison -batch;sudo shutdown -hp now'
+alias mkdir='mkdir -p'
+alias h='history'
+alias pingu='ping google.com'
+alias du='du -sh'
+alias df="df -h"
+alias ping="ping -c 3"
+alias ..="cd .." 
+alias t2p="tiff2pdf -o"
+#alias ls="ls --color"                   # Linux equivalent
+alias ls='ls -A --color=auto --group-directories-first'
+alias ll="ls -lh"                       # long list
+alias la='ls -AFG'
+alias lm="la | more"
+alias lr="ls -R"                        # recursive ls
+
+alias asdf="setxkbmap dvorak; echo 'Dvorak' #| wmiir create /lbar/layout"
+alias aoeu="setxkbmap us; echo 'QWERTY' #| wmiir create /lbar/layout"
+alias grep='grep -I' # ignore binary files
+alias cal="cal -m"
+alias head="sed 11q"a
+alias tmux="ssh scott@crocodile -t 'tmux attach'"
+alias t="todo.sh"
+alias o="cygstart"
+
+# Calculator Function
+#calc(){ awk "BEGIN{ print $* }" ;}
+
+cd
